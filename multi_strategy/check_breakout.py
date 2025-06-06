@@ -5,6 +5,13 @@ from sqlalchemy import create_engine
 engine = create_engine(MYSQL_URL)
 
 
+# 导入 logger 模块
+from ..logger import setup_logger
+
+# 初始化 logger
+logger = setup_logger(__name__)
+
+
 def check_breakout(ts_code, current_date):
     sql = """
     SELECT trade_date, open, close, pre_close, vol

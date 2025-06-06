@@ -1,9 +1,15 @@
-# strategies.py
+import os
+import sys
+
+sys.path.insert(0, os.path.abspath("../"))
+
 from typing import List
 
 import pandas as pd
 from config import MYSQL_URL
 from sqlalchemy import create_engine
+
+from utils.logger import logger
 
 engine = create_engine(MYSQL_URL)
 
@@ -23,7 +29,12 @@ def strategy_check_breakout_batch(trade_date: str):
     WHERE trade_date <= %(date)s
     ORDER BY ts_code, trade_date DESC
     """
-    df_all = pd.read_sql(sql, engine, params={"date": trade_date})
+    try:
+        df_all = pd.read_sql(sql, engine, params={"date": trade_date})
+        logger.info("成功从数据库获取数据")
+    except Exception as e:
+        logger.error(f"数据库查询失败: {e}")
+        return pd.DataFrame()
 
     # 按股票分组分析
     results = []
@@ -101,17 +112,15 @@ def strategy_top_gainers(trade_date: str) -> pd.DataFrame:
     return df.reset_index(drop=True)
 
 
-def strategy_plate_breakout(trade_date: str) -> pd.DataFrame:
+def strategy_plate_breakout_post_close(trade_date: str) -> pd.DataFrame:
     """
-    策略3：平台突破 + 放量启动
-    适合：突破即买，次日卖出捕捉主升浪起点
-        •	连续横盘震荡（10日内波动窄幅）
-        •	今日涨幅 > 4%、成交量是5日均量的1.5倍以上
-        •	收盘价突破10日最高价
-    非常适合 T+1 卖出
-        •	原因：
-        •	明确设计为“突破即买，次日卖”，配合平台整理突破逻辑。
-        •	很多主升浪起点，次日容易出现加速上涨，可高抛。
+    策略3：平台突破 + 放量启动（盘后版）
+    这里的今日就是最近的已结束的交易日
+    逻辑条件：
+        1. 过去10日高点构成平台
+        2. 今日收盘价突破10日最高价
+        3. 今日涨幅 > 4%
+        4. 今日成交量 > 过去5日均量的1.5倍
     """
     sql = """
     SELECT ts_code, trade_date, close, high, vol
@@ -125,14 +134,25 @@ def strategy_plate_breakout(trade_date: str) -> pd.DataFrame:
     result = []
     for ts_code, group in df.groupby("ts_code"):
         group = group.tail(20).copy()
-        if len(group) < 10:
+
+        if len(group) < 11:
             continue
+
         group["avg_vol_5"] = group["vol"].rolling(5).mean()
+
         last = group.iloc[-1]
+        prev = group.iloc[-2]
         max_high_10 = group["high"].iloc[:-1].max()
 
-    if last["close"] > max_high_10 and last["vol"] > 1.5 * last["avg_vol_5"]:
-        result.append({"ts_code": ts_code, "strategy": "plate_breakout"})
+        pct_change = (last["close"] - prev["close"]) / prev["close"] * 100
+
+        if (
+            last["close"] > max_high_10 and
+            last["vol"] > 1.5 * last["avg_vol_5"] and
+            pct_change > 4
+        ):
+            result.append({"ts_code": ts_code, "strategy": "plate_breakout_post_close"})
+
     return pd.DataFrame(result)
 
 
@@ -236,7 +256,8 @@ def strategy_first_limit_up_low_position(trade_date: str) -> pd.DataFrame:
 ALL_STRATEGIES = [
     strategy_check_breakout_batch,
     strategy_top_gainers,
-    strategy_plate_breakout,
-    strategy_macd_golden_cross,
-    strategy_first_limit_up_low_position,
+    strategy_plate_breakout_post_close,
+    # 将长线暂停
+    # strategy_macd_golden_cross,
+    # strategy_first_limit_up_low_position,
 ]

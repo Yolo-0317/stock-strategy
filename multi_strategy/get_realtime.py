@@ -39,7 +39,10 @@ def get_realtime_info(code, trade_date):
         "_": str(int(time.time() * 1000)),
     }
 
-    headers = {"User-Agent": "Mozilla/5.0"}
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+        "host": "push2his.eastmoney.com",
+    }
 
     response = requests.get(url, params=params, headers=headers)
     match = re.search(r"jQuery\d+_\d+\((.*)\);?", response.text)
@@ -69,4 +72,4 @@ def get_realtime_info(code, trade_date):
 
 
 if __name__ == "__main__":
-    print(get_realtime_info("873527", "2025-06-05"))
+    print(get_realtime_info("873527", "20250605"))

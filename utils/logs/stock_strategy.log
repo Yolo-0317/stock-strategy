@@ -1,0 +1,71 @@
+2025-06-06 18:45:06,214 - stock_strategy - INFO - 
+🕒 当前时间: 18:45，判断逻辑触发中…
+2025-06-06 18:45:06,214 - stock_strategy - INFO - 🌇 [盘后] 执行非实时选股
+2025-06-06 18:45:06,214 - stock_strategy - INFO - 
+===== 执行选股和非实时买入流程: 20250607 =====
+2025-06-06 18:45:19,210 - stock_strategy - INFO - 成功从数据库获取数据
+2025-06-06 18:45:22,282 - stock_strategy - INFO - 【strategy_check_breakout_batch】命中数量: 11
+2025-06-06 18:45:23,748 - stock_strategy - INFO - 【strategy_top_gainers】命中数量: 29
+2025-06-06 18:45:33,938 - stock_strategy - INFO - 【strategy_plate_breakout】命中数量: 60
+2025-06-06 18:45:51,710 - stock_strategy - INFO - 
+🕒 当前时间: 18:45，判断逻辑触发中…
+2025-06-06 18:45:51,711 - stock_strategy - INFO - 🌇 [盘后] 执行非实时选股
+2025-06-06 18:45:51,711 - stock_strategy - INFO - 
+===== 执行选股和非实时买入流程: 20250607 =====
+2025-06-06 18:46:03,444 - stock_strategy - INFO - 成功从数据库获取数据
+2025-06-06 18:46:06,407 - stock_strategy - INFO - 【strategy_check_breakout_batch】命中数量: 11
+2025-06-06 18:46:07,849 - stock_strategy - INFO - 【strategy_top_gainers】命中数量: 29
+2025-06-06 18:46:18,138 - stock_strategy - INFO - 【strategy_plate_breakout】命中数量: 60
+2025-06-06 18:46:27,728 - stock_strategy - INFO - 【strategy_macd_golden_cross】命中数量: 52
+2025-06-06 18:46:38,190 - stock_strategy - INFO - 【strategy_first_limit_up_low_position】命中数量: 0
+2025-06-06 18:46:54,215 - stock_strategy - INFO - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks_20250607.csv
+2025-06-06 19:05:15,788 - stock_strategy - INFO - 成功从数据库获取数据
+2025-06-06 19:06:49,839 - stock_strategy - INFO - strategies.py:34 - strategy_check_breakout_batch - 成功从数据库获取数据
+2025-06-06 19:07:58,313 - stock_strategy - INFO - strategies.py:34 - strategy_check_breakout_batch - 成功从数据库获取数据
+2025-06-06 19:08:01,899 - stock_strategy - INFO - main.py:38 - run_all_strategies_with_confirmation - 【strategy_check_breakout_batch】命中数量: 11
+2025-06-06 19:08:03,296 - stock_strategy - INFO - main.py:38 - run_all_strategies_with_confirmation - 【strategy_top_gainers】命中数量: 29
+2025-06-06 19:08:13,504 - stock_strategy - INFO - main.py:38 - run_all_strategies_with_confirmation - 【strategy_plate_breakout】命中数量: 60
+2025-06-06 19:08:50,110 - stock_strategy - INFO - main.py:200 - run_by_time - 
+🕒 当前时间: 19:08，判断逻辑触发中…
+2025-06-06 19:08:50,110 - stock_strategy - INFO - main.py:211 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-06-06 19:08:50,110 - stock_strategy - INFO - main.py:27 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250607 =====
+2025-06-06 19:09:01,456 - stock_strategy - INFO - strategies.py:34 - strategy_check_breakout_batch - 成功从数据库获取数据
+2025-06-06 19:09:04,432 - stock_strategy - INFO - main.py:38 - run_all_strategies_with_confirmation - 【strategy_check_breakout_batch】命中数量: 11
+2025-06-06 19:09:05,830 - stock_strategy - INFO - main.py:38 - run_all_strategies_with_confirmation - 【strategy_top_gainers】命中数量: 29
+2025-06-06 19:09:15,844 - stock_strategy - INFO - main.py:38 - run_all_strategies_with_confirmation - 【strategy_plate_breakout】命中数量: 60
+2025-06-06 19:09:26,432 - stock_strategy - INFO - main.py:102 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks_20250607.csv
+2025-06-06 19:40:37,636 - stock_strategy - INFO - main.py:200 - run_by_time - 
+🕒 当前时间: 19:40，判断逻辑触发中…
+2025-06-06 19:40:37,636 - stock_strategy - INFO - main.py:211 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-06-06 19:40:37,636 - stock_strategy - INFO - main.py:27 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250607 =====
+2025-06-06 19:40:51,065 - stock_strategy - INFO - strategies.py:34 - strategy_check_breakout_batch - 成功从数据库获取数据
+2025-06-06 19:40:53,990 - stock_strategy - INFO - main.py:38 - run_all_strategies_with_confirmation - 【strategy_check_breakout_batch】命中数量: 11
+2025-06-06 19:40:55,379 - stock_strategy - INFO - main.py:38 - run_all_strategies_with_confirmation - 【strategy_top_gainers】命中数量: 29
+2025-06-06 19:41:05,113 - stock_strategy - INFO - main.py:38 - run_all_strategies_with_confirmation - 【strategy_plate_breakout】命中数量: 60
+2025-06-06 19:41:15,853 - stock_strategy - INFO - main.py:102 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250607.csv
+2025-06-06 19:59:41,638 - stock_strategy - INFO - main.py:200 - run_by_time - 
+🕒 当前时间: 19:59，判断逻辑触发中…
+2025-06-06 19:59:41,639 - stock_strategy - INFO - main.py:211 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-06-06 19:59:41,639 - stock_strategy - INFO - main.py:27 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250607 =====
+2025-06-06 19:59:53,275 - stock_strategy - INFO - strategies.py:34 - strategy_check_breakout_batch - 成功从数据库获取数据
+2025-06-06 19:59:56,207 - stock_strategy - INFO - main.py:38 - run_all_strategies_with_confirmation - 【strategy_check_breakout_batch】命中数量: 11
+2025-06-06 19:59:57,597 - stock_strategy - INFO - main.py:38 - run_all_strategies_with_confirmation - 【strategy_top_gainers】命中数量: 29
+2025-06-06 19:59:59,020 - stock_strategy - INFO - main.py:102 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250607.csv
+2025-06-06 20:02:15,100 - stock_strategy - INFO - main.py:200 - run_by_time - 
+🕒 当前时间: 20:02，判断逻辑触发中…
+2025-06-06 20:02:15,100 - stock_strategy - INFO - main.py:211 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-06-06 20:02:15,100 - stock_strategy - INFO - main.py:27 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250607 =====
+2025-06-06 20:02:26,593 - stock_strategy - INFO - strategies.py:34 - strategy_check_breakout_batch - 成功从数据库获取数据
+2025-06-06 20:02:30,300 - stock_strategy - INFO - main.py:38 - run_all_strategies_with_confirmation - 【strategy_check_breakout_batch】命中数量: 11
+2025-06-06 20:02:31,765 - stock_strategy - INFO - main.py:38 - run_all_strategies_with_confirmation - 【strategy_top_gainers】命中数量: 29
+2025-06-06 20:02:41,928 - stock_strategy - INFO - main.py:38 - run_all_strategies_with_confirmation - 【strategy_plate_breakout_post_close】命中数量: 60
+2025-06-06 20:02:53,066 - stock_strategy - INFO - main.py:102 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250607.csv

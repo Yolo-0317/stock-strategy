@@ -4,8 +4,12 @@ from datetime import datetime, timedelta
 import pandas as pd
 import tushare as ts
 from config import MYSQL_URL, TUSHARE_TOKEN
+
+# 加载表元信息
+from models import StockDaily  # 假设你已定义 ORM 类
 from sqlalchemy import create_engine
 from sqlalchemy.dialects.mysql import insert
+from sqlalchemy.orm import sessionmaker
 
 # 初始化 Tushare 和数据库连接
 ts.set_token(TUSHARE_TOKEN)
@@ -43,10 +47,6 @@ def save_to_mysql(df: pd.DataFrame):
     df = df[["ts_code", "trade_date", "open", "high", "low", "close", "pre_close", "vol", "amount"]].copy()
     df["trade_date"] = pd.to_datetime(df["trade_date"])
     df["update_time"] = datetime.now()
-
-    # 加载表元信息
-    from models import StockDaily  # 假设你已定义 ORM 类
-    from sqlalchemy.orm import sessionmaker
 
     Session = sessionmaker(bind=engine)
     session = Session()

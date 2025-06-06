@@ -1,0 +1,66 @@
+﻿股票代码,现价,昨收,策略数量,策略名称
+002486.SZ,2.51,2.52,1,strategy_macd_golden_cross
+000509.SZ,3.32,3.35,1,strategy_macd_golden_cross
+603557.SH,3.37,3.32,1,strategy_macd_golden_cross
+002141.SZ,3.6,3.5,1,strategy_macd_golden_cross
+002370.SZ,3.74,3.95,1,strategy_top_gainers
+002969.SZ,3.83,4.07,2,"strategy_check_breakout_batch, strategy_top_gainers"
+002634.SZ,4.11,4.13,1,strategy_macd_golden_cross
+600601.SH,4.67,4.72,1,strategy_top_gainers
+002659.SZ,4.87,4.94,1,strategy_macd_golden_cross
+603176.SH,5.26,5.45,2,"strategy_check_breakout_batch, strategy_top_gainers"
+002712.SZ,5.55,5.61,1,strategy_macd_golden_cross
+000665.SZ,5.82,5.5,1,strategy_top_gainers
+002491.SZ,5.92,5.69,2,"strategy_top_gainers, strategy_macd_golden_cross"
+000530.SZ,5.97,6.04,1,strategy_top_gainers
+002546.SZ,6.02,5.47,1,strategy_top_gainers
+002587.SZ,6.21,6.23,1,strategy_macd_golden_cross
+000701.SZ,6.66,6.05,1,strategy_top_gainers
+002446.SZ,6.91,6.98,1,strategy_macd_golden_cross
+603113.SH,6.91,6.87,1,strategy_macd_golden_cross
+603660.SH,7.09,7.07,1,strategy_macd_golden_cross
+002658.SZ,7.25,7.3,2,"strategy_check_breakout_batch, strategy_macd_golden_cross"
+001258.SZ,7.44,7.57,1,strategy_top_gainers
+605066.SH,7.95,7.81,1,strategy_top_gainers
+600589.SH,8.0,7.69,1,strategy_top_gainers
+002057.SZ,8.31,8.35,1,strategy_macd_golden_cross
+600037.SH,8.37,8.48,1,strategy_top_gainers
+002115.SZ,8.48,8.57,1,strategy_top_gainers
+605299.SH,9.28,9.91,2,"strategy_check_breakout_batch, strategy_top_gainers"
+603106.SH,9.61,9.8,1,strategy_top_gainers
+600739.SH,10.81,10.88,1,strategy_macd_golden_cross
+600818.SH,11.3,11.64,1,strategy_macd_golden_cross
+002951.SZ,12.34,11.22,1,strategy_top_gainers
+605018.SH,12.68,12.82,1,strategy_top_gainers
+002184.SZ,13.38,13.05,1,strategy_top_gainers
+605298.SH,13.68,13.82,1,strategy_top_gainers
+600178.SH,13.72,13.57,1,strategy_macd_golden_cross
+000426.SZ,15.06,14.25,1,strategy_macd_golden_cross
+000532.SZ,15.25,15.15,1,strategy_macd_golden_cross
+603679.SH,15.6,14.18,1,strategy_top_gainers
+002957.SZ,16.18,16.35,1,strategy_macd_golden_cross
+603151.SH,,17.12,1,strategy_macd_golden_cross
+301197.SZ,18.1,19.63,1,strategy_top_gainers
+603585.SH,19.06,17.33,2,"strategy_top_gainers, strategy_macd_golden_cross"
+603595.SH,19.45,19.44,1,strategy_macd_golden_cross
+001231.SZ,19.82,19.63,1,strategy_macd_golden_cross
+001222.SZ,19.99,20.28,1,strategy_macd_golden_cross
+601138.SH,20.42,20.56,1,strategy_macd_golden_cross
+002932.SZ,20.55,21.46,1,strategy_top_gainers
+001379.SZ,21.95,22.65,2,"strategy_top_gainers, strategy_macd_golden_cross"
+002265.SZ,22.06,22.52,1,strategy_top_gainers
+831175.BJ,24.19,25.28,1,strategy_top_gainers
+002981.SZ,25.49,26.09,1,strategy_top_gainers
+301377.SZ,28.92,30.82,1,strategy_top_gainers
+002466.SZ,30.47,30.26,1,strategy_macd_golden_cross
+002384.SZ,31.0,31.1,1,strategy_macd_golden_cross
+601628.SH,39.77,39.76,1,strategy_macd_golden_cross
+002335.SZ,43.24,42.46,1,strategy_top_gainers
+603083.SH,44.01,41.83,1,strategy_top_gainers
+301306.SZ,48.36,44.92,1,strategy_top_gainers
+001389.SZ,53.38,53.33,1,strategy_top_gainers
+603991.SH,63.16,63.79,1,strategy_top_gainers
+301196.SZ,67.65,70.65,1,strategy_top_gainers
+603392.SH,75.14,78.36,1,strategy_top_gainers
+839493.BJ,165.95,157.8,1,strategy_top_gainers
+603129.SH,197.71,200.14,1,strategy_macd_golden_cross

@@ -1,68 +1,90 @@
 import time
-from datetime import datetime
+from datetime import datetime, timedelta
 
-import pymysql
-import requests
-import schedule
-from config import DB_CONFIG
+from config import MYSQL_URL
+from get_realtime import get_realtime_info
+from sqlalchemy import create_engine, text
+from sqlalchemy.orm import sessionmaker
 
-
-def get_realtime_price(ts_code: str) -> float | None:
-    market_prefix = "sz" if ts_code.endswith(".SZ") else "sh"
-    code = market_prefix + ts_code[:6]
-    url = f"https://qt.gtimg.cn/q={code}"
-    try:
-        resp = requests.get(url, timeout=5)
-        data = resp.text.split("~")
-        return float(data[3])  # 当前价格
-    except Exception as e:
-        print(f"实时获取 {ts_code} 失败：{e}")
-        return None
+engine = create_engine(MYSQL_URL)
+Session = sessionmaker(bind=engine)
 
 
-def sell_stock(conn, stock, sell_price, reason):
-    cursor = conn.cursor()
-    cursor.execute(
-        """
-        UPDATE holding_stock
-        SET status = 'sold', sell_price = %s, sell_date = %s, reason = %s
-        WHERE id = %s
-    """,
-        (sell_price, datetime.now().date(), reason, stock["id"]),
-    )
-    conn.commit()
-    print(f"[SELL] {stock['ts_code']} | {reason} | {sell_price:.2f}")
+def is_rising_in_recent_ticks(ts_code: str, minutes: int = 5) -> bool:
+    since = datetime.now() - timedelta(minutes=minutes)
+    with engine.connect() as conn:
+        df = pd.read_sql(
+            text(
+                """
+                SELECT timestamp, price FROM realtime_ticks
+                WHERE ts_code = :ts_code AND timestamp >= :since
+                ORDER BY timestamp ASC
+                """
+            ),
+            conn,
+            params={"ts_code": ts_code, "since": since},
+        )
+    if len(df) < 3:
+        return False
+    return all(df["price"].iloc[i] <= df["price"].iloc[i + 1] for i in range(len(df) - 1))
 
 
 def check_sell_opportunity():
     print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] 开始检查持仓止盈止损条件")
-    conn = pymysql.connect(**DB_CONFIG)
-    cursor = conn.cursor(pymysql.cursors.DictCursor)
 
-    cursor.execute("SELECT * FROM holding_stock WHERE status = 'holding'")
-    holdings = cursor.fetchall()
+    session = Session()
+    try:
+        holdings = ["604083", "601628", "603585", "605018", "603106"]
 
-    for stock in holdings:
-        price = get_realtime_price(stock["ts_code"])
-        if not price:
-            continue
+        for stock in holdings:
+            ts_code = stock.ts_code
+            buy_price = stock.buy_price
 
-        change_pct = (price - stock["buy_price"]) / stock["buy_price"] * 100
+            try:
+                info = get_realtime_info(ts_code, datetime.now().strftime("%Y-%m-%d"))
+                if not info:
+                    print(f"{ts_code} 实时行情获取失败，跳过")
+                    continue
+            except Exception as e:
+                print(f"{ts_code} 获取实时行情异常: {e}")
+                continue
 
-        if change_pct >= 12:
-            sell_stock(conn, stock, price, "止盈")
-        elif change_pct <= -6:
-            sell_stock(conn, stock, price, "止损")
+            current_price = info.get("当前")
+            if current_price is None:
+                continue
 
-    conn.close()
+            change_pct = (current_price - buy_price) / buy_price * 100
 
+            # 基础止盈止损判断
+            if change_pct >= 12:
+                reason = "止盈（涨超12%）"
+            elif change_pct <= -6:
+                reason = "止损（跌超6%）"
+            else:
+                # 结合之前的策略判断卖出信号，比如：
+                # 如果价格不再持续上涨或者成交量明显缩小，可以考虑卖出（示例逻辑）
+                if not is_rising_in_recent_ticks(ts_code, 5):
+                    reason = "价格不再持续上涨，建议止盈"
+                else:
+                    # 其他策略判断继续持有
+                    continue
 
-# 每 N 分钟执行一次（比如 1 分钟）
-schedule.every(30).seconds.do(check_sell_opportunity)
+            print(f"[SELL] {ts_code} | {reason} | {current_price:.2f}")
+
+    except Exception as e:
+        session.rollback()
+        print(f"检查卖出机会异常: {e}")
+    finally:
+        session.close()
+
 
 if __name__ == "__main__":
-    print("启动实时监控服务...")
-    check_sell_opportunity()  # 启动时先执行一次
+    import schedule
+
+    print("启动实时卖出监控服务...")
+    check_sell_opportunity()
+    schedule.every(1).minutes.do(check_sell_opportunity)
+
     while True:
         schedule.run_pending()
         time.sleep(1)
