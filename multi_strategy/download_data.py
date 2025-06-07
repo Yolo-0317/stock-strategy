@@ -24,7 +24,7 @@ def update_stock(ts_code):
         last_record = (
             session.query(StockDaily).filter_by(ts_code=ts_code).order_by(StockDaily.trade_date.desc()).first()
         )
-        start_date = last_record.trade_date.strftime("%Y%m%d") if last_record else "20220101"
+        start_date = last_record.trade_date.strftime("%Y%m%d") if last_record else "20240101"
 
         df = pro.daily(ts_code=ts_code, start_date=start_date)
         if df.empty:
@@ -32,6 +32,10 @@ def update_stock(ts_code):
 
         # 只保留字段
         df = df[["ts_code", "trade_date", "open", "high", "low", "close", "pre_close", "vol", "amount"]]
+
+        # 拆分 ts_code 为股票代码和交易所代码
+        df['exch_code'] = df['ts_code'].str.split('.').str[1]  # 提取交易所代码
+        df['ts_code'] = df['ts_code'].str.split('.').str[0]    # 只保留股票代码
 
         df["trade_date"] = pd.to_datetime(df["trade_date"])
         df["update_time"] = datetime.now()

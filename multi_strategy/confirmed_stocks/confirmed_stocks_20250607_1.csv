@@ -1,0 +1,1682 @@
+﻿股票代码,昨收,策略数量,策略得分,建议持有期,策略名称
+603937.SH,10.43,5,5.6000000000000005,5,"strategy_top_gainers, strategy_plate_breakout_post_close, strategy_consolidation_breakout_preparation, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+600261.SH,3.33,4,4.8,5,"strategy_consolidation_breakout_preparation, strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+600361.SH,3.98,4,4.8,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross, strategy_annual_line_breakout"
+601669.SH,4.88,4,4.8,5,"strategy_consolidation_breakout_preparation, strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+002320.SZ,6.05,4,4.8,5,"strategy_consolidation_breakout_preparation, strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+603993.SH,7.59,4,4.8,5,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross, strategy_annual_line_breakout"
+000036.SZ,3.73,4,4.6000000000000005,5,"strategy_plate_breakout_post_close, strategy_consolidation_breakout_preparation, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+000159.SZ,5.68,4,4.6000000000000005,5,"strategy_plate_breakout_post_close, strategy_consolidation_breakout_preparation, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+000735.SZ,6.09,4,4.6000000000000005,5,"strategy_plate_breakout_post_close, strategy_consolidation_breakout_preparation, strategy_macd_divergent_gold_cross, strategy_annual_line_breakout"
+002319.SZ,10.78,4,4.6000000000000005,5,"strategy_plate_breakout_post_close, strategy_consolidation_breakout_preparation, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+002978.SZ,32.54,4,4.6000000000000005,5,"strategy_plate_breakout_post_close, strategy_consolidation_breakout_preparation, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+603032.SH,14.58,4,4.4,5,"strategy_top_gainers, strategy_plate_breakout_post_close, strategy_ma_convergence_start, strategy_annual_line_breakout"
+601212.SH,3.19,4,4.2,5,"strategy_check_breakout_batch, strategy_top_gainers, strategy_plate_breakout_post_close, strategy_consolidation_breakout_preparation"
+601992.SH,1.56,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+601588.SH,1.72,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+600512.SH,2.28,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+600170.SH,2.41,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_annual_line_breakout"
+601975.SH,2.74,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+000008.SZ,2.85,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+601618.SH,2.95,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+603778.SH,3.26,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+600423.SH,3.34,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+600425.SH,3.79,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+000796.SZ,3.83,3,3.5999999999999996,5,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start, strategy_annual_line_breakout"
+600491.SH,3.97,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+000900.SZ,4.18,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+002408.SZ,4.65,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+600333.SH,4.76,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+601118.SH,4.77,3,3.5999999999999996,5,"strategy_consolidation_breakout_preparation, strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002398.SZ,4.82,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+600929.SH,5.14,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+600497.SH,5.27,3,3.5999999999999996,5,"strategy_consolidation_breakout_preparation, strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002016.SZ,5.6,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+600538.SH,5.81,3,3.5999999999999996,5,"strategy_consolidation_breakout_preparation, strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600796.SH,5.87,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+601789.SH,5.87,3,3.5999999999999996,5,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+600235.SH,6.16,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+002443.SZ,6.38,3,3.5999999999999996,5,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+603421.SH,6.55,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+600330.SH,6.85,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+600888.SH,6.9,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+002723.SZ,7.44,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+600058.SH,7.47,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+605162.SH,7.77,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+002137.SZ,7.88,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+600720.SH,7.99,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+002051.SZ,8.38,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+002441.SZ,8.95,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+000737.SZ,9.4,3,3.5999999999999996,5,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross, strategy_annual_line_breakout"
+600618.SH,9.46,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_annual_line_breakout"
+000586.SZ,10.85,3,3.5999999999999996,5,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+003018.SZ,11.4,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+002805.SZ,11.93,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+601156.SH,13.4,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+603182.SH,13.4,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+001360.SZ,13.64,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+603356.SH,13.68,3,3.5999999999999996,5,"strategy_consolidation_breakout_preparation, strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002885.SZ,13.83,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+000960.SZ,14.22,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+603989.SH,15.22,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+003022.SZ,15.44,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+603172.SH,15.48,3,3.5999999999999996,5,"strategy_consolidation_breakout_preparation, strategy_box_bottom_rebound, strategy_ma_convergence_start"
+603726.SH,15.85,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+603073.SH,16.48,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+000975.SZ,20.28,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+001378.SZ,22.19,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+600362.SH,22.27,3,3.5999999999999996,5,"strategy_consolidation_breakout_preparation, strategy_box_bottom_rebound, strategy_ma_convergence_start"
+001337.SZ,24.15,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+600030.SH,25.98,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+603375.SH,35.67,3,3.5999999999999996,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+603195.SH,74.07,3,3.5999999999999996,5,"strategy_consolidation_breakout_preparation, strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002775.SZ,3.95,3,3.4000000000000004,5,"strategy_plate_breakout_post_close, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+603829.SH,17.61,3,3.4000000000000004,5,"strategy_plate_breakout_post_close, strategy_consolidation_breakout_preparation, strategy_macd_divergent_gold_cross"
+600161.SH,20.15,3,3.4000000000000004,5,"strategy_plate_breakout_post_close, strategy_consolidation_breakout_preparation, strategy_ma_convergence_start"
+603508.SH,27.84,3,3.4000000000000004,5,"strategy_plate_breakout_post_close, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+600531.SH,7.68,3,3.2,5,"strategy_check_breakout_batch, strategy_plate_breakout_post_close, strategy_consolidation_breakout_preparation"
+600322.SH,2.71,3,3.0,1,"strategy_check_breakout_batch, strategy_top_gainers, strategy_plate_breakout_post_close"
+600221.SH,1.35,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+600231.SH,1.73,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+603077.SH,1.79,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+601929.SH,1.85,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600569.SH,1.93,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+601868.SH,2.24,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600935.SH,2.38,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000552.SZ,2.43,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+601388.SH,2.53,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000031.SZ,2.66,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+601016.SH,2.95,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600433.SH,3.13,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600293.SH,3.15,2,2.4,5,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+600339.SH,3.16,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000816.SZ,3.18,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+600008.SH,3.2,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+601991.SH,3.21,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000809.SZ,3.22,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600725.SH,3.34,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002060.SZ,3.52,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600626.SH,3.54,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002390.SZ,3.55,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000778.SZ,3.56,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000825.SZ,3.61,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600740.SH,3.61,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600219.SH,3.74,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+601616.SH,3.84,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600248.SH,3.85,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000698.SZ,3.86,2,2.4,5,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start"
+002535.SZ,3.87,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+002548.SZ,3.9,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002375.SZ,3.93,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000725.SZ,3.94,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+601375.SH,3.94,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+601818.SH,4.0,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002385.SZ,4.06,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600863.SH,4.13,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000055.SZ,4.16,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002641.SZ,4.18,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+603188.SH,4.18,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600310.SH,4.22,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+600369.SH,4.22,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+601568.SH,4.22,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600075.SH,4.23,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+601678.SH,4.25,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000723.SZ,4.3,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002628.SZ,4.33,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600578.SH,4.38,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600063.SH,4.41,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600963.SH,4.44,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+601068.SH,4.5,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002687.SZ,4.54,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600035.SH,4.55,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600217.SH,4.57,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000060.SZ,4.59,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600795.SH,4.62,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600516.SH,4.64,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+002386.SZ,4.67,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000012.SZ,4.7,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+600502.SH,4.76,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002567.SZ,4.8,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600517.SH,4.96,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600510.SH,4.98,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+000755.SZ,5.07,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000683.SZ,5.09,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002585.SZ,5.11,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002059.SZ,5.17,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002479.SZ,5.18,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002538.SZ,5.19,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600704.SH,5.27,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+601658.SH,5.36,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600390.SH,5.39,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+601199.SH,5.4,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600050.SH,5.42,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600736.SH,5.44,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002333.SZ,5.48,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000789.SZ,5.53,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600821.SH,5.54,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600078.SH,5.56,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+601288.SH,5.61,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+601390.SH,5.61,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+601222.SH,5.64,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+601668.SH,5.69,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600711.SH,5.74,2,2.4,5,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start"
+603588.SH,5.74,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600028.SH,5.75,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002591.SZ,5.77,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000498.SZ,5.85,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+601686.SH,5.85,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002063.SZ,5.87,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600256.SH,5.97,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600780.SH,5.98,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002302.SZ,6.0,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002726.SZ,6.01,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002420.SZ,6.03,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002746.SZ,6.04,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+601121.SH,6.07,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600173.SH,6.08,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+600975.SH,6.08,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000978.SZ,6.1,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600354.SH,6.18,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600784.SH,6.23,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002442.SZ,6.24,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+601179.SH,6.28,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+600313.SH,6.29,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600186.SH,6.34,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+000707.SZ,6.36,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000554.SZ,6.37,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002169.SZ,6.38,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000726.SZ,6.41,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600667.SH,6.41,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+600236.SH,6.5,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+601949.SH,6.52,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000505.SZ,6.57,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000626.SZ,6.59,2,2.4,5,"strategy_consolidation_breakout_preparation, strategy_macd_divergent_gold_cross"
+000928.SZ,6.6,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+601609.SH,6.62,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600155.SH,6.66,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000783.SZ,6.68,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002029.SZ,6.7,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+601600.SH,6.73,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002381.SZ,6.75,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+601006.SH,6.75,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+002451.SZ,6.76,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+002350.SZ,6.79,2,2.4,5,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+002753.SZ,6.88,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+603330.SH,6.91,2,2.4,5,"strategy_consolidation_breakout_preparation, strategy_macd_divergent_gold_cross"
+000731.SZ,6.93,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600903.SH,6.93,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000936.SZ,6.99,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600116.SH,7.0,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+601969.SH,7.02,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+601398.SH,7.1,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+003037.SZ,7.11,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600328.SH,7.15,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002763.SZ,7.21,2,2.4,5,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+000697.SZ,7.27,2,2.4,5,"strategy_ma_convergence_start, strategy_annual_line_breakout"
+002274.SZ,7.29,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600051.SH,7.29,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000917.SZ,7.31,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+000798.SZ,7.33,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600080.SH,7.34,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600623.SH,7.36,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002790.SZ,7.39,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+601512.SH,7.41,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000547.SZ,7.42,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600603.SH,7.45,2,2.4,5,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+002091.SZ,7.48,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600191.SH,7.49,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+003016.SZ,7.51,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002673.SZ,7.55,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+605500.SH,7.55,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600064.SH,7.59,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000728.SZ,7.69,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+601328.SH,7.69,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+601901.SH,7.73,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000990.SZ,7.76,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+601990.SH,7.82,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002799.SZ,7.95,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+601117.SH,7.98,2,2.4,5,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start"
+600048.SH,8.16,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600095.SH,8.19,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+601921.SH,8.26,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002057.SZ,8.29,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002458.SZ,8.29,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600273.SH,8.37,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+601065.SH,8.37,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002234.SZ,8.4,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002926.SZ,8.43,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002787.SZ,8.46,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+001267.SZ,8.5,2,2.4,5,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+002539.SZ,8.53,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000537.SZ,8.57,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000685.SZ,8.57,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+603357.SH,8.61,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+001979.SZ,8.66,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+601369.SH,8.68,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+603876.SH,8.73,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002950.SZ,8.76,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000721.SZ,8.8,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+603399.SH,8.91,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600773.SH,8.94,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002789.SZ,9.06,2,2.4,5,"strategy_macd_divergent_gold_cross, strategy_annual_line_breakout"
+600848.SH,9.06,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+603500.SH,9.14,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002387.SZ,9.17,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002758.SZ,9.23,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002836.SZ,9.26,2,2.4,5,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+002244.SZ,9.28,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+002332.SZ,9.38,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600133.SH,9.54,2,2.4,5,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+000876.SZ,9.55,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+603212.SH,9.63,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+002674.SZ,9.73,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002637.SZ,9.75,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600876.SH,9.76,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600138.SH,9.81,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+601952.SH,9.84,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+601456.SH,10.0,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600153.SH,10.05,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+000155.SZ,10.09,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+000795.SZ,10.11,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+000998.SZ,10.14,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600352.SH,10.14,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600338.SH,10.16,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600499.SH,10.18,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600857.SH,10.22,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002661.SZ,10.23,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+601360.SH,10.28,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+603527.SH,10.32,2,2.4,5,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+600847.SH,10.35,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000828.SZ,10.39,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600983.SH,10.42,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002815.SZ,10.44,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+600056.SH,10.51,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000830.SZ,10.54,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+002186.SZ,10.61,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600639.SH,10.63,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002893.SZ,10.67,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600373.SH,10.67,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+603311.SH,10.82,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002871.SZ,10.85,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+603928.SH,10.87,2,2.4,5,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+001299.SZ,11.03,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600648.SH,11.19,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002736.SZ,11.2,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+603968.SH,11.23,2,2.4,5,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+002053.SZ,11.26,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000708.SZ,11.33,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002796.SZ,11.33,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+600508.SH,11.43,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600372.SH,11.51,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+603408.SH,11.55,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002240.SZ,11.66,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600089.SH,11.7,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+603085.SH,11.73,2,2.4,5,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+605155.SH,11.73,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+002960.SZ,11.81,2,2.4,5,"strategy_consolidation_breakout_preparation, strategy_annual_line_breakout"
+603628.SH,11.92,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+603339.SH,11.95,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000878.SZ,11.97,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002457.SZ,12.06,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+603132.SH,12.08,2,2.4,5,"strategy_consolidation_breakout_preparation, strategy_annual_line_breakout"
+002963.SZ,12.14,2,2.4,5,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+600697.SH,12.25,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600877.SH,12.25,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+603191.SH,12.39,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000020.SZ,12.57,2,2.4,5,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+600801.SH,12.57,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600985.SH,12.76,2,2.4,5,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start"
+000625.SZ,12.84,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002227.SZ,12.93,2,2.4,5,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+002729.SZ,13.23,2,2.4,5,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+002020.SZ,13.32,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000923.SZ,13.33,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000902.SZ,13.4,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000636.SZ,13.49,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+601808.SH,13.6,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600522.SH,13.61,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+603519.SH,13.8,2,2.4,5,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+601098.SH,13.84,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002853.SZ,13.85,2,2.4,5,"strategy_consolidation_breakout_preparation, strategy_macd_divergent_gold_cross"
+001219.SZ,14.05,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002078.SZ,14.22,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+000429.SZ,14.29,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600598.SH,14.49,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+603115.SH,14.54,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002401.SZ,14.71,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+002555.SZ,14.77,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600197.SH,14.82,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002623.SZ,14.86,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+603990.SH,15.19,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000338.SZ,15.21,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002749.SZ,15.26,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002879.SZ,15.27,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+002236.SZ,15.53,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+002270.SZ,15.63,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600182.SH,15.65,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+605277.SH,15.65,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+002922.SZ,16.05,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+603043.SH,16.13,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002007.SZ,16.16,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600875.SH,16.18,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000776.SZ,16.45,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000792.SZ,16.48,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+603598.SH,16.55,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+603368.SH,16.9,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+603231.SH,17.04,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600980.SH,17.09,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+603080.SH,17.12,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+603153.SH,17.21,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+603272.SH,17.3,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600012.SH,17.73,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002777.SZ,17.76,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000985.SZ,17.79,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+001296.SZ,18.1,2,2.4,5,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start"
+601899.SH,18.14,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600131.SH,18.19,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+601607.SH,18.45,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+603029.SH,18.48,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+601965.SH,18.53,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600803.SH,19.22,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+601698.SH,19.62,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+001231.SZ,19.79,2,2.4,5,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+002983.SZ,20.08,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600498.SH,20.71,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+003008.SZ,20.84,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+605555.SH,20.93,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+600071.SH,21.05,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+605116.SH,21.07,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+603057.SH,21.38,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+600482.SH,21.52,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600529.SH,21.63,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+605218.SH,21.83,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600007.SH,22.14,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+605020.SH,22.24,2,2.4,5,"strategy_consolidation_breakout_preparation, strategy_macd_divergent_gold_cross"
+002362.SZ,22.52,2,2.4,5,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+002518.SZ,22.52,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+001211.SZ,22.62,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600750.SH,23.17,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002155.SZ,23.31,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002557.SZ,23.42,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600850.SH,23.68,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+603800.SH,23.89,2,2.4,5,"strategy_ma_convergence_start, strategy_annual_line_breakout"
+603285.SH,24.06,2,2.4,5,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+600378.SH,24.42,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+003017.SZ,24.51,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002287.SZ,24.52,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+603867.SH,24.6,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000895.SZ,24.67,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+603396.SH,24.7,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+002597.SZ,24.9,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000028.SZ,25.38,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+603755.SH,26.1,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600938.SH,26.18,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600332.SH,26.96,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+603270.SH,27.24,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600566.SH,27.38,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+603661.SH,27.52,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+001282.SZ,28.01,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+603351.SH,28.01,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002415.SZ,28.55,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002192.SZ,28.95,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+605258.SH,29.15,2,2.4,5,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+600593.SH,29.37,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600456.SH,29.88,2,2.4,5,"strategy_consolidation_breakout_preparation, strategy_box_bottom_rebound"
+001373.SZ,30.0,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600511.SH,30.51,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+603860.SH,30.51,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002738.SZ,30.54,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+003041.SZ,30.91,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+002460.SZ,31.19,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+601595.SH,31.24,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600171.SH,33.55,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+001326.SZ,33.75,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600038.SH,36.98,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+603307.SH,37.11,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000408.SZ,37.58,2,2.4,5,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+603199.SH,37.75,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+603391.SH,38.2,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+603341.SH,39.1,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+603171.SH,41.31,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+600536.SH,44.97,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+003031.SZ,48.45,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+603379.SH,48.61,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000538.SZ,56.6,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002049.SZ,64.45,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+603061.SH,75.64,2,2.4,5,"strategy_box_bottom_rebound, strategy_macd_divergent_gold_cross"
+603325.SH,93.12,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+603501.SH,132.4,2,2.4,5,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+002371.SZ,430.49,2,2.4,5,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002485.SZ,3.39,2,2.2,5,"strategy_plate_breakout_post_close, strategy_macd_divergent_gold_cross"
+002716.SZ,3.89,2,2.2,5,"strategy_plate_breakout_post_close, strategy_consolidation_breakout_preparation"
+600800.SH,4.36,2,2.2,5,"strategy_top_gainers, strategy_macd_divergent_gold_cross"
+603018.SH,8.08,2,2.2,5,"strategy_plate_breakout_post_close, strategy_consolidation_breakout_preparation"
+000506.SZ,8.92,2,2.2,5,"strategy_plate_breakout_post_close, strategy_macd_divergent_gold_cross"
+600735.SH,9.26,2,2.2,5,"strategy_plate_breakout_post_close, strategy_macd_divergent_gold_cross"
+000815.SZ,13.59,2,2.2,5,"strategy_top_gainers, strategy_macd_divergent_gold_cross"
+000426.SZ,15.42,2,2.2,5,"strategy_plate_breakout_post_close, strategy_consolidation_breakout_preparation"
+603276.SH,16.31,2,2.2,5,"strategy_plate_breakout_post_close, strategy_consolidation_breakout_preparation"
+603810.SH,16.75,2,2.2,5,"strategy_plate_breakout_post_close, strategy_macd_divergent_gold_cross"
+603151.SH,17.12,2,2.2,5,"strategy_plate_breakout_post_close, strategy_macd_divergent_gold_cross"
+002992.SZ,61.72,2,2.2,5,"strategy_top_gainers, strategy_annual_line_breakout"
+600751.SH,3.38,2,2.0,1,"strategy_check_breakout_batch, strategy_plate_breakout_post_close"
+600382.SH,5.55,2,2.0,1,"strategy_check_breakout_batch, strategy_plate_breakout_post_close"
+002546.SZ,6.02,2,2.0,1,"strategy_top_gainers, strategy_plate_breakout_post_close"
+600232.SH,6.36,2,2.0,1,"strategy_top_gainers, strategy_plate_breakout_post_close"
+002037.SZ,9.4,2,2.0,1,"strategy_check_breakout_batch, strategy_plate_breakout_post_close"
+605122.SH,12.79,2,2.0,1,"strategy_check_breakout_batch, strategy_plate_breakout_post_close"
+603045.SH,18.54,2,2.0,1,"strategy_top_gainers, strategy_plate_breakout_post_close"
+603093.SH,18.69,2,2.0,1,"strategy_check_breakout_batch, strategy_plate_breakout_post_close"
+603585.SH,19.06,2,2.0,1,"strategy_check_breakout_batch, strategy_plate_breakout_post_close"
+605099.SH,36.53,2,2.0,1,"strategy_check_breakout_batch, strategy_plate_breakout_post_close"
+600157.SH,1.35,1,1.2,5,strategy_box_bottom_rebound
+002146.SZ,1.4,1,1.2,5,strategy_box_bottom_rebound
+000656.SZ,1.47,1,1.2,5,strategy_box_bottom_rebound
+601880.SH,1.49,1,1.2,5,strategy_box_bottom_rebound
+000620.SZ,1.68,1,1.2,5,strategy_box_bottom_rebound
+002470.SZ,1.7,1,1.2,5,strategy_box_bottom_rebound
+600606.SH,1.71,1,1.2,5,strategy_box_bottom_rebound
+000711.SZ,1.72,1,1.2,5,strategy_box_bottom_rebound
+002005.SZ,1.81,1,1.2,5,strategy_box_bottom_rebound
+000517.SZ,1.86,1,1.2,5,strategy_box_bottom_rebound
+002024.SZ,1.86,1,1.2,5,strategy_box_bottom_rebound
+600653.SH,1.9,1,1.2,5,strategy_box_bottom_rebound
+600871.SH,1.9,1,1.2,5,strategy_box_bottom_rebound
+000608.SZ,1.91,1,1.2,5,strategy_macd_divergent_gold_cross
+600518.SH,1.95,1,1.2,5,strategy_box_bottom_rebound
+000980.SZ,2.05,1,1.2,5,strategy_box_bottom_rebound
+000882.SZ,2.07,1,1.2,5,strategy_box_bottom_rebound
+600117.SH,2.15,1,1.2,5,strategy_box_bottom_rebound
+000709.SZ,2.16,1,1.2,5,strategy_box_bottom_rebound
+600136.SH,2.17,1,1.2,5,strategy_ma_convergence_start
+600527.SH,2.17,1,1.2,5,strategy_box_bottom_rebound
+000926.SZ,2.18,1,1.2,5,strategy_box_bottom_rebound
+600691.SH,2.18,1,1.2,5,strategy_box_bottom_rebound
+601996.SH,2.18,1,1.2,5,strategy_ma_convergence_start
+000981.SZ,2.19,1,1.2,5,strategy_macd_divergent_gold_cross
+600400.SH,2.19,1,1.2,5,strategy_box_bottom_rebound
+000718.SZ,2.2,1,1.2,5,strategy_box_bottom_rebound
+600545.SH,2.2,1,1.2,5,strategy_box_bottom_rebound
+600759.SH,2.2,1,1.2,5,strategy_box_bottom_rebound
+002506.SZ,2.21,1,1.2,5,strategy_box_bottom_rebound
+002217.SZ,2.25,1,1.2,5,strategy_consolidation_breakout_preparation
+002321.SZ,2.29,1,1.2,5,strategy_box_bottom_rebound
+002656.SZ,2.3,1,1.2,5,strategy_box_bottom_rebound
+600076.SH,2.31,1,1.2,5,strategy_ma_convergence_start
+002021.SZ,2.32,1,1.2,5,strategy_box_bottom_rebound
+600467.SH,2.32,1,1.2,5,strategy_box_bottom_rebound
+000069.SZ,2.34,1,1.2,5,strategy_box_bottom_rebound
+000898.SZ,2.35,1,1.2,5,strategy_box_bottom_rebound
+002219.SZ,2.35,1,1.2,5,strategy_box_bottom_rebound
+000727.SZ,2.36,1,1.2,5,strategy_box_bottom_rebound
+002638.SZ,2.37,1,1.2,5,strategy_consolidation_breakout_preparation
+600227.SH,2.38,1,1.2,5,strategy_ma_convergence_start
+600726.SH,2.39,1,1.2,5,strategy_box_bottom_rebound
+600715.SH,2.41,1,1.2,5,strategy_consolidation_breakout_preparation
+000564.SZ,2.43,1,1.2,5,strategy_box_bottom_rebound
+600169.SH,2.43,1,1.2,5,strategy_box_bottom_rebound
+600376.SH,2.45,1,1.2,5,strategy_box_bottom_rebound
+000629.SZ,2.55,1,1.2,5,strategy_box_bottom_rebound
+002210.SZ,2.55,1,1.2,5,strategy_box_bottom_rebound
+600503.SH,2.56,1,1.2,5,strategy_box_bottom_rebound
+600252.SH,2.57,1,1.2,5,strategy_box_bottom_rebound
+000927.SZ,2.58,1,1.2,5,strategy_box_bottom_rebound
+002314.SZ,2.58,1,1.2,5,strategy_box_bottom_rebound
+600208.SH,2.61,1,1.2,5,strategy_box_bottom_rebound
+600166.SH,2.63,1,1.2,5,strategy_box_bottom_rebound
+600159.SH,2.65,1,1.2,5,strategy_ma_convergence_start
+601778.SH,2.65,1,1.2,5,strategy_box_bottom_rebound
+000793.SZ,2.67,1,1.2,5,strategy_box_bottom_rebound
+600617.SH,2.67,1,1.2,5,strategy_macd_divergent_gold_cross
+600981.SH,2.67,1,1.2,5,strategy_box_bottom_rebound
+601106.SH,2.69,1,1.2,5,strategy_box_bottom_rebound
+002247.SZ,2.7,1,1.2,5,strategy_macd_divergent_gold_cross
+002426.SZ,2.7,1,1.2,5,strategy_box_bottom_rebound
+002374.SZ,2.71,1,1.2,5,strategy_box_bottom_rebound
+002528.SZ,2.73,1,1.2,5,strategy_ma_convergence_start
+002495.SZ,2.74,1,1.2,5,strategy_ma_convergence_start
+600816.SH,2.75,1,1.2,5,strategy_box_bottom_rebound
+600179.SH,2.76,1,1.2,5,strategy_box_bottom_rebound
+002554.SZ,2.78,1,1.2,5,strategy_consolidation_breakout_preparation
+600226.SH,2.78,1,1.2,5,strategy_box_bottom_rebound
+600622.SH,2.78,1,1.2,5,strategy_box_bottom_rebound
+601518.SH,2.78,1,1.2,5,strategy_box_bottom_rebound
+600815.SH,2.79,1,1.2,5,strategy_box_bottom_rebound
+000402.SZ,2.82,1,1.2,5,strategy_box_bottom_rebound
+600688.SH,2.83,1,1.2,5,strategy_box_bottom_rebound
+600868.SH,2.87,1,1.2,5,strategy_box_bottom_rebound
+000631.SZ,2.88,1,1.2,5,strategy_box_bottom_rebound
+600675.SH,2.89,1,1.2,5,strategy_box_bottom_rebound
+601010.SH,2.89,1,1.2,5,strategy_box_bottom_rebound
+002239.SZ,2.9,1,1.2,5,strategy_box_bottom_rebound
+601828.SH,2.9,1,1.2,5,strategy_box_bottom_rebound
+002607.SZ,2.93,1,1.2,5,strategy_box_bottom_rebound
+600108.SH,2.98,1,1.2,5,strategy_box_bottom_rebound
+601333.SH,2.98,1,1.2,5,strategy_box_bottom_rebound
+002589.SZ,2.99,1,1.2,5,strategy_box_bottom_rebound
+002586.SZ,3.0,1,1.2,5,strategy_box_bottom_rebound
+601399.SH,3.03,1,1.2,5,strategy_box_bottom_rebound
+000592.SZ,3.05,1,1.2,5,strategy_box_bottom_rebound
+600581.SH,3.08,1,1.2,5,strategy_box_bottom_rebound
+002356.SZ,3.1,1,1.2,5,strategy_box_bottom_rebound
+000056.SZ,3.11,1,1.2,5,strategy_box_bottom_rebound
+600496.SH,3.11,1,1.2,5,strategy_box_bottom_rebound
+000615.SZ,3.14,1,1.2,5,strategy_box_bottom_rebound
+002218.SZ,3.16,1,1.2,5,strategy_box_bottom_rebound
+000785.SZ,3.17,1,1.2,5,strategy_box_bottom_rebound
+000659.SZ,3.18,1,1.2,5,strategy_box_bottom_rebound
+002542.SZ,3.18,1,1.2,5,strategy_box_bottom_rebound
+600094.SH,3.18,1,1.2,5,strategy_box_bottom_rebound
+601015.SH,3.18,1,1.2,5,strategy_ma_convergence_start
+002266.SZ,3.19,1,1.2,5,strategy_box_bottom_rebound
+601228.SH,3.21,1,1.2,5,strategy_box_bottom_rebound
+601326.SH,3.22,1,1.2,5,strategy_box_bottom_rebound
+600665.SH,3.23,1,1.2,5,strategy_ma_convergence_start
+000428.SZ,3.26,1,1.2,5,strategy_box_bottom_rebound
+600984.SH,3.28,1,1.2,5,strategy_box_bottom_rebound
+000415.SZ,3.31,1,1.2,5,strategy_box_bottom_rebound
+002421.SZ,3.31,1,1.2,5,strategy_box_bottom_rebound
+000068.SZ,3.38,1,1.2,5,strategy_box_bottom_rebound
+002109.SZ,3.39,1,1.2,5,strategy_box_bottom_rebound
+002822.SZ,3.4,1,1.2,5,strategy_box_bottom_rebound
+002498.SZ,3.41,1,1.2,5,strategy_box_bottom_rebound
+002662.SZ,3.41,1,1.2,5,strategy_box_bottom_rebound
+000563.SZ,3.42,1,1.2,5,strategy_box_bottom_rebound
+002108.SZ,3.43,1,1.2,5,strategy_box_bottom_rebound
+600280.SH,3.45,1,1.2,5,strategy_box_bottom_rebound
+600705.SH,3.47,1,1.2,5,strategy_box_bottom_rebound
+601619.SH,3.5,1,1.2,5,strategy_box_bottom_rebound
+000959.SZ,3.54,1,1.2,5,strategy_box_bottom_rebound
+002084.SZ,3.54,1,1.2,5,strategy_box_bottom_rebound
+000090.SZ,3.55,1,1.2,5,strategy_box_bottom_rebound
+002141.SZ,3.56,1,1.2,5,strategy_macd_divergent_gold_cross
+600439.SH,3.58,1,1.2,5,strategy_box_bottom_rebound
+600853.SH,3.58,1,1.2,5,strategy_box_bottom_rebound
+002110.SZ,3.6,1,1.2,5,strategy_box_bottom_rebound
+002131.SZ,3.6,1,1.2,5,strategy_box_bottom_rebound
+601279.SH,3.6,1,1.2,5,strategy_box_bottom_rebound
+601018.SH,3.61,1,1.2,5,strategy_box_bottom_rebound
+000863.SZ,3.63,1,1.2,5,strategy_box_bottom_rebound
+600033.SH,3.63,1,1.2,5,strategy_box_bottom_rebound
+601218.SH,3.65,1,1.2,5,strategy_box_bottom_rebound
+003816.SZ,3.66,1,1.2,5,strategy_box_bottom_rebound
+600300.SH,3.66,1,1.2,5,strategy_ma_convergence_start
+603601.SH,3.67,1,1.2,5,strategy_box_bottom_rebound
+603388.SH,3.68,1,1.2,5,strategy_box_bottom_rebound
+000892.SZ,3.69,1,1.2,5,strategy_box_bottom_rebound
+002523.SZ,3.69,1,1.2,5,strategy_box_bottom_rebound
+600595.SH,3.69,1,1.2,5,strategy_box_bottom_rebound
+002613.SZ,3.7,1,1.2,5,strategy_box_bottom_rebound
+600782.SH,3.7,1,1.2,5,strategy_box_bottom_rebound
+601599.SH,3.7,1,1.2,5,strategy_box_bottom_rebound
+000761.SZ,3.76,1,1.2,5,strategy_box_bottom_rebound
+603363.SH,3.77,1,1.2,5,strategy_box_bottom_rebound
+601515.SH,3.79,1,1.2,5,strategy_box_bottom_rebound
+000750.SZ,3.83,1,1.2,5,strategy_box_bottom_rebound
+002154.SZ,3.83,1,1.2,5,strategy_box_bottom_rebound
+600121.SH,3.86,1,1.2,5,strategy_ma_convergence_start
+002069.SZ,3.87,1,1.2,5,strategy_box_bottom_rebound
+600635.SH,3.87,1,1.2,5,strategy_box_bottom_rebound
+600683.SH,3.88,1,1.2,5,strategy_box_bottom_rebound
+000637.SZ,3.93,1,1.2,5,strategy_ma_convergence_start
+002061.SZ,3.95,1,1.2,5,strategy_box_bottom_rebound
+000949.SZ,3.98,1,1.2,5,strategy_box_bottom_rebound
+601162.SH,3.98,1,1.2,5,strategy_box_bottom_rebound
+000965.SZ,3.99,1,1.2,5,strategy_box_bottom_rebound
+002160.SZ,3.99,1,1.2,5,strategy_ma_convergence_start
+601113.SH,4.0,1,1.2,5,strategy_box_bottom_rebound
+601000.SH,4.05,1,1.2,5,strategy_box_bottom_rebound
+002634.SZ,4.17,1,1.2,5,strategy_macd_divergent_gold_cross
+600282.SH,4.17,1,1.2,5,strategy_box_bottom_rebound
+603183.SH,4.17,1,1.2,5,strategy_box_bottom_rebound
+600507.SH,4.18,1,1.2,5,strategy_box_bottom_rebound
+601096.SH,4.21,1,1.2,5,strategy_box_bottom_rebound
+002004.SZ,4.22,1,1.2,5,strategy_box_bottom_rebound
+002145.SZ,4.22,1,1.2,5,strategy_box_bottom_rebound
+600649.SH,4.23,1,1.2,5,strategy_box_bottom_rebound
+603616.SH,4.24,1,1.2,5,strategy_consolidation_breakout_preparation
+002135.SZ,4.27,1,1.2,5,strategy_box_bottom_rebound
+600824.SH,4.27,1,1.2,5,strategy_box_bottom_rebound
+002424.SZ,4.28,1,1.2,5,strategy_ma_convergence_start
+600905.SH,4.28,1,1.2,5,strategy_box_bottom_rebound
+000690.SZ,4.32,1,1.2,5,strategy_box_bottom_rebound
+000035.SZ,4.35,1,1.2,5,strategy_box_bottom_rebound
+002175.SZ,4.35,1,1.2,5,strategy_box_bottom_rebound
+601608.SH,4.39,1,1.2,5,strategy_box_bottom_rebound
+600320.SH,4.4,1,1.2,5,strategy_box_bottom_rebound
+000536.SZ,4.42,1,1.2,5,strategy_box_bottom_rebound
+002429.SZ,4.42,1,1.2,5,strategy_box_bottom_rebound
+600368.SH,4.42,1,1.2,5,strategy_box_bottom_rebound
+601989.SH,4.45,1,1.2,5,strategy_box_bottom_rebound
+600966.SH,4.47,1,1.2,5,strategy_box_bottom_rebound
+000401.SZ,4.49,1,1.2,5,strategy_box_bottom_rebound
+600572.SH,4.51,1,1.2,5,strategy_box_bottom_rebound
+001330.SZ,4.52,1,1.2,5,strategy_box_bottom_rebound
+600180.SH,4.52,1,1.2,5,strategy_box_bottom_rebound
+000571.SZ,4.53,1,1.2,5,strategy_box_bottom_rebound
+002694.SZ,4.53,1,1.2,5,strategy_box_bottom_rebound
+600717.SH,4.53,1,1.2,5,strategy_box_bottom_rebound
+000589.SZ,4.54,1,1.2,5,strategy_box_bottom_rebound
+600395.SH,4.56,1,1.2,5,strategy_box_bottom_rebound
+600604.SH,4.56,1,1.2,5,strategy_box_bottom_rebound
+002062.SZ,4.59,1,1.2,5,strategy_box_bottom_rebound
+002631.SZ,4.59,1,1.2,5,strategy_box_bottom_rebound
+600490.SH,4.59,1,1.2,5,strategy_macd_divergent_gold_cross
+002678.SZ,4.63,1,1.2,5,strategy_box_bottom_rebound
+000877.SZ,4.64,1,1.2,5,strategy_box_bottom_rebound
+000883.SZ,4.65,1,1.2,5,strategy_box_bottom_rebound
+000932.SZ,4.66,1,1.2,5,strategy_box_bottom_rebound
+002083.SZ,4.69,1,1.2,5,strategy_box_bottom_rebound
+600586.SH,4.69,1,1.2,5,strategy_box_bottom_rebound
+601366.SH,4.69,1,1.2,5,strategy_box_bottom_rebound
+000912.SZ,4.7,1,1.2,5,strategy_box_bottom_rebound
+001896.SZ,4.7,1,1.2,5,strategy_box_bottom_rebound
+002224.SZ,4.7,1,1.2,5,strategy_box_bottom_rebound
+002713.SZ,4.7,1,1.2,5,strategy_box_bottom_rebound
+600165.SH,4.71,1,1.2,5,strategy_box_bottom_rebound
+002092.SZ,4.74,1,1.2,5,strategy_box_bottom_rebound
+002562.SZ,4.74,1,1.2,5,strategy_ma_convergence_start
+600168.SH,4.74,1,1.2,5,strategy_box_bottom_rebound
+000966.SZ,4.77,1,1.2,5,strategy_box_bottom_rebound
+600327.SH,4.79,1,1.2,5,strategy_box_bottom_rebound
+002494.SZ,4.86,1,1.2,5,strategy_box_bottom_rebound
+002863.SZ,4.86,1,1.2,5,strategy_box_bottom_rebound
+601968.SH,4.86,1,1.2,5,strategy_box_bottom_rebound
+600325.SH,4.9,1,1.2,5,strategy_box_bottom_rebound
+600409.SH,4.9,1,1.2,5,strategy_box_bottom_rebound
+000782.SZ,4.92,1,1.2,5,strategy_box_bottom_rebound
+600526.SH,4.92,1,1.2,5,strategy_box_bottom_rebound
+000016.SZ,4.93,1,1.2,5,strategy_box_bottom_rebound
+002225.SZ,4.94,1,1.2,5,strategy_box_bottom_rebound
+002593.SZ,4.94,1,1.2,5,strategy_box_bottom_rebound
+601002.SH,4.94,1,1.2,5,strategy_box_bottom_rebound
+600854.SH,5.0,1,1.2,5,strategy_ma_convergence_start
+002513.SZ,5.03,1,1.2,5,strategy_ma_convergence_start
+600399.SH,5.06,1,1.2,5,strategy_box_bottom_rebound
+600662.SH,5.06,1,1.2,5,strategy_box_bottom_rebound
+601933.SH,5.06,1,1.2,5,strategy_box_bottom_rebound
+002206.SZ,5.08,1,1.2,5,strategy_box_bottom_rebound
+600965.SH,5.08,1,1.2,5,strategy_box_bottom_rebound
+600925.SH,5.09,1,1.2,5,strategy_box_bottom_rebound
+000516.SZ,5.1,1,1.2,5,strategy_box_bottom_rebound
+000753.SZ,5.11,1,1.2,5,strategy_box_bottom_rebound
+002481.SZ,5.16,1,1.2,5,strategy_box_bottom_rebound
+002516.SZ,5.16,1,1.2,5,strategy_box_bottom_rebound
+600722.SH,5.17,1,1.2,5,strategy_box_bottom_rebound
+002044.SZ,5.2,1,1.2,5,strategy_box_bottom_rebound
+002358.SZ,5.2,1,1.2,5,strategy_box_bottom_rebound
+000557.SZ,5.21,1,1.2,5,strategy_box_bottom_rebound
+601636.SH,5.22,1,1.2,5,strategy_box_bottom_rebound
+600609.SH,5.23,1,1.2,5,strategy_box_bottom_rebound
+002519.SZ,5.29,1,1.2,5,strategy_annual_line_breakout
+600979.SH,5.29,1,1.2,5,strategy_box_bottom_rebound
+600269.SH,5.31,1,1.2,5,strategy_box_bottom_rebound
+601216.SH,5.31,1,1.2,5,strategy_box_bottom_rebound
+002563.SZ,5.32,1,1.2,5,strategy_box_bottom_rebound
+603878.SH,5.32,1,1.2,5,strategy_box_bottom_rebound
+600163.SH,5.34,1,1.2,5,strategy_box_bottom_rebound
+600998.SH,5.35,1,1.2,5,strategy_box_bottom_rebound
+002226.SZ,5.36,1,1.2,5,strategy_box_bottom_rebound
+000597.SZ,5.37,1,1.2,5,strategy_box_bottom_rebound
+002419.SZ,5.38,1,1.2,5,strategy_box_bottom_rebound
+600728.SH,5.4,1,1.2,5,strategy_box_bottom_rebound
+002010.SZ,5.45,1,1.2,5,strategy_box_bottom_rebound
+601988.SH,5.45,1,1.2,5,strategy_box_bottom_rebound
+002697.SZ,5.47,1,1.2,5,strategy_box_bottom_rebound
+603012.SH,5.47,1,1.2,5,strategy_box_bottom_rebound
+000862.SZ,5.48,1,1.2,5,strategy_box_bottom_rebound
+603866.SH,5.5,1,1.2,5,strategy_box_bottom_rebound
+000868.SZ,5.51,1,1.2,5,strategy_box_bottom_rebound
+000930.SZ,5.52,1,1.2,5,strategy_box_bottom_rebound
+002195.SZ,5.52,1,1.2,5,strategy_box_bottom_rebound
+600287.SH,5.53,1,1.2,5,strategy_consolidation_breakout_preparation
+002752.SZ,5.57,1,1.2,5,strategy_box_bottom_rebound
+002453.SZ,5.58,1,1.2,5,strategy_box_bottom_rebound
+002712.SZ,5.58,1,1.2,5,strategy_box_bottom_rebound
+601886.SH,5.58,1,1.2,5,strategy_box_bottom_rebound
+000417.SZ,5.62,1,1.2,5,strategy_box_bottom_rebound
+000570.SZ,5.63,1,1.2,5,strategy_box_bottom_rebound
+600909.SH,5.63,1,1.2,5,strategy_box_bottom_rebound
+600917.SH,5.63,1,1.2,5,strategy_box_bottom_rebound
+000650.SZ,5.65,1,1.2,5,strategy_box_bottom_rebound
+000822.SZ,5.66,1,1.2,5,strategy_box_bottom_rebound
+002328.SZ,5.66,1,1.2,5,strategy_box_bottom_rebound
+600655.SH,5.69,1,1.2,5,strategy_box_bottom_rebound
+002676.SZ,5.73,1,1.2,5,strategy_box_bottom_rebound
+600997.SH,5.73,1,1.2,5,strategy_box_bottom_rebound
+002701.SZ,5.74,1,1.2,5,strategy_ma_convergence_start
+600120.SH,5.75,1,1.2,5,strategy_box_bottom_rebound
+603002.SH,5.76,1,1.2,5,strategy_box_bottom_rebound
+002075.SZ,5.77,1,1.2,5,strategy_box_bottom_rebound
+600864.SH,5.77,1,1.2,5,strategy_box_bottom_rebound
+603817.SH,5.77,1,1.2,5,strategy_box_bottom_rebound
+002193.SZ,5.78,1,1.2,5,strategy_ma_convergence_start
+600125.SH,5.79,1,1.2,5,strategy_box_bottom_rebound
+601816.SH,5.81,1,1.2,5,strategy_box_bottom_rebound
+600289.SH,5.82,1,1.2,5,strategy_macd_divergent_gold_cross
+002283.SZ,5.83,1,1.2,5,strategy_box_bottom_rebound
+600027.SH,5.83,1,1.2,5,strategy_box_bottom_rebound
+600302.SH,5.84,1,1.2,5,strategy_ma_convergence_start
+600874.SH,5.84,1,1.2,5,strategy_box_bottom_rebound
+600582.SH,5.88,1,1.2,5,strategy_box_bottom_rebound
+600787.SH,5.89,1,1.2,5,strategy_box_bottom_rebound
+601377.SH,5.89,1,1.2,5,strategy_box_bottom_rebound
+600493.SH,5.91,1,1.2,5,strategy_box_bottom_rebound
+601997.SH,5.91,1,1.2,5,strategy_box_bottom_rebound
+600029.SH,5.94,1,1.2,5,strategy_box_bottom_rebound
+600167.SH,5.96,1,1.2,5,strategy_box_bottom_rebound
+002483.SZ,5.97,1,1.2,5,strategy_box_bottom_rebound
+603618.SH,6.05,1,1.2,5,strategy_box_bottom_rebound
+002030.SZ,6.07,1,1.2,5,strategy_box_bottom_rebound
+002571.SZ,6.07,1,1.2,5,strategy_macd_divergent_gold_cross
+601872.SH,6.09,1,1.2,5,strategy_box_bottom_rebound
+603117.SH,6.09,1,1.2,5,strategy_box_bottom_rebound
+002300.SZ,6.1,1,1.2,5,strategy_box_bottom_rebound
+000531.SZ,6.11,1,1.2,5,strategy_box_bottom_rebound
+605366.SH,6.12,1,1.2,5,strategy_box_bottom_rebound
+000153.SZ,6.16,1,1.2,5,strategy_box_bottom_rebound
+600185.SH,6.16,1,1.2,5,strategy_box_bottom_rebound
+000679.SZ,6.18,1,1.2,5,strategy_box_bottom_rebound
+002178.SZ,6.18,1,1.2,5,strategy_box_bottom_rebound
+000541.SZ,6.19,1,1.2,5,strategy_box_bottom_rebound
+000030.SZ,6.21,1,1.2,5,strategy_box_bottom_rebound
+600755.SH,6.21,1,1.2,5,strategy_box_bottom_rebound
+603378.SH,6.21,1,1.2,5,strategy_box_bottom_rebound
+601226.SH,6.22,1,1.2,5,strategy_box_bottom_rebound
+002100.SZ,6.23,1,1.2,5,strategy_box_bottom_rebound
+002587.SZ,6.25,1,1.2,5,strategy_ma_convergence_start
+600351.SH,6.25,1,1.2,5,strategy_box_bottom_rebound
+600918.SH,6.25,1,1.2,5,strategy_box_bottom_rebound
+603126.SH,6.25,1,1.2,5,strategy_box_bottom_rebound
+002404.SZ,6.26,1,1.2,5,strategy_box_bottom_rebound
+000983.SZ,6.27,1,1.2,5,strategy_box_bottom_rebound
+600693.SH,6.3,1,1.2,5,strategy_box_bottom_rebound
+600707.SH,6.31,1,1.2,5,strategy_box_bottom_rebound
+000791.SZ,6.32,1,1.2,5,strategy_box_bottom_rebound
+000886.SZ,6.32,1,1.2,5,strategy_consolidation_breakout_preparation
+002201.SZ,6.32,1,1.2,5,strategy_box_bottom_rebound
+600611.SH,6.32,1,1.2,5,strategy_box_bottom_rebound
+000906.SZ,6.35,1,1.2,5,strategy_box_bottom_rebound
+600778.SH,6.36,1,1.2,5,strategy_box_bottom_rebound
+603318.SH,6.37,1,1.2,5,strategy_box_bottom_rebound
+603060.SH,6.38,1,1.2,5,strategy_box_bottom_rebound
+002354.SZ,6.39,1,1.2,5,strategy_box_bottom_rebound
+000973.SZ,6.4,1,1.2,5,strategy_box_bottom_rebound
+002198.SZ,6.4,1,1.2,5,strategy_box_bottom_rebound
+600098.SH,6.45,1,1.2,5,strategy_box_bottom_rebound
+600335.SH,6.45,1,1.2,5,strategy_box_bottom_rebound
+000716.SZ,6.47,1,1.2,5,strategy_box_bottom_rebound
+603111.SH,6.51,1,1.2,5,strategy_box_bottom_rebound
+600210.SH,6.52,1,1.2,5,strategy_box_bottom_rebound
+002614.SZ,6.54,1,1.2,5,strategy_box_bottom_rebound
+000987.SZ,6.58,1,1.2,5,strategy_box_bottom_rebound
+002279.SZ,6.58,1,1.2,5,strategy_macd_divergent_gold_cross
+000002.SZ,6.6,1,1.2,5,strategy_box_bottom_rebound
+002035.SZ,6.61,1,1.2,5,strategy_box_bottom_rebound
+600971.SH,6.61,1,1.2,5,strategy_box_bottom_rebound
+600348.SH,6.63,1,1.2,5,strategy_box_bottom_rebound
+600906.SH,6.64,1,1.2,5,strategy_box_bottom_rebound
+600019.SH,6.65,1,1.2,5,strategy_box_bottom_rebound
+000937.SZ,6.68,1,1.2,5,strategy_box_bottom_rebound
+600719.SH,6.7,1,1.2,5,strategy_box_bottom_rebound
+002187.SZ,6.71,1,1.2,5,strategy_box_bottom_rebound
+600057.SH,6.72,1,1.2,5,strategy_box_bottom_rebound
+601918.SH,6.72,1,1.2,5,strategy_box_bottom_rebound
+002797.SZ,6.73,1,1.2,5,strategy_box_bottom_rebound
+600127.SH,6.77,1,1.2,5,strategy_box_bottom_rebound
+600825.SH,6.77,1,1.2,5,strategy_box_bottom_rebound
+601801.SH,6.84,1,1.2,5,strategy_box_bottom_rebound
+002681.SZ,6.88,1,1.2,5,strategy_box_bottom_rebound
+000617.SZ,6.92,1,1.2,5,strategy_box_bottom_rebound
+002367.SZ,6.92,1,1.2,5,strategy_box_bottom_rebound
+600195.SH,6.94,1,1.2,5,strategy_box_bottom_rebound
+600284.SH,6.94,1,1.2,5,strategy_ma_convergence_start
+000670.SZ,6.96,1,1.2,5,strategy_box_bottom_rebound
+000800.SZ,6.99,1,1.2,5,strategy_box_bottom_rebound
+600229.SH,6.99,1,1.2,5,strategy_box_bottom_rebound
+002252.SZ,7.0,1,1.2,5,strategy_box_bottom_rebound
+002452.SZ,7.01,1,1.2,5,strategy_box_bottom_rebound
+001391.SZ,7.02,1,1.2,5,strategy_box_bottom_rebound
+000042.SZ,7.03,1,1.2,5,strategy_box_bottom_rebound
+000404.SZ,7.03,1,1.2,5,strategy_box_bottom_rebound
+000070.SZ,7.04,1,1.2,5,strategy_consolidation_breakout_preparation
+000157.SZ,7.05,1,1.2,5,strategy_box_bottom_rebound
+000713.SZ,7.05,1,1.2,5,strategy_box_bottom_rebound
+603617.SH,7.05,1,1.2,5,strategy_box_bottom_rebound
+603316.SH,7.06,1,1.2,5,strategy_consolidation_breakout_preparation
+600237.SH,7.07,1,1.2,5,strategy_box_bottom_rebound
+000655.SZ,7.08,1,1.2,5,strategy_ma_convergence_start
+603717.SH,7.09,1,1.2,5,strategy_box_bottom_rebound
+600061.SH,7.12,1,1.2,5,strategy_box_bottom_rebound
+000089.SZ,7.14,1,1.2,5,strategy_box_bottom_rebound
+002996.SZ,7.18,1,1.2,5,strategy_macd_divergent_gold_cross
+600278.SH,7.18,1,1.2,5,strategy_box_bottom_rebound
+600733.SH,7.18,1,1.2,5,strategy_box_bottom_rebound
+601766.SH,7.18,1,1.2,5,strategy_box_bottom_rebound
+002455.SZ,7.19,1,1.2,5,strategy_box_bottom_rebound
+000700.SZ,7.2,1,1.2,5,strategy_box_bottom_rebound
+600100.SH,7.21,1,1.2,5,strategy_box_bottom_rebound
+002282.SZ,7.22,1,1.2,5,strategy_box_bottom_rebound
+601101.SH,7.24,1,1.2,5,strategy_box_bottom_rebound
+601128.SH,7.24,1,1.2,5,strategy_box_bottom_rebound
+600692.SH,7.25,1,1.2,5,strategy_consolidation_breakout_preparation
+600177.SH,7.28,1,1.2,5,strategy_box_bottom_rebound
+002027.SZ,7.29,1,1.2,5,strategy_box_bottom_rebound
+002363.SZ,7.29,1,1.2,5,strategy_box_bottom_rebound
+002440.SZ,7.29,1,1.2,5,strategy_box_bottom_rebound
+601330.SH,7.3,1,1.2,5,strategy_box_bottom_rebound
+600135.SH,7.32,1,1.2,5,strategy_box_bottom_rebound
+600599.SH,7.35,1,1.2,5,strategy_box_bottom_rebound
+600969.SH,7.35,1,1.2,5,strategy_box_bottom_rebound
+000543.SZ,7.37,1,1.2,5,strategy_box_bottom_rebound
+600628.SH,7.37,1,1.2,5,strategy_box_bottom_rebound
+000910.SZ,7.38,1,1.2,5,strategy_box_bottom_rebound
+600398.SH,7.38,1,1.2,5,strategy_box_bottom_rebound
+600528.SH,7.38,1,1.2,5,strategy_box_bottom_rebound
+600577.SH,7.41,1,1.2,5,strategy_box_bottom_rebound
+002212.SZ,7.42,1,1.2,5,strategy_consolidation_breakout_preparation
+002400.SZ,7.42,1,1.2,5,strategy_box_bottom_rebound
+603987.SH,7.43,1,1.2,5,strategy_box_bottom_rebound
+601798.SH,7.47,1,1.2,5,strategy_box_bottom_rebound
+000925.SZ,7.48,1,1.2,5,strategy_box_bottom_rebound
+002608.SZ,7.48,1,1.2,5,strategy_box_bottom_rebound
+000686.SZ,7.49,1,1.2,5,strategy_box_bottom_rebound
+002129.SZ,7.5,1,1.2,5,strategy_box_bottom_rebound
+601727.SH,7.5,1,1.2,5,strategy_box_bottom_rebound
+603779.SH,7.52,1,1.2,5,strategy_box_bottom_rebound
+002233.SZ,7.57,1,1.2,5,strategy_box_bottom_rebound
+002707.SZ,7.57,1,1.2,5,strategy_box_bottom_rebound
+000911.SZ,7.58,1,1.2,5,strategy_box_bottom_rebound
+002759.SZ,7.58,1,1.2,5,strategy_box_bottom_rebound
+600727.SH,7.58,1,1.2,5,strategy_box_bottom_rebound
+002454.SZ,7.6,1,1.2,5,strategy_box_bottom_rebound
+002532.SZ,7.6,1,1.2,5,strategy_box_bottom_rebound
+600866.SH,7.64,1,1.2,5,strategy_box_bottom_rebound
+601238.SH,7.66,1,1.2,5,strategy_box_bottom_rebound
+000612.SZ,7.67,1,1.2,5,strategy_ma_convergence_start
+600579.SH,7.68,1,1.2,5,strategy_box_bottom_rebound
+002406.SZ,7.69,1,1.2,5,strategy_box_bottom_rebound
+002642.SZ,7.69,1,1.2,5,strategy_macd_divergent_gold_cross
+002334.SZ,7.72,1,1.2,5,strategy_box_bottom_rebound
+600867.SH,7.73,1,1.2,5,strategy_box_bottom_rebound
+000039.SZ,7.75,1,1.2,5,strategy_box_bottom_rebound
+603168.SH,7.78,1,1.2,5,strategy_consolidation_breakout_preparation
+002745.SZ,7.82,1,1.2,5,strategy_box_bottom_rebound
+600241.SH,7.82,1,1.2,5,strategy_ma_convergence_start
+600826.SH,7.84,1,1.2,5,strategy_box_bottom_rebound
+002769.SZ,7.86,1,1.2,5,strategy_box_bottom_rebound
+002887.SZ,7.86,1,1.2,5,strategy_box_bottom_rebound
+600305.SH,7.86,1,1.2,5,strategy_box_bottom_rebound
+000156.SZ,7.88,1,1.2,5,strategy_box_bottom_rebound
+603759.SH,7.88,1,1.2,5,strategy_box_bottom_rebound
+002772.SZ,7.89,1,1.2,5,strategy_box_bottom_rebound
+001313.SZ,7.91,1,1.2,5,strategy_box_bottom_rebound
+600268.SH,7.94,1,1.2,5,strategy_box_bottom_rebound
+600956.SH,7.95,1,1.2,5,strategy_box_bottom_rebound
+600814.SH,7.96,1,1.2,5,strategy_box_bottom_rebound
+601200.SH,8.0,1,1.2,5,strategy_box_bottom_rebound
+000425.SZ,8.02,1,1.2,5,strategy_box_bottom_rebound
+000759.SZ,8.02,1,1.2,5,strategy_box_bottom_rebound
+601728.SH,8.02,1,1.2,5,strategy_box_bottom_rebound
+603569.SH,8.03,1,1.2,5,strategy_box_bottom_rebound
+603633.SH,8.04,1,1.2,5,strategy_box_bottom_rebound
+002243.SZ,8.05,1,1.2,5,strategy_box_bottom_rebound
+603058.SH,8.06,1,1.2,5,strategy_box_bottom_rebound
+000009.SZ,8.09,1,1.2,5,strategy_box_bottom_rebound
+603626.SH,8.1,1,1.2,5,strategy_box_bottom_rebound
+600596.SH,8.11,1,1.2,5,strategy_ma_convergence_start
+000058.SZ,8.15,1,1.2,5,strategy_box_bottom_rebound
+000672.SZ,8.15,1,1.2,5,strategy_box_bottom_rebound
+600356.SH,8.15,1,1.2,5,strategy_ma_convergence_start
+603105.SH,8.15,1,1.2,5,strategy_box_bottom_rebound
+605158.SH,8.15,1,1.2,5,strategy_box_bottom_rebound
+000544.SZ,8.16,1,1.2,5,strategy_box_bottom_rebound
+600838.SH,8.21,1,1.2,5,strategy_box_bottom_rebound
+603158.SH,8.21,1,1.2,5,strategy_box_bottom_rebound
+601236.SH,8.23,1,1.2,5,strategy_ma_convergence_start
+002561.SZ,8.24,1,1.2,5,strategy_box_bottom_rebound
+603387.SH,8.24,1,1.2,5,strategy_box_bottom_rebound
+000050.SZ,8.25,1,1.2,5,strategy_box_bottom_rebound
+603528.SH,8.26,1,1.2,5,strategy_box_bottom_rebound
+002394.SZ,8.27,1,1.2,5,strategy_box_bottom_rebound
+600746.SH,8.28,1,1.2,5,strategy_box_bottom_rebound
+600366.SH,8.3,1,1.2,5,strategy_macd_divergent_gold_cross
+002221.SZ,8.31,1,1.2,5,strategy_box_bottom_rebound
+600629.SH,8.32,1,1.2,5,strategy_box_bottom_rebound
+603313.SH,8.36,1,1.2,5,strategy_ma_convergence_start
+002469.SZ,8.37,1,1.2,5,strategy_box_bottom_rebound
+600630.SH,8.38,1,1.2,5,strategy_box_bottom_rebound
+601311.SH,8.38,1,1.2,5,strategy_box_bottom_rebound
+601777.SH,8.39,1,1.2,5,strategy_box_bottom_rebound
+000301.SZ,8.4,1,1.2,5,strategy_box_bottom_rebound
+603689.SH,8.47,1,1.2,5,strategy_box_bottom_rebound
+001322.SZ,8.48,1,1.2,5,strategy_box_bottom_rebound
+002918.SZ,8.48,1,1.2,5,strategy_box_bottom_rebound
+600109.SH,8.48,1,1.2,5,strategy_box_bottom_rebound
+601666.SH,8.48,1,1.2,5,strategy_box_bottom_rebound
+000635.SZ,8.49,1,1.2,5,strategy_box_bottom_rebound
+002788.SZ,8.49,1,1.2,5,strategy_box_bottom_rebound
+600198.SH,8.49,1,1.2,5,strategy_box_bottom_rebound
+601857.SH,8.51,1,1.2,5,strategy_ma_convergence_start
+600986.SH,8.53,1,1.2,5,strategy_box_bottom_rebound
+002706.SZ,8.55,1,1.2,5,strategy_box_bottom_rebound
+600996.SH,8.55,1,1.2,5,strategy_box_bottom_rebound
+002877.SZ,8.56,1,1.2,5,strategy_box_bottom_rebound
+002493.SZ,8.57,1,1.2,5,strategy_box_bottom_rebound
+603982.SH,8.62,1,1.2,5,strategy_box_bottom_rebound
+002645.SZ,8.63,1,1.2,5,strategy_ma_convergence_start
+600916.SH,8.66,1,1.2,5,strategy_box_bottom_rebound
+000582.SZ,8.69,1,1.2,5,strategy_box_bottom_rebound
+002606.SZ,8.69,1,1.2,5,strategy_box_bottom_rebound
+605268.SH,8.69,1,1.2,5,strategy_box_bottom_rebound
+603177.SH,8.7,1,1.2,5,strategy_ma_convergence_start
+002033.SZ,8.71,1,1.2,5,strategy_box_bottom_rebound
+600642.SH,8.71,1,1.2,5,strategy_box_bottom_rebound
+002163.SZ,8.76,1,1.2,5,strategy_macd_divergent_gold_cross
+000752.SZ,8.8,1,1.2,5,strategy_box_bottom_rebound
+601890.SH,8.8,1,1.2,5,strategy_box_bottom_rebound
+600021.SH,8.81,1,1.2,5,strategy_box_bottom_rebound
+002248.SZ,8.82,1,1.2,5,strategy_box_bottom_rebound
+600546.SH,8.82,1,1.2,5,strategy_box_bottom_rebound
+601800.SH,8.85,1,1.2,5,strategy_box_bottom_rebound
+002293.SZ,8.87,1,1.2,5,strategy_box_bottom_rebound
+002369.SZ,8.88,1,1.2,5,strategy_box_bottom_rebound
+603609.SH,8.89,1,1.2,5,strategy_box_bottom_rebound
+002185.SZ,8.94,1,1.2,5,strategy_box_bottom_rebound
+000666.SZ,8.97,1,1.2,5,strategy_macd_divergent_gold_cross
+001286.SZ,8.97,1,1.2,5,strategy_box_bottom_rebound
+601611.SH,9.01,1,1.2,5,strategy_box_bottom_rebound
+002171.SZ,9.02,1,1.2,5,strategy_consolidation_breakout_preparation
+002700.SZ,9.04,1,1.2,5,strategy_ma_convergence_start
+002521.SZ,9.05,1,1.2,5,strategy_box_bottom_rebound
+603328.SH,9.05,1,1.2,5,strategy_box_bottom_rebound
+603022.SH,9.06,1,1.2,5,strategy_ma_convergence_start
+000501.SZ,9.08,1,1.2,5,strategy_box_bottom_rebound
+002786.SZ,9.08,1,1.2,5,strategy_box_bottom_rebound
+600865.SH,9.09,1,1.2,5,strategy_box_bottom_rebound
+601298.SH,9.1,1,1.2,5,strategy_box_bottom_rebound
+000899.SZ,9.11,1,1.2,5,strategy_box_bottom_rebound
+600879.SH,9.13,1,1.2,5,strategy_box_bottom_rebound
+002761.SZ,9.14,1,1.2,5,strategy_ma_convergence_start
+600267.SH,9.15,1,1.2,5,strategy_box_bottom_rebound
+600663.SH,9.17,1,1.2,5,strategy_box_bottom_rebound
+603536.SH,9.18,1,1.2,5,strategy_box_bottom_rebound
+600295.SH,9.19,1,1.2,5,strategy_box_bottom_rebound
+601519.SH,9.2,1,1.2,5,strategy_box_bottom_rebound
+603088.SH,9.2,1,1.2,5,strategy_box_bottom_rebound
+600371.SH,9.25,1,1.2,5,strategy_box_bottom_rebound
+601566.SH,9.26,1,1.2,5,strategy_box_bottom_rebound
+600737.SH,9.27,1,1.2,5,strategy_box_bottom_rebound
+603289.SH,9.3,1,1.2,5,strategy_box_bottom_rebound
+600827.SH,9.31,1,1.2,5,strategy_box_bottom_rebound
+002167.SZ,9.32,1,1.2,5,strategy_box_bottom_rebound
+002140.SZ,9.34,1,1.2,5,strategy_box_bottom_rebound
+002202.SZ,9.34,1,1.2,5,strategy_box_bottom_rebound
+002459.SZ,9.34,1,1.2,5,strategy_box_bottom_rebound
+002559.SZ,9.34,1,1.2,5,strategy_box_bottom_rebound
+603861.SH,9.35,1,1.2,5,strategy_box_bottom_rebound
+002255.SZ,9.39,1,1.2,5,strategy_box_bottom_rebound
+000779.SZ,9.41,1,1.2,5,strategy_box_bottom_rebound
+603053.SH,9.41,1,1.2,5,strategy_box_bottom_rebound
+600004.SH,9.44,1,1.2,5,strategy_box_bottom_rebound
+002748.SZ,9.48,1,1.2,5,strategy_macd_divergent_gold_cross
+603055.SH,9.48,1,1.2,5,strategy_box_bottom_rebound
+603909.SH,9.48,1,1.2,5,strategy_ma_convergence_start
+601985.SH,9.49,1,1.2,5,strategy_box_bottom_rebound
+600958.SH,9.51,1,1.2,5,strategy_box_bottom_rebound
+002079.SZ,9.53,1,1.2,5,strategy_box_bottom_rebound
+600039.SH,9.53,1,1.2,5,strategy_ma_convergence_start
+600203.SH,9.54,1,1.2,5,strategy_box_bottom_rebound
+002242.SZ,9.59,1,1.2,5,strategy_box_bottom_rebound
+605199.SH,9.59,1,1.2,5,strategy_box_bottom_rebound
+603098.SH,9.61,1,1.2,5,strategy_box_bottom_rebound
+600452.SH,9.66,1,1.2,5,strategy_box_bottom_rebound
+603299.SH,9.7,1,1.2,5,strategy_box_bottom_rebound
+601208.SH,9.72,1,1.2,5,strategy_macd_divergent_gold_cross
+603966.SH,9.72,1,1.2,5,strategy_box_bottom_rebound
+600025.SH,9.73,1,1.2,5,strategy_box_bottom_rebound
+603565.SH,9.8,1,1.2,5,strategy_box_bottom_rebound
+002041.SZ,9.89,1,1.2,5,strategy_box_bottom_rebound
+600718.SH,9.9,1,1.2,5,strategy_box_bottom_rebound
+605368.SH,9.91,1,1.2,5,strategy_box_bottom_rebound
+000528.SZ,9.92,1,1.2,5,strategy_box_bottom_rebound
+000829.SZ,9.95,1,1.2,5,strategy_box_bottom_rebound
+002125.SZ,9.96,1,1.2,5,strategy_box_bottom_rebound
+600846.SH,9.96,1,1.2,5,strategy_consolidation_breakout_preparation
+600995.SH,9.96,1,1.2,5,strategy_box_bottom_rebound
+600775.SH,9.98,1,1.2,5,strategy_box_bottom_rebound
+002043.SZ,10.0,1,1.2,5,strategy_box_bottom_rebound
+002170.SZ,10.0,1,1.2,5,strategy_box_bottom_rebound
+002203.SZ,10.01,1,1.2,5,strategy_box_bottom_rebound
+603118.SH,10.01,1,1.2,5,strategy_macd_divergent_gold_cross
+002324.SZ,10.02,1,1.2,5,strategy_box_bottom_rebound
+002668.SZ,10.02,1,1.2,5,strategy_box_bottom_rebound
+603010.SH,10.02,1,1.2,5,strategy_box_bottom_rebound
+002695.SZ,10.04,1,1.2,5,strategy_box_bottom_rebound
+600839.SH,10.06,1,1.2,5,strategy_box_bottom_rebound
+601019.SH,10.06,1,1.2,5,strategy_box_bottom_rebound
+601696.SH,10.06,1,1.2,5,strategy_box_bottom_rebound
+600026.SH,10.08,1,1.2,5,strategy_box_bottom_rebound
+603803.SH,10.13,1,1.2,5,strategy_ma_convergence_start
+600742.SH,10.14,1,1.2,5,strategy_box_bottom_rebound
+002911.SZ,10.15,1,1.2,5,strategy_box_bottom_rebound
+600199.SH,10.15,1,1.2,5,strategy_box_bottom_rebound
+002106.SZ,10.17,1,1.2,5,strategy_box_bottom_rebound
+002111.SZ,10.18,1,1.2,5,strategy_box_bottom_rebound
+600097.SH,10.18,1,1.2,5,strategy_box_bottom_rebound
+000920.SZ,10.19,1,1.2,5,strategy_box_bottom_rebound
+002272.SZ,10.19,1,1.2,5,strategy_box_bottom_rebound
+601615.SH,10.22,1,1.2,5,strategy_box_bottom_rebound
+002254.SZ,10.24,1,1.2,5,strategy_box_bottom_rebound
+600822.SH,10.24,1,1.2,5,strategy_box_bottom_rebound
+600283.SH,10.28,1,1.2,5,strategy_box_bottom_rebound
+002953.SZ,10.34,1,1.2,5,strategy_box_bottom_rebound
+603801.SH,10.35,1,1.2,5,strategy_box_bottom_rebound
+603466.SH,10.36,1,1.2,5,strategy_box_bottom_rebound
+600230.SH,10.38,1,1.2,5,strategy_box_bottom_rebound
+603648.SH,10.38,1,1.2,5,strategy_box_bottom_rebound
+002052.SZ,10.39,1,1.2,5,strategy_ma_convergence_start
+600661.SH,10.39,1,1.2,5,strategy_ma_convergence_start
+600894.SH,10.39,1,1.2,5,strategy_box_bottom_rebound
+600837.SH,10.41,1,1.2,5,strategy_box_bottom_rebound
+603600.SH,10.47,1,1.2,5,strategy_box_bottom_rebound
+000823.SZ,10.51,1,1.2,5,strategy_ma_convergence_start
+001208.SZ,10.51,1,1.2,5,strategy_box_bottom_rebound
+002205.SZ,10.52,1,1.2,5,strategy_consolidation_breakout_preparation
+600099.SH,10.53,1,1.2,5,strategy_box_bottom_rebound
+600776.SH,10.55,1,1.2,5,strategy_box_bottom_rebound
+601898.SH,10.55,1,1.2,5,strategy_box_bottom_rebound
+000411.SZ,10.56,1,1.2,5,strategy_box_bottom_rebound
+603703.SH,10.57,1,1.2,5,strategy_box_bottom_rebound
+600714.SH,10.58,1,1.2,5,strategy_box_bottom_rebound
+600101.SH,10.59,1,1.2,5,strategy_box_bottom_rebound
+600873.SH,10.61,1,1.2,5,strategy_box_bottom_rebound
+601229.SH,10.64,1,1.2,5,strategy_box_bottom_rebound
+601878.SH,10.64,1,1.2,5,strategy_box_bottom_rebound
+600769.SH,10.66,1,1.2,5,strategy_box_bottom_rebound
+603081.SH,10.67,1,1.2,5,strategy_box_bottom_rebound
+600479.SH,10.7,1,1.2,5,strategy_box_bottom_rebound
+000922.SZ,10.74,1,1.2,5,strategy_box_bottom_rebound
+600739.SH,10.8,1,1.2,5,strategy_ma_convergence_start
+002150.SZ,10.81,1,1.2,5,strategy_box_bottom_rebound
+601116.SH,10.83,1,1.2,5,strategy_box_bottom_rebound
+601699.SH,10.84,1,1.2,5,strategy_box_bottom_rebound
+603033.SH,10.85,1,1.2,5,strategy_box_bottom_rebound
+601233.SH,10.86,1,1.2,5,strategy_box_bottom_rebound
+603708.SH,10.89,1,1.2,5,strategy_box_bottom_rebound
+605228.SH,10.92,1,1.2,5,strategy_box_bottom_rebound
+600732.SH,10.93,1,1.2,5,strategy_box_bottom_rebound
+600435.SH,11.0,1,1.2,5,strategy_box_bottom_rebound
+603225.SH,11.0,1,1.2,5,strategy_box_bottom_rebound
+002296.SZ,11.02,1,1.2,5,strategy_box_bottom_rebound
+000821.SZ,11.04,1,1.2,5,strategy_box_bottom_rebound
+600768.SH,11.04,1,1.2,5,strategy_ma_convergence_start
+603165.SH,11.04,1,1.2,5,strategy_box_bottom_rebound
+002271.SZ,11.08,1,1.2,5,strategy_box_bottom_rebound
+002643.SZ,11.08,1,1.2,5,strategy_box_bottom_rebound
+002820.SZ,11.08,1,1.2,5,strategy_box_bottom_rebound
+001217.SZ,11.1,1,1.2,5,strategy_box_bottom_rebound
+600552.SH,11.11,1,1.2,5,strategy_box_bottom_rebound
+002372.SZ,11.12,1,1.2,5,strategy_box_bottom_rebound
+605580.SH,11.14,1,1.2,5,strategy_box_bottom_rebound
+600919.SH,11.15,1,1.2,5,strategy_ma_convergence_start
+000957.SZ,11.16,1,1.2,5,strategy_box_bottom_rebound
+600619.SH,11.17,1,1.2,5,strategy_box_bottom_rebound
+002497.SZ,11.19,1,1.2,5,strategy_box_bottom_rebound
+002883.SZ,11.19,1,1.2,5,strategy_macd_divergent_gold_cross
+600350.SH,11.2,1,1.2,5,strategy_box_bottom_rebound
+603386.SH,11.2,1,1.2,5,strategy_ma_convergence_start
+600548.SH,11.23,1,1.2,5,strategy_box_bottom_rebound
+603567.SH,11.25,1,1.2,5,strategy_box_bottom_rebound
+002003.SZ,11.27,1,1.2,5,strategy_box_bottom_rebound
+002312.SZ,11.28,1,1.2,5,strategy_box_bottom_rebound
+605007.SH,11.3,1,1.2,5,strategy_box_bottom_rebound
+002810.SZ,11.33,1,1.2,5,strategy_box_bottom_rebound
+601963.SH,11.34,1,1.2,5,strategy_ma_convergence_start
+002416.SZ,11.36,1,1.2,5,strategy_box_bottom_rebound
+600176.SH,11.36,1,1.2,5,strategy_box_bottom_rebound
+002011.SZ,11.38,1,1.2,5,strategy_box_bottom_rebound
+601133.SH,11.38,1,1.2,5,strategy_box_bottom_rebound
+603218.SH,11.46,1,1.2,5,strategy_box_bottom_rebound
+603327.SH,11.5,1,1.2,5,strategy_box_bottom_rebound
+600458.SH,11.56,1,1.2,5,strategy_box_bottom_rebound
+603787.SH,11.57,1,1.2,5,strategy_box_bottom_rebound
+002182.SZ,11.58,1,1.2,5,strategy_box_bottom_rebound
+600388.SH,11.59,1,1.2,5,strategy_box_bottom_rebound
+002543.SZ,11.61,1,1.2,5,strategy_box_bottom_rebound
+002216.SZ,11.65,1,1.2,5,strategy_box_bottom_rebound
+600818.SH,11.65,1,1.2,5,strategy_ma_convergence_start
+002088.SZ,11.7,1,1.2,5,strategy_box_bottom_rebound
+002423.SZ,11.7,1,1.2,5,strategy_box_bottom_rebound
+603890.SH,11.7,1,1.2,5,strategy_box_bottom_rebound
+002144.SZ,11.71,1,1.2,5,strategy_box_bottom_rebound
+603027.SH,11.72,1,1.2,5,strategy_box_bottom_rebound
+600860.SH,11.74,1,1.2,5,strategy_box_bottom_rebound
+603700.SH,11.76,1,1.2,5,strategy_box_bottom_rebound
+600054.SH,11.77,1,1.2,5,strategy_box_bottom_rebound
+002407.SZ,11.79,1,1.2,5,strategy_box_bottom_rebound
+601928.SH,11.82,1,1.2,5,strategy_box_bottom_rebound
+000810.SZ,11.84,1,1.2,5,strategy_annual_line_breakout
+002725.SZ,11.84,1,1.2,5,strategy_box_bottom_rebound
+603187.SH,11.84,1,1.2,5,strategy_box_bottom_rebound
+002456.SZ,11.94,1,1.2,5,strategy_box_bottom_rebound
+002846.SZ,11.95,1,1.2,5,strategy_macd_divergent_gold_cross
+600689.SH,11.95,1,1.2,5,strategy_box_bottom_rebound
+002703.SZ,12.02,1,1.2,5,strategy_box_bottom_rebound
+603303.SH,12.02,1,1.2,5,strategy_box_bottom_rebound
+003003.SZ,12.04,1,1.2,5,strategy_box_bottom_rebound
+603015.SH,12.06,1,1.2,5,strategy_box_bottom_rebound
+001376.SZ,12.08,1,1.2,5,strategy_box_bottom_rebound
+603161.SH,12.08,1,1.2,5,strategy_box_bottom_rebound
+002654.SZ,12.12,1,1.2,5,strategy_annual_line_breakout
+600785.SH,12.15,1,1.2,5,strategy_box_bottom_rebound
+600703.SH,12.16,1,1.2,5,strategy_box_bottom_rebound
+603439.SH,12.16,1,1.2,5,strategy_box_bottom_rebound
+600072.SH,12.17,1,1.2,5,strategy_box_bottom_rebound
+002101.SZ,12.21,1,1.2,5,strategy_box_bottom_rebound
+002096.SZ,12.23,1,1.2,5,strategy_annual_line_breakout
+002245.SZ,12.23,1,1.2,5,strategy_box_bottom_rebound
+603071.SH,12.23,1,1.2,5,strategy_box_bottom_rebound
+002782.SZ,12.24,1,1.2,5,strategy_box_bottom_rebound
+603806.SH,12.26,1,1.2,5,strategy_box_bottom_rebound
+002670.SZ,12.29,1,1.2,5,strategy_box_bottom_rebound
+603977.SH,12.29,1,1.2,5,strategy_box_bottom_rebound
+600000.SH,12.32,1,1.2,5,strategy_ma_convergence_start
+000551.SZ,12.34,1,1.2,5,strategy_box_bottom_rebound
+601058.SH,12.34,1,1.2,5,strategy_box_bottom_rebound
+603315.SH,12.4,1,1.2,5,strategy_box_bottom_rebound
+603587.SH,12.41,1,1.2,5,strategy_box_bottom_rebound
+600292.SH,12.45,1,1.2,5,strategy_box_bottom_rebound
+000969.SZ,12.47,1,1.2,5,strategy_box_bottom_rebound
+001965.SZ,12.56,1,1.2,5,strategy_box_bottom_rebound
+000610.SZ,12.58,1,1.2,5,strategy_box_bottom_rebound
+002655.SZ,12.59,1,1.2,5,strategy_box_bottom_rebound
+600188.SH,12.6,1,1.2,5,strategy_box_bottom_rebound
+002818.SZ,12.8,1,1.2,5,strategy_box_bottom_rebound
+600233.SH,12.81,1,1.2,5,strategy_box_bottom_rebound
+002112.SZ,12.86,1,1.2,5,strategy_box_bottom_rebound
+605577.SH,12.88,1,1.2,5,strategy_box_bottom_rebound
+603668.SH,12.95,1,1.2,5,strategy_box_bottom_rebound
+603230.SH,13.02,1,1.2,5,strategy_box_bottom_rebound
+603758.SH,13.1,1,1.2,5,strategy_ma_convergence_start
+002635.SZ,13.12,1,1.2,5,strategy_box_bottom_rebound
+002507.SZ,13.14,1,1.2,5,strategy_box_bottom_rebound
+002351.SZ,13.15,1,1.2,5,strategy_box_bottom_rebound
+001216.SZ,13.17,1,1.2,5,strategy_box_bottom_rebound
+600367.SH,13.19,1,1.2,5,strategy_box_bottom_rebound
+600955.SH,13.19,1,1.2,5,strategy_box_bottom_rebound
+603886.SH,13.19,1,1.2,5,strategy_box_bottom_rebound
+002056.SZ,13.25,1,1.2,5,strategy_box_bottom_rebound
+603917.SH,13.26,1,1.2,5,strategy_box_bottom_rebound
+002803.SZ,13.27,1,1.2,5,strategy_box_bottom_rebound
+603070.SH,13.29,1,1.2,5,strategy_ma_convergence_start
+600633.SH,13.32,1,1.2,5,strategy_box_bottom_rebound
+600679.SH,13.35,1,1.2,5,strategy_box_bottom_rebound
+603685.SH,13.35,1,1.2,5,strategy_ma_convergence_start
+002823.SZ,13.37,1,1.2,5,strategy_box_bottom_rebound
+601606.SH,13.4,1,1.2,5,strategy_box_bottom_rebound
+002462.SZ,13.48,1,1.2,5,strategy_box_bottom_rebound
+603170.SH,13.53,1,1.2,5,strategy_box_bottom_rebound
+603035.SH,13.54,1,1.2,5,strategy_box_bottom_rebound
+603155.SH,13.54,1,1.2,5,strategy_box_bottom_rebound
+002077.SZ,13.55,1,1.2,5,strategy_box_bottom_rebound
+002917.SZ,13.59,1,1.2,5,strategy_box_bottom_rebound
+001387.SZ,13.6,1,1.2,5,strategy_box_bottom_rebound
+000885.SZ,13.74,1,1.2,5,strategy_box_bottom_rebound
+603738.SH,13.76,1,1.2,5,strategy_box_bottom_rebound
+002945.SZ,13.79,1,1.2,5,strategy_box_bottom_rebound
+603871.SH,13.79,1,1.2,5,strategy_box_bottom_rebound
+600272.SH,13.81,1,1.2,5,strategy_box_bottom_rebound
+601163.SH,13.81,1,1.2,5,strategy_box_bottom_rebound
+603938.SH,13.83,1,1.2,5,strategy_box_bottom_rebound
+600992.SH,13.86,1,1.2,5,strategy_box_bottom_rebound
+603836.SH,13.87,1,1.2,5,strategy_ma_convergence_start
+600113.SH,13.94,1,1.2,5,strategy_box_bottom_rebound
+002572.SZ,13.95,1,1.2,5,strategy_box_bottom_rebound
+600641.SH,13.95,1,1.2,5,strategy_box_bottom_rebound
+600859.SH,13.95,1,1.2,5,strategy_box_bottom_rebound
+603239.SH,13.97,1,1.2,5,strategy_box_bottom_rebound
+603813.SH,14.01,1,1.2,5,strategy_ma_convergence_start
+003039.SZ,14.02,1,1.2,5,strategy_box_bottom_rebound
+002552.SZ,14.03,1,1.2,5,strategy_ma_convergence_start
+002921.SZ,14.04,1,1.2,5,strategy_box_bottom_rebound
+603138.SH,14.04,1,1.2,5,strategy_macd_divergent_gold_cross
+002949.SZ,14.15,1,1.2,5,strategy_ma_convergence_start
+003015.SZ,14.17,1,1.2,5,strategy_box_bottom_rebound
+603819.SH,14.2,1,1.2,5,strategy_box_bottom_rebound
+000739.SZ,14.21,1,1.2,5,strategy_box_bottom_rebound
+603185.SH,14.21,1,1.2,5,strategy_box_bottom_rebound
+002962.SZ,14.24,1,1.2,5,strategy_box_bottom_rebound
+000722.SZ,14.33,1,1.2,5,strategy_macd_divergent_gold_cross
+002705.SZ,14.35,1,1.2,5,strategy_box_bottom_rebound
+002802.SZ,14.38,1,1.2,5,strategy_box_bottom_rebound
+002536.SZ,14.4,1,1.2,5,strategy_box_bottom_rebound
+603809.SH,14.4,1,1.2,5,strategy_box_bottom_rebound
+605056.SH,14.4,1,1.2,5,strategy_box_bottom_rebound
+002603.SZ,14.47,1,1.2,5,strategy_box_bottom_rebound
+601012.SH,14.47,1,1.2,5,strategy_box_bottom_rebound
+600668.SH,14.51,1,1.2,5,strategy_ma_convergence_start
+601966.SH,14.51,1,1.2,5,strategy_box_bottom_rebound
+603219.SH,14.51,1,1.2,5,strategy_box_bottom_rebound
+002675.SZ,14.58,1,1.2,5,strategy_box_bottom_rebound
+001356.SZ,14.68,1,1.2,5,strategy_box_bottom_rebound
+600897.SH,14.69,1,1.2,5,strategy_box_bottom_rebound
+603727.SH,14.69,1,1.2,5,strategy_consolidation_breakout_preparation
+002792.SZ,14.7,1,1.2,5,strategy_box_bottom_rebound
+000807.SZ,14.71,1,1.2,5,strategy_box_bottom_rebound
+002935.SZ,14.72,1,1.2,5,strategy_box_bottom_rebound
+600258.SH,14.73,1,1.2,5,strategy_box_bottom_rebound
+603848.SH,14.74,1,1.2,5,strategy_box_bottom_rebound
+605365.SH,14.74,1,1.2,5,strategy_box_bottom_rebound
+002009.SZ,14.75,1,1.2,5,strategy_box_bottom_rebound
+002527.SZ,14.76,1,1.2,5,strategy_box_bottom_rebound
+000066.SZ,14.8,1,1.2,5,strategy_box_bottom_rebound
+003013.SZ,14.85,1,1.2,5,strategy_box_bottom_rebound
+603877.SH,14.85,1,1.2,5,strategy_box_bottom_rebound
+603978.SH,14.87,1,1.2,5,strategy_ma_convergence_start
+605222.SH,14.92,1,1.2,5,strategy_box_bottom_rebound
+001201.SZ,14.94,1,1.2,5,strategy_box_bottom_rebound
+600346.SH,14.98,1,1.2,5,strategy_box_bottom_rebound
+002299.SZ,14.99,1,1.2,5,strategy_box_bottom_rebound
+603196.SH,15.0,1,1.2,5,strategy_box_bottom_rebound
+603209.SH,15.01,1,1.2,5,strategy_ma_convergence_start
+603970.SH,15.01,1,1.2,5,strategy_macd_divergent_gold_cross
+601811.SH,15.11,1,1.2,5,strategy_box_bottom_rebound
+600886.SH,15.13,1,1.2,5,strategy_box_bottom_rebound
+603933.SH,15.16,1,1.2,5,strategy_box_bottom_rebound
+002718.SZ,15.2,1,1.2,5,strategy_ma_convergence_start
+603602.SH,15.23,1,1.2,5,strategy_box_bottom_rebound
+001239.SZ,15.24,1,1.2,5,strategy_box_bottom_rebound
+002119.SZ,15.3,1,1.2,5,strategy_box_bottom_rebound
+603107.SH,15.3,1,1.2,5,strategy_box_bottom_rebound
+002824.SZ,15.31,1,1.2,5,strategy_box_bottom_rebound
+600487.SH,15.36,1,1.2,5,strategy_box_bottom_rebound
+002698.SZ,15.43,1,1.2,5,strategy_box_bottom_rebound
+600422.SH,15.47,1,1.2,5,strategy_box_bottom_rebound
+600587.SH,15.5,1,1.2,5,strategy_box_bottom_rebound
+002048.SZ,15.53,1,1.2,5,strategy_box_bottom_rebound
+600560.SH,15.59,1,1.2,5,strategy_box_bottom_rebound
+600312.SH,15.62,1,1.2,5,strategy_box_bottom_rebound
+002737.SZ,15.73,1,1.2,5,strategy_box_bottom_rebound
+002884.SZ,15.77,1,1.2,5,strategy_box_bottom_rebound
+000860.SZ,15.78,1,1.2,5,strategy_box_bottom_rebound
+002039.SZ,15.86,1,1.2,5,strategy_box_bottom_rebound
+000801.SZ,15.87,1,1.2,5,strategy_box_bottom_rebound
+603788.SH,15.88,1,1.2,5,strategy_box_bottom_rebound
+601900.SH,15.95,1,1.2,5,strategy_box_bottom_rebound
+002085.SZ,15.99,1,1.2,5,strategy_box_bottom_rebound
+603659.SH,15.99,1,1.2,5,strategy_box_bottom_rebound
+600765.SH,16.06,1,1.2,5,strategy_box_bottom_rebound
+601702.SH,16.06,1,1.2,5,strategy_box_bottom_rebound
+002046.SZ,16.07,1,1.2,5,strategy_box_bottom_rebound
+002957.SZ,16.09,1,1.2,5,strategy_box_bottom_rebound
+600438.SH,16.09,1,1.2,5,strategy_box_bottom_rebound
+603995.SH,16.15,1,1.2,5,strategy_box_bottom_rebound
+001205.SZ,16.16,1,1.2,5,strategy_box_bottom_rebound
+002722.SZ,16.16,1,1.2,5,strategy_ma_convergence_start
+601089.SH,16.18,1,1.2,5,strategy_box_bottom_rebound
+603036.SH,16.18,1,1.2,5,strategy_macd_divergent_gold_cross
+605077.SH,16.18,1,1.2,5,strategy_box_bottom_rebound
+600088.SH,16.2,1,1.2,5,strategy_box_bottom_rebound
+601126.SH,16.21,1,1.2,5,strategy_box_bottom_rebound
+003025.SZ,16.22,1,1.2,5,strategy_box_bottom_rebound
+603279.SH,16.23,1,1.2,5,strategy_box_bottom_rebound
+603517.SH,16.31,1,1.2,5,strategy_box_bottom_rebound
+002576.SZ,16.33,1,1.2,5,strategy_box_bottom_rebound
+002925.SZ,16.35,1,1.2,5,strategy_box_bottom_rebound
+600674.SH,16.42,1,1.2,5,strategy_box_bottom_rebound
+603050.SH,16.43,1,1.2,5,strategy_ma_convergence_start
+600989.SH,16.46,1,1.2,5,strategy_ma_convergence_start
+002967.SZ,16.49,1,1.2,5,strategy_box_bottom_rebound
+600999.SH,16.5,1,1.2,5,strategy_box_bottom_rebound
+603858.SH,16.5,1,1.2,5,strategy_box_bottom_rebound
+000933.SZ,16.52,1,1.2,5,strategy_box_bottom_rebound
+002601.SZ,16.53,1,1.2,5,strategy_box_bottom_rebound
+603282.SH,16.53,1,1.2,5,strategy_box_bottom_rebound
+000623.SZ,16.54,1,1.2,5,strategy_box_bottom_rebound
+001289.SZ,16.55,1,1.2,5,strategy_box_bottom_rebound
+600761.SH,16.56,1,1.2,5,strategy_box_bottom_rebound
+000519.SZ,16.57,1,1.2,5,strategy_box_bottom_rebound
+002006.SZ,16.68,1,1.2,5,strategy_box_bottom_rebound
+002767.SZ,16.68,1,1.2,5,strategy_box_bottom_rebound
+603037.SH,16.7,1,1.2,5,strategy_box_bottom_rebound
+605339.SH,16.83,1,1.2,5,strategy_box_bottom_rebound
+001278.SZ,16.88,1,1.2,5,strategy_box_bottom_rebound
+601020.SH,16.88,1,1.2,5,strategy_macd_divergent_gold_cross
+605183.SH,16.96,1,1.2,5,strategy_annual_line_breakout
+603215.SH,16.98,1,1.2,5,strategy_box_bottom_rebound
+002648.SZ,17.04,1,1.2,5,strategy_box_bottom_rebound
+600559.SH,17.05,1,1.2,5,strategy_box_bottom_rebound
+002855.SZ,17.21,1,1.2,5,strategy_box_bottom_rebound
+002709.SZ,17.22,1,1.2,5,strategy_box_bottom_rebound
+000887.SZ,17.26,1,1.2,5,strategy_box_bottom_rebound
+603233.SH,17.28,1,1.2,5,strategy_box_bottom_rebound
+002158.SZ,17.4,1,1.2,5,strategy_box_bottom_rebound
+600206.SH,17.4,1,1.2,5,strategy_box_bottom_rebound
+603096.SH,17.43,1,1.2,5,strategy_box_bottom_rebound
+603619.SH,17.47,1,1.2,5,strategy_ma_convergence_start
+002034.SZ,17.49,1,1.2,5,strategy_box_bottom_rebound
+603698.SH,17.49,1,1.2,5,strategy_box_bottom_rebound
+603701.SH,17.54,1,1.2,5,strategy_box_bottom_rebound
+603638.SH,17.57,1,1.2,5,strategy_box_bottom_rebound
+603586.SH,17.62,1,1.2,5,strategy_box_bottom_rebound
+603887.SH,17.7,1,1.2,5,strategy_box_bottom_rebound
+000021.SZ,17.72,1,1.2,5,strategy_box_bottom_rebound
+000951.SZ,17.76,1,1.2,5,strategy_box_bottom_rebound
+600741.SH,17.79,1,1.2,5,strategy_box_bottom_rebound
+603515.SH,17.91,1,1.2,5,strategy_box_bottom_rebound
+002888.SZ,17.93,1,1.2,5,strategy_box_bottom_rebound
+001209.SZ,17.95,1,1.2,5,strategy_box_bottom_rebound
+001287.SZ,17.99,1,1.2,5,strategy_box_bottom_rebound
+603201.SH,18.06,1,1.2,5,strategy_box_bottom_rebound
+603776.SH,18.13,1,1.2,5,strategy_box_bottom_rebound
+003011.SZ,18.14,1,1.2,5,strategy_ma_convergence_start
+002149.SZ,18.27,1,1.2,5,strategy_box_bottom_rebound
+603266.SH,18.28,1,1.2,5,strategy_box_bottom_rebound
+002541.SZ,18.31,1,1.2,5,strategy_box_bottom_rebound
+002838.SZ,18.33,1,1.2,5,strategy_ma_convergence_start
+603790.SH,18.39,1,1.2,5,strategy_ma_convergence_start
+001324.SZ,18.41,1,1.2,5,strategy_box_bottom_rebound
+600031.SH,18.47,1,1.2,5,strategy_box_bottom_rebound
+603048.SH,18.48,1,1.2,5,strategy_box_bottom_rebound
+603656.SH,18.48,1,1.2,5,strategy_box_bottom_rebound
+603948.SH,18.48,1,1.2,5,strategy_box_bottom_rebound
+603211.SH,18.51,1,1.2,5,strategy_ma_convergence_start
+000762.SZ,18.52,1,1.2,5,strategy_box_bottom_rebound
+002984.SZ,18.56,1,1.2,5,strategy_box_bottom_rebound
+605060.SH,18.62,1,1.2,5,strategy_box_bottom_rebound
+600872.SH,18.65,1,1.2,5,strategy_box_bottom_rebound
+601882.SH,18.7,1,1.2,5,strategy_box_bottom_rebound
+600506.SH,18.84,1,1.2,5,strategy_box_bottom_rebound
+603706.SH,18.85,1,1.2,5,strategy_box_bottom_rebound
+002428.SZ,18.9,1,1.2,5,strategy_box_bottom_rebound
+002402.SZ,18.98,1,1.2,5,strategy_box_bottom_rebound
+002859.SZ,18.98,1,1.2,5,strategy_box_bottom_rebound
+601136.SH,18.98,1,1.2,5,strategy_box_bottom_rebound
+603298.SH,19.03,1,1.2,5,strategy_box_bottom_rebound
+002508.SZ,19.05,1,1.2,5,strategy_box_bottom_rebound
+600501.SH,19.07,1,1.2,5,strategy_box_bottom_rebound
+002430.SZ,19.19,1,1.2,5,strategy_box_bottom_rebound
+600114.SH,19.2,1,1.2,5,strategy_box_bottom_rebound
+002273.SZ,19.22,1,1.2,5,strategy_macd_divergent_gold_cross
+603595.SH,19.37,1,1.2,5,strategy_ma_convergence_start
+002747.SZ,19.44,1,1.2,5,strategy_box_bottom_rebound
+603826.SH,19.45,1,1.2,5,strategy_box_bottom_rebound
+600062.SH,19.54,1,1.2,5,strategy_box_bottom_rebound
+603533.SH,19.67,1,1.2,5,strategy_box_bottom_rebound
+605003.SH,19.86,1,1.2,5,strategy_consolidation_breakout_preparation
+003038.SZ,19.9,1,1.2,5,strategy_box_bottom_rebound
+000581.SZ,19.91,1,1.2,5,strategy_box_bottom_rebound
+603214.SH,19.96,1,1.2,5,strategy_box_bottom_rebound
+002903.SZ,19.99,1,1.2,5,strategy_box_bottom_rebound
+600861.SH,20.0,1,1.2,5,strategy_box_bottom_rebound
+603139.SH,20.01,1,1.2,5,strategy_box_bottom_rebound
+601225.SH,20.03,1,1.2,5,strategy_box_bottom_rebound
+002577.SZ,20.07,1,1.2,5,strategy_box_bottom_rebound
+001333.SZ,20.23,1,1.2,5,strategy_box_bottom_rebound
+603210.SH,20.28,1,1.2,5,strategy_box_bottom_rebound
+603100.SH,20.34,1,1.2,5,strategy_box_bottom_rebound
+603348.SH,20.34,1,1.2,5,strategy_box_bottom_rebound
+000681.SZ,20.37,1,1.2,5,strategy_box_bottom_rebound
+603733.SH,20.42,1,1.2,5,strategy_box_bottom_rebound
+002899.SZ,20.52,1,1.2,5,strategy_box_bottom_rebound
+001288.SZ,20.58,1,1.2,5,strategy_macd_divergent_gold_cross
+000032.SZ,20.78,1,1.2,5,strategy_macd_divergent_gold_cross
+600129.SH,20.85,1,1.2,5,strategy_box_bottom_rebound
+605108.SH,20.94,1,1.2,5,strategy_box_bottom_rebound
+600141.SH,21.03,1,1.2,5,strategy_box_bottom_rebound
+605179.SH,21.1,1,1.2,5,strategy_box_bottom_rebound
+605186.SH,21.1,1,1.2,5,strategy_consolidation_breakout_preparation
+001336.SZ,21.11,1,1.2,5,strategy_macd_divergent_gold_cross
+603308.SH,21.18,1,1.2,5,strategy_ma_convergence_start
+603381.SH,21.23,1,1.2,5,strategy_box_bottom_rebound
+603067.SH,21.28,1,1.2,5,strategy_box_bottom_rebound
+000049.SZ,21.32,1,1.2,5,strategy_box_bottom_rebound
+001382.SZ,21.37,1,1.2,5,strategy_box_bottom_rebound
+003029.SZ,21.49,1,1.2,5,strategy_annual_line_breakout
+000400.SZ,21.53,1,1.2,5,strategy_box_bottom_rebound
+001308.SZ,21.72,1,1.2,5,strategy_box_bottom_rebound
+603773.SH,21.73,1,1.2,5,strategy_box_bottom_rebound
+002001.SZ,21.82,1,1.2,5,strategy_box_bottom_rebound
+000099.SZ,21.85,1,1.2,5,strategy_box_bottom_rebound
+600426.SH,21.9,1,1.2,5,strategy_ma_convergence_start
+002241.SZ,21.91,1,1.2,5,strategy_box_bottom_rebound
+603355.SH,22.01,1,1.2,5,strategy_box_bottom_rebound
+603505.SH,22.1,1,1.2,5,strategy_box_bottom_rebound
+603190.SH,22.15,1,1.2,5,strategy_box_bottom_rebound
+002791.SZ,22.18,1,1.2,5,strategy_box_bottom_rebound
+600096.SH,22.25,1,1.2,5,strategy_box_bottom_rebound
+601877.SH,22.27,1,1.2,5,strategy_box_bottom_rebound
+603220.SH,22.29,1,1.2,5,strategy_macd_divergent_gold_cross
+600406.SH,22.37,1,1.2,5,strategy_box_bottom_rebound
+605011.SH,22.38,1,1.2,5,strategy_box_bottom_rebound
+601633.SH,22.47,1,1.2,5,strategy_box_bottom_rebound
+002180.SZ,22.59,1,1.2,5,strategy_ma_convergence_start
+603156.SH,22.6,1,1.2,5,strategy_box_bottom_rebound
+603757.SH,22.86,1,1.2,5,strategy_box_bottom_rebound
+600060.SH,22.92,1,1.2,5,strategy_box_bottom_rebound
+600585.SH,22.92,1,1.2,5,strategy_box_bottom_rebound
+600754.SH,23.09,1,1.2,5,strategy_box_bottom_rebound
+603992.SH,23.09,1,1.2,5,strategy_box_bottom_rebound
+603629.SH,23.12,1,1.2,5,strategy_box_bottom_rebound
+603663.SH,23.14,1,1.2,5,strategy_box_bottom_rebound
+000869.SZ,23.15,1,1.2,5,strategy_box_bottom_rebound
+002912.SZ,23.22,1,1.2,5,strategy_box_bottom_rebound
+603888.SH,23.3,1,1.2,5,strategy_box_bottom_rebound
+002976.SZ,23.36,1,1.2,5,strategy_box_bottom_rebound
+003020.SZ,23.37,1,1.2,5,strategy_box_bottom_rebound
+600580.SH,23.47,1,1.2,5,strategy_box_bottom_rebound
+603380.SH,23.52,1,1.2,5,strategy_box_bottom_rebound
+603203.SH,23.6,1,1.2,5,strategy_box_bottom_rebound
+600694.SH,23.67,1,1.2,5,strategy_box_bottom_rebound
+002444.SZ,23.69,1,1.2,5,strategy_box_bottom_rebound
+605358.SH,23.69,1,1.2,5,strategy_box_bottom_rebound
+001228.SZ,23.75,1,1.2,5,strategy_ma_convergence_start
+002156.SZ,23.87,1,1.2,5,strategy_box_bottom_rebound
+002318.SZ,23.99,1,1.2,5,strategy_box_bottom_rebound
+001358.SZ,24.16,1,1.2,5,strategy_ma_convergence_start
+600315.SH,24.19,1,1.2,5,strategy_box_bottom_rebound
+002895.SZ,24.25,1,1.2,5,strategy_box_bottom_rebound
+600460.SH,24.26,1,1.2,5,strategy_box_bottom_rebound
+600066.SH,24.27,1,1.2,5,strategy_box_bottom_rebound
+001269.SZ,24.29,1,1.2,5,strategy_ma_convergence_start
+002831.SZ,24.3,1,1.2,5,strategy_macd_divergent_gold_cross
+603324.SH,24.39,1,1.2,5,strategy_box_bottom_rebound
+002876.SZ,24.52,1,1.2,5,strategy_box_bottom_rebound
+002368.SZ,24.64,1,1.2,5,strategy_consolidation_breakout_preparation
+000768.SZ,24.69,1,1.2,5,strategy_box_bottom_rebound
+000938.SZ,24.74,1,1.2,5,strategy_box_bottom_rebound
+001266.SZ,24.97,1,1.2,5,strategy_box_bottom_rebound
+600845.SH,25.02,1,1.2,5,strategy_box_bottom_rebound
+600895.SH,25.09,1,1.2,5,strategy_box_bottom_rebound
+603816.SH,25.12,1,1.2,5,strategy_box_bottom_rebound
+603344.SH,25.31,1,1.2,5,strategy_box_bottom_rebound
+603496.SH,25.43,1,1.2,5,strategy_box_bottom_rebound
+603530.SH,25.46,1,1.2,5,strategy_box_bottom_rebound
+002955.SZ,25.49,1,1.2,5,strategy_ma_convergence_start
+603690.SH,25.5,1,1.2,5,strategy_box_bottom_rebound
+603051.SH,25.52,1,1.2,5,strategy_box_bottom_rebound
+603280.SH,25.75,1,1.2,5,strategy_ma_convergence_start
+605086.SH,25.81,1,1.2,5,strategy_box_bottom_rebound
+002943.SZ,25.93,1,1.2,5,strategy_box_bottom_rebound
+603920.SH,25.98,1,1.2,5,strategy_box_bottom_rebound
+002050.SZ,26.15,1,1.2,5,strategy_box_bottom_rebound
+603939.SH,26.3,1,1.2,5,strategy_box_bottom_rebound
+603005.SH,26.34,1,1.2,5,strategy_box_bottom_rebound
+605305.SH,26.48,1,1.2,5,strategy_box_bottom_rebound
+603556.SH,26.56,1,1.2,5,strategy_box_bottom_rebound
+001311.SZ,26.98,1,1.2,5,strategy_box_bottom_rebound
+600160.SH,26.98,1,1.2,5,strategy_macd_divergent_gold_cross
+002138.SZ,27.03,1,1.2,5,strategy_box_bottom_rebound
+603895.SH,27.13,1,1.2,5,strategy_box_bottom_rebound
+603929.SH,27.21,1,1.2,5,strategy_box_bottom_rebound
+002151.SZ,27.22,1,1.2,5,strategy_box_bottom_rebound
+600988.SH,27.32,1,1.2,5,strategy_box_bottom_rebound
+002985.SZ,27.38,1,1.2,5,strategy_box_bottom_rebound
+600118.SH,27.46,1,1.2,5,strategy_box_bottom_rebound
+605318.SH,27.48,1,1.2,5,strategy_box_bottom_rebound
+600520.SH,27.55,1,1.2,5,strategy_box_bottom_rebound
+000921.SZ,27.6,1,1.2,5,strategy_box_bottom_rebound
+605168.SH,27.61,1,1.2,5,strategy_box_bottom_rebound
+605333.SH,27.66,1,1.2,5,strategy_box_bottom_rebound
+603235.SH,27.68,1,1.2,5,strategy_box_bottom_rebound
+002812.SZ,27.78,1,1.2,5,strategy_box_bottom_rebound
+002487.SZ,27.91,1,1.2,5,strategy_box_bottom_rebound
+000786.SZ,28.19,1,1.2,5,strategy_box_bottom_rebound
+600887.SH,28.66,1,1.2,5,strategy_box_bottom_rebound
+605398.SH,28.83,1,1.2,5,strategy_box_bottom_rebound
+600764.SH,29.08,1,1.2,5,strategy_box_bottom_rebound
+603859.SH,29.44,1,1.2,5,strategy_box_bottom_rebound
+000997.SZ,29.6,1,1.2,5,strategy_box_bottom_rebound
+003007.SZ,29.62,1,1.2,5,strategy_macd_divergent_gold_cross
+001359.SZ,29.75,1,1.2,5,strategy_box_bottom_rebound
+600729.SH,29.78,1,1.2,5,strategy_box_bottom_rebound
+003019.SZ,29.79,1,1.2,5,strategy_box_bottom_rebound
+600900.SH,29.99,1,1.2,5,strategy_box_bottom_rebound
+603882.SH,30.0,1,1.2,5,strategy_macd_divergent_gold_cross
+002466.SZ,30.34,1,1.2,5,strategy_ma_convergence_start
+600547.SH,30.35,1,1.2,5,strategy_box_bottom_rebound
+600150.SH,30.76,1,1.2,5,strategy_box_bottom_rebound
+003006.SZ,30.83,1,1.2,5,strategy_box_bottom_rebound
+002756.SZ,30.88,1,1.2,5,strategy_box_bottom_rebound
+001323.SZ,31.29,1,1.2,5,strategy_box_bottom_rebound
+002475.SZ,31.32,1,1.2,5,strategy_box_bottom_rebound
+605111.SH,31.33,1,1.2,5,strategy_box_bottom_rebound
+002870.SZ,31.46,1,1.2,5,strategy_box_bottom_rebound
+603650.SH,31.47,1,1.2,5,strategy_box_bottom_rebound
+002906.SZ,31.92,1,1.2,5,strategy_box_bottom_rebound
+002472.SZ,32.11,1,1.2,5,strategy_box_bottom_rebound
+003026.SZ,32.22,1,1.2,5,strategy_annual_line_breakout
+002222.SZ,32.28,1,1.2,5,strategy_box_bottom_rebound
+000063.SZ,32.31,1,1.2,5,strategy_box_bottom_rebound
+600009.SH,32.38,1,1.2,5,strategy_box_bottom_rebound
+600745.SH,32.41,1,1.2,5,strategy_box_bottom_rebound
+600885.SH,32.71,1,1.2,5,strategy_box_bottom_rebound
+600584.SH,32.94,1,1.2,5,strategy_box_bottom_rebound
+001229.SZ,33.02,1,1.2,5,strategy_ma_convergence_start
+002933.SZ,33.33,1,1.2,5,strategy_box_bottom_rebound
+603358.SH,33.92,1,1.2,5,strategy_box_bottom_rebound
+601995.SH,33.96,1,1.2,5,strategy_box_bottom_rebound
+603068.SH,34.0,1,1.2,5,strategy_macd_divergent_gold_cross
+603026.SH,34.08,1,1.2,5,strategy_box_bottom_rebound
+603409.SH,34.61,1,1.2,5,strategy_box_bottom_rebound
+605376.SH,34.66,1,1.2,5,strategy_macd_divergent_gold_cross
+600316.SH,34.75,1,1.2,5,strategy_box_bottom_rebound
+600893.SH,35.25,1,1.2,5,strategy_box_bottom_rebound
+001270.SZ,35.52,1,1.2,5,strategy_box_bottom_rebound
+605098.SH,35.66,1,1.2,5,strategy_box_bottom_rebound
+603271.SH,35.73,1,1.2,5,strategy_box_bottom_rebound
+603312.SH,35.96,1,1.2,5,strategy_box_bottom_rebound
+603667.SH,35.99,1,1.2,5,strategy_box_bottom_rebound
+603589.SH,36.18,1,1.2,5,strategy_box_bottom_rebound
+603868.SH,36.75,1,1.2,5,strategy_box_bottom_rebound
+603052.SH,36.78,1,1.2,5,strategy_box_bottom_rebound
+001335.SZ,36.88,1,1.2,5,strategy_box_bottom_rebound
+600211.SH,37.13,1,1.2,5,strategy_box_bottom_rebound
+603722.SH,37.33,1,1.2,5,strategy_box_bottom_rebound
+002993.SZ,37.5,1,1.2,5,strategy_box_bottom_rebound
+600298.SH,37.52,1,1.2,5,strategy_box_bottom_rebound
+002432.SZ,37.65,1,1.2,5,strategy_box_bottom_rebound
+603082.SH,37.78,1,1.2,5,strategy_box_bottom_rebound
+002901.SZ,38.11,1,1.2,5,strategy_box_bottom_rebound
+603197.SH,38.11,1,1.2,5,strategy_box_bottom_rebound
+603658.SH,38.85,1,1.2,5,strategy_box_bottom_rebound
+603383.SH,39.03,1,1.2,5,strategy_box_bottom_rebound
+003001.SZ,39.1,1,1.2,5,strategy_macd_divergent_gold_cross
+603205.SH,39.1,1,1.2,5,strategy_box_bottom_rebound
+603268.SH,39.12,1,1.2,5,strategy_box_bottom_rebound
+002625.SZ,39.78,1,1.2,5,strategy_box_bottom_rebound
+601628.SH,40.03,1,1.2,5,strategy_ma_convergence_start
+002179.SZ,40.14,1,1.2,5,strategy_box_bottom_rebound
+600976.SH,40.7,1,1.2,5,strategy_box_bottom_rebound
+603198.SH,40.93,1,1.2,5,strategy_box_bottom_rebound
+002315.SZ,41.32,1,1.2,5,strategy_box_bottom_rebound
+603124.SH,41.75,1,1.2,5,strategy_box_bottom_rebound
+600763.SH,41.95,1,1.2,5,strategy_box_bottom_rebound
+000799.SZ,42.05,1,1.2,5,strategy_box_bottom_rebound
+603288.SH,42.83,1,1.2,5,strategy_box_bottom_rebound
+002653.SZ,42.99,1,1.2,5,strategy_box_bottom_rebound
+603369.SH,43.07,1,1.2,5,strategy_box_bottom_rebound
+600779.SH,43.41,1,1.2,5,strategy_box_bottom_rebound
+603395.SH,43.93,1,1.2,5,strategy_box_bottom_rebound
+603062.SH,44.27,1,1.2,5,strategy_box_bottom_rebound
+000628.SZ,44.46,1,1.2,5,strategy_box_bottom_rebound
+603338.SH,45.5,1,1.2,5,strategy_box_bottom_rebound
+001314.SZ,45.66,1,1.2,5,strategy_ma_convergence_start
+001395.SZ,46.24,1,1.2,5,strategy_box_bottom_rebound
+000733.SZ,46.71,1,1.2,5,strategy_box_bottom_rebound
+603260.SH,47.4,1,1.2,5,strategy_box_bottom_rebound
+601689.SH,48.15,1,1.2,5,strategy_box_bottom_rebound
+603606.SH,48.26,1,1.2,5,strategy_box_bottom_rebound
+603257.SH,49.55,1,1.2,5,strategy_box_bottom_rebound
+001283.SZ,49.95,1,1.2,5,strategy_box_bottom_rebound
+600612.SH,50.39,1,1.2,5,strategy_box_bottom_rebound
+002970.SZ,50.5,1,1.2,5,strategy_box_bottom_rebound
+603486.SH,53.03,1,1.2,5,strategy_box_bottom_rebound
+002409.SZ,53.37,1,1.2,5,strategy_box_bottom_rebound
+601318.SH,53.41,1,1.2,5,strategy_box_bottom_rebound
+603786.SH,53.47,1,1.2,5,strategy_box_bottom_rebound
+603596.SH,53.58,1,1.2,5,strategy_box_bottom_rebound
+600309.SH,54.88,1,1.2,5,strategy_box_bottom_rebound
+000423.SZ,54.93,1,1.2,5,strategy_box_bottom_rebound
+002032.SZ,55.28,1,1.2,5,strategy_box_bottom_rebound
+001400.SZ,55.61,1,1.2,5,strategy_box_bottom_rebound
+600660.SH,57.88,1,1.2,5,strategy_box_bottom_rebound
+600132.SH,57.95,1,1.2,5,strategy_box_bottom_rebound
+603833.SH,58.98,1,1.2,5,strategy_box_bottom_rebound
+603019.SH,61.9,1,1.2,5,strategy_box_bottom_rebound
+689009.SH,62.17,1,1.2,5,strategy_box_bottom_rebound
+002991.SZ,63.7,1,1.2,5,strategy_box_bottom_rebound
+002304.SZ,67.12,1,1.2,5,strategy_box_bottom_rebound
+603160.SH,69.49,1,1.2,5,strategy_box_bottom_rebound
+603296.SH,70.77,1,1.2,5,strategy_macd_divergent_gold_cross
+601100.SH,71.15,1,1.2,5,strategy_macd_divergent_gold_cross
+002028.SZ,73.28,1,1.2,5,strategy_box_bottom_rebound
+600600.SH,73.77,1,1.2,5,strategy_box_bottom_rebound
+000333.SZ,75.7,1,1.2,5,strategy_box_bottom_rebound
+603236.SH,77.16,1,1.2,5,strategy_macd_divergent_gold_cross
+603290.SH,81.05,1,1.2,5,strategy_box_bottom_rebound
+603297.SH,83.9,1,1.2,5,strategy_box_bottom_rebound
+002847.SZ,88.5,1,1.2,5,strategy_box_bottom_rebound
+603202.SH,98.28,1,1.2,5,strategy_box_bottom_rebound
+600563.SH,103.42,1,1.2,5,strategy_box_bottom_rebound
+002920.SZ,103.8,1,1.2,5,strategy_box_bottom_rebound
+000568.SZ,116.14,1,1.2,5,strategy_box_bottom_rebound
+600941.SH,116.61,1,1.2,5,strategy_box_bottom_rebound
+603986.SH,123.44,1,1.2,5,strategy_macd_divergent_gold_cross
+000858.SZ,125.09,1,1.2,5,strategy_box_bottom_rebound
+601127.SH,133.16,1,1.2,5,strategy_box_bottom_rebound
+601799.SH,140.01,1,1.2,5,strategy_box_bottom_rebound
+000596.SZ,149.8,1,1.2,5,strategy_box_bottom_rebound
+600436.SH,202.8,1,1.2,5,strategy_box_bottom_rebound
+002594.SZ,359.96,1,1.2,5,strategy_box_bottom_rebound
+600844.SH,3.36,1,1.0,1,strategy_top_gainers
+000889.SZ,3.6,1,1.0,1,strategy_top_gainers
+600939.SH,3.67,1,1.0,1,strategy_plate_breakout_post_close
+000599.SZ,5.61,1,1.0,1,strategy_top_gainers
+002629.SZ,5.73,1,1.0,1,strategy_plate_breakout_post_close
+000665.SZ,5.74,1,1.0,1,strategy_plate_breakout_post_close
+002491.SZ,5.98,1,1.0,1,strategy_plate_breakout_post_close
+000701.SZ,6.66,1,1.0,1,strategy_plate_breakout_post_close
+600151.SH,7.22,1,1.0,1,strategy_top_gainers
+002298.SZ,7.95,1,1.0,1,strategy_plate_breakout_post_close
+000525.SZ,8.13,1,1.0,1,strategy_plate_breakout_post_close
+000533.SZ,8.2,1,1.0,1,strategy_plate_breakout_post_close
+002082.SZ,8.3,1,1.0,1,strategy_plate_breakout_post_close
+002153.SZ,9.01,1,1.0,1,strategy_top_gainers
+603680.SH,11.51,1,1.0,1,strategy_top_gainers
+002951.SZ,12.34,1,1.0,1,strategy_plate_breakout_post_close
+000603.SZ,15.4,1,1.0,1,strategy_top_gainers
+600459.SH,15.47,1,1.0,1,strategy_plate_breakout_post_close
+002213.SZ,16.49,1,1.0,1,strategy_plate_breakout_post_close
+002741.SZ,17.15,1,1.0,1,strategy_plate_breakout_post_close
+603042.SH,18.67,1,1.0,1,strategy_plate_breakout_post_close
+603310.SH,20.14,1,1.0,1,strategy_plate_breakout_post_close
+301026.SZ,25.45,1,1.0,1,strategy_top_gainers
+871634.BJ,29.08,1,1.0,1,strategy_top_gainers
+002605.SZ,30.8,1,1.0,1,strategy_plate_breakout_post_close
+002827.SZ,31.03,1,1.0,1,strategy_plate_breakout_post_close
+835207.BJ,32.0,1,1.0,1,strategy_top_gainers
+603083.SH,45.11,1,1.0,1,strategy_plate_breakout_post_close
+301306.SZ,49.89,1,1.0,1,strategy_top_gainers
+605123.SH,64.16,1,1.0,1,strategy_plate_breakout_post_close

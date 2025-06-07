@@ -247,7 +247,7 @@ def confirm_buy_with_realtime(ts_code: str, trade_date: str) -> bool:
         # logger.info(f"{ts_code} 开盘跌幅过大（今开 < 昨收 * 0.95），不买入")
         return False
 
-    # 条件2：当前价格必须高于“今开”和“昨收” —— 趋势向上确认
+    # 条件2：当前价格必须高于"今开"和"昨收" —— 趋势向上确认
     if realtime_price <= today_open or realtime_price <= yesterday_close:
         # logger.info(f"{ts_code} 实时价未高于今开和昨收，不买入")
         return False
