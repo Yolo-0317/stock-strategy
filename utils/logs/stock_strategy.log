@@ -69,3 +69,645 @@
 2025-06-06 20:02:41,928 - stock_strategy - INFO - main.py:38 - run_all_strategies_with_confirmation - 【strategy_plate_breakout_post_close】命中数量: 60
 2025-06-06 20:02:53,066 - stock_strategy - INFO - main.py:102 - run_all_strategies_with_confirmation - 
 📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250607.csv
+2025-06-07 07:53:09,556 - stock_strategy - INFO - main.py:200 - run_by_time - 
+🕒 当前时间: 07:53，判断逻辑触发中…
+2025-06-07 07:53:09,557 - stock_strategy - INFO - main.py:215 - run_by_time - 🛑 当前时间不在策略运行时段内，无操作。
+2025-06-07 07:53:27,731 - stock_strategy - INFO - main.py:200 - run_by_time - 
+🕒 当前时间: 07:53，判断逻辑触发中…
+2025-06-07 07:53:27,731 - stock_strategy - INFO - main.py:203 - run_by_time - 🌅 [盘前] 执行非实时选股
+2025-06-07 07:53:27,731 - stock_strategy - INFO - main.py:27 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250607 =====
+2025-06-07 07:53:41,299 - stock_strategy - INFO - strategies.py:34 - strategy_check_breakout_batch - 成功从数据库获取数据
+2025-06-07 07:53:44,406 - stock_strategy - INFO - main.py:38 - run_all_strategies_with_confirmation - 【strategy_check_breakout_batch】命中数量: 11
+2025-06-07 07:53:45,850 - stock_strategy - INFO - main.py:38 - run_all_strategies_with_confirmation - 【strategy_top_gainers】命中数量: 29
+2025-06-07 07:53:55,676 - stock_strategy - INFO - main.py:38 - run_all_strategies_with_confirmation - 【strategy_plate_breakout_post_close】命中数量: 60
+2025-06-07 07:54:06,696 - stock_strategy - INFO - main.py:38 - run_all_strategies_with_confirmation - 【strategy_consolidation_breakout_preparation】命中数量: 63
+2025-06-07 07:54:14,130 - stock_strategy - INFO - main.py:38 - run_all_strategies_with_confirmation - 【strategy_box_bottom_rebound】命中数量: 1627
+2025-06-07 07:54:22,623 - stock_strategy - INFO - main.py:38 - run_all_strategies_with_confirmation - 【strategy_ma_convergence_start】命中数量: 517
+2025-06-07 07:54:31,801 - stock_strategy - INFO - main.py:38 - run_all_strategies_with_confirmation - 【strategy_macd_divergent_gold_cross】命中数量: 236
+2025-06-07 07:54:40,741 - stock_strategy - INFO - main.py:38 - run_all_strategies_with_confirmation - 【strategy_annual_line_breakout】命中数量: 23
+2025-06-07 07:57:58,850 - stock_strategy - INFO - main.py:102 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250607.csv
+2025-06-07 08:20:01,437 - stock_strategy - INFO - main.py:230 - run_by_time - 
+🕒 当前时间: 08:20，判断逻辑触发中…
+2025-06-07 08:20:01,438 - stock_strategy - INFO - main.py:233 - run_by_time - 🌅 [盘前] 执行非实时选股
+2025-06-07 08:20:01,438 - stock_strategy - INFO - main.py:27 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250607 =====
+2025-06-07 08:20:12,953 - stock_strategy - INFO - strategies.py:34 - strategy_check_breakout_batch - 成功从数据库获取数据
+2025-06-07 08:20:16,266 - stock_strategy - INFO - main.py:38 - run_all_strategies_with_confirmation - 【strategy_check_breakout_batch】命中数量: 11
+2025-06-07 08:20:17,646 - stock_strategy - INFO - main.py:38 - run_all_strategies_with_confirmation - 【strategy_top_gainers】命中数量: 29
+2025-06-07 08:20:27,449 - stock_strategy - INFO - main.py:38 - run_all_strategies_with_confirmation - 【strategy_plate_breakout_post_close】命中数量: 60
+2025-06-07 08:20:38,084 - stock_strategy - INFO - main.py:38 - run_all_strategies_with_confirmation - 【strategy_consolidation_breakout_preparation】命中数量: 63
+2025-06-07 08:20:45,438 - stock_strategy - INFO - main.py:38 - run_all_strategies_with_confirmation - 【strategy_box_bottom_rebound】命中数量: 1627
+2025-06-07 08:20:53,901 - stock_strategy - INFO - main.py:38 - run_all_strategies_with_confirmation - 【strategy_ma_convergence_start】命中数量: 517
+2025-06-07 08:21:03,214 - stock_strategy - INFO - main.py:38 - run_all_strategies_with_confirmation - 【strategy_macd_divergent_gold_cross】命中数量: 236
+2025-06-07 08:21:12,630 - stock_strategy - INFO - main.py:38 - run_all_strategies_with_confirmation - 【strategy_annual_line_breakout】命中数量: 23
+2025-06-07 08:24:05,887 - stock_strategy - INFO - main.py:230 - run_by_time - 
+🕒 当前时间: 08:24，判断逻辑触发中…
+2025-06-07 08:24:05,888 - stock_strategy - INFO - main.py:233 - run_by_time - 🌅 [盘前] 执行非实时选股
+2025-06-07 08:24:05,888 - stock_strategy - INFO - main.py:27 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250607 =====
+2025-06-07 08:24:15,269 - stock_strategy - INFO - main.py:38 - run_all_strategies_with_confirmation - 【strategy_annual_line_breakout】命中数量: 23
+2025-06-07 08:24:17,618 - stock_strategy - INFO - main.py:102 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250607.csv
+2025-06-07 08:28:47,330 - stock_strategy - INFO - main.py:246 - run_by_time - 
+🕒 当前时间: 08:28，判断逻辑触发中…
+2025-06-07 08:28:47,330 - stock_strategy - INFO - main.py:249 - run_by_time - 🌅 [盘前] 执行选股
+2025-06-07 08:28:47,330 - stock_strategy - INFO - main.py:52 - run_all_strategies_with_confirmation - 
+===== 执行选股流程: 20250607 =====
+2025-06-07 08:28:59,065 - stock_strategy - INFO - strategies.py:34 - strategy_check_breakout_batch - 成功从数据库获取数据
+2025-06-07 08:29:02,859 - stock_strategy - INFO - main.py:63 - run_all_strategies_with_confirmation - 【strategy_check_breakout_batch】命中数量: 11
+2025-06-07 08:29:04,287 - stock_strategy - INFO - main.py:63 - run_all_strategies_with_confirmation - 【strategy_top_gainers】命中数量: 29
+2025-06-07 08:29:20,560 - stock_strategy - INFO - main.py:246 - run_by_time - 
+🕒 当前时间: 08:29，判断逻辑触发中…
+2025-06-07 08:29:20,560 - stock_strategy - INFO - main.py:249 - run_by_time - 🌅 [盘前] 执行选股
+2025-06-07 08:29:20,560 - stock_strategy - INFO - main.py:52 - run_all_strategies_with_confirmation - 
+===== 执行选股流程: 20250607 =====
+2025-06-07 08:29:29,761 - stock_strategy - INFO - main.py:63 - run_all_strategies_with_confirmation - 【strategy_annual_line_breakout】命中数量: 23
+2025-06-07 08:29:32,199 - stock_strategy - INFO - main.py:139 - run_all_strategies_with_confirmation - 
+📁 初步选股列表已保存为文件: confirmed_stocks/confirmed_stocks_20250607.csv
+2025-06-07 08:29:49,999 - stock_strategy - INFO - main.py:246 - run_by_time - 
+🕒 当前时间: 08:29，判断逻辑触发中…
+2025-06-07 08:29:49,999 - stock_strategy - INFO - main.py:249 - run_by_time - 🌅 [盘前] 执行选股
+2025-06-07 08:29:49,999 - stock_strategy - INFO - main.py:52 - run_all_strategies_with_confirmation - 
+===== 执行选股流程: 20250607 =====
+2025-06-07 08:30:01,274 - stock_strategy - INFO - strategies.py:34 - strategy_check_breakout_batch - 成功从数据库获取数据
+2025-06-07 08:30:04,482 - stock_strategy - INFO - main.py:63 - run_all_strategies_with_confirmation - 【strategy_check_breakout_batch】命中数量: 11
+2025-06-07 08:30:05,960 - stock_strategy - INFO - main.py:63 - run_all_strategies_with_confirmation - 【strategy_top_gainers】命中数量: 29
+2025-06-07 08:30:15,763 - stock_strategy - INFO - main.py:63 - run_all_strategies_with_confirmation - 【strategy_plate_breakout_post_close】命中数量: 60
+2025-06-07 08:30:26,234 - stock_strategy - INFO - main.py:63 - run_all_strategies_with_confirmation - 【strategy_consolidation_breakout_preparation】命中数量: 63
+2025-06-07 08:30:33,574 - stock_strategy - INFO - main.py:63 - run_all_strategies_with_confirmation - 【strategy_box_bottom_rebound】命中数量: 1627
+2025-06-07 08:30:41,890 - stock_strategy - INFO - main.py:63 - run_all_strategies_with_confirmation - 【strategy_ma_convergence_start】命中数量: 517
+2025-06-07 08:30:50,940 - stock_strategy - INFO - main.py:63 - run_all_strategies_with_confirmation - 【strategy_macd_divergent_gold_cross】命中数量: 236
+2025-06-07 08:30:59,900 - stock_strategy - INFO - main.py:63 - run_all_strategies_with_confirmation - 【strategy_annual_line_breakout】命中数量: 23
+2025-06-07 08:36:02,919 - stock_strategy - INFO - main.py:223 - run_by_time - 
+🕒 当前时间: 08:36，判断逻辑触发中…
+2025-06-07 08:36:02,919 - stock_strategy - INFO - main.py:226 - run_by_time - 🌅 [盘前] 执行选股
+2025-06-07 08:36:02,919 - stock_strategy - INFO - main.py:52 - run_all_strategies_with_confirmation - 
+===== 执行选股流程: 20250607 =====
+2025-06-07 08:36:15,017 - stock_strategy - INFO - strategies.py:34 - strategy_check_breakout_batch - 成功从数据库获取数据
+2025-06-07 08:36:18,380 - stock_strategy - INFO - main.py:63 - run_all_strategies_with_confirmation - 【strategy_check_breakout_batch】命中数量: 11
+2025-06-07 08:36:19,782 - stock_strategy - INFO - main.py:63 - run_all_strategies_with_confirmation - 【strategy_top_gainers】命中数量: 29
+2025-06-07 08:36:29,630 - stock_strategy - INFO - main.py:63 - run_all_strategies_with_confirmation - 【strategy_plate_breakout_post_close】命中数量: 60
+2025-06-07 08:36:40,289 - stock_strategy - INFO - main.py:63 - run_all_strategies_with_confirmation - 【strategy_consolidation_breakout_preparation】命中数量: 63
+2025-06-07 08:36:47,574 - stock_strategy - INFO - main.py:63 - run_all_strategies_with_confirmation - 【strategy_box_bottom_rebound】命中数量: 1627
+2025-06-07 08:36:55,861 - stock_strategy - INFO - main.py:63 - run_all_strategies_with_confirmation - 【strategy_ma_convergence_start】命中数量: 517
+2025-06-07 08:37:04,876 - stock_strategy - INFO - main.py:63 - run_all_strategies_with_confirmation - 【strategy_macd_divergent_gold_cross】命中数量: 236
+2025-06-07 08:37:13,903 - stock_strategy - INFO - main.py:63 - run_all_strategies_with_confirmation - 【strategy_annual_line_breakout】命中数量: 23
+2025-06-07 08:37:14,845 - stock_strategy - INFO - main.py:124 - run_all_strategies_with_confirmation - 
+📁 初步选股列表已保存为文件: confirmed_stocks/confirmed_stocks_20250607.csv
+2025-06-07 08:37:14,845 - stock_strategy - INFO - main.py:125 - run_all_strategies_with_confirmation - 最终选股数量: 1681
+2025-06-07 08:40:09,964 - stock_strategy - INFO - main.py:230 - run_by_time - 
+🕒 当前时间: 08:40，判断逻辑触发中…
+2025-06-07 08:40:09,964 - stock_strategy - INFO - main.py:233 - run_by_time - 🌅 [盘前] 执行选股
+2025-06-07 08:40:09,964 - stock_strategy - INFO - main.py:52 - run_all_strategies_with_confirmation - 
+===== 执行选股流程: 20250607 =====
+2025-06-07 08:40:21,046 - stock_strategy - INFO - strategies.py:34 - strategy_check_breakout_batch - 成功从数据库获取数据
+2025-06-07 08:40:24,275 - stock_strategy - INFO - main.py:63 - run_all_strategies_with_confirmation - 【strategy_check_breakout_batch】命中数量: 11
+2025-06-07 08:40:25,665 - stock_strategy - INFO - main.py:63 - run_all_strategies_with_confirmation - 【strategy_top_gainers】命中数量: 29
+2025-06-07 08:40:35,479 - stock_strategy - INFO - main.py:63 - run_all_strategies_with_confirmation - 【strategy_plate_breakout_post_close】命中数量: 60
+2025-06-07 08:40:46,067 - stock_strategy - INFO - main.py:63 - run_all_strategies_with_confirmation - 【strategy_consolidation_breakout_preparation】命中数量: 63
+2025-06-07 08:40:53,484 - stock_strategy - INFO - main.py:63 - run_all_strategies_with_confirmation - 【strategy_box_bottom_rebound】命中数量: 1627
+2025-06-07 08:41:01,785 - stock_strategy - INFO - main.py:63 - run_all_strategies_with_confirmation - 【strategy_ma_convergence_start】命中数量: 517
+2025-06-07 08:41:10,968 - stock_strategy - INFO - main.py:63 - run_all_strategies_with_confirmation - 【strategy_macd_divergent_gold_cross】命中数量: 236
+2025-06-07 08:41:19,758 - stock_strategy - INFO - main.py:63 - run_all_strategies_with_confirmation - 【strategy_annual_line_breakout】命中数量: 23
+2025-06-07 08:41:19,810 - stock_strategy - INFO - main.py:130 - run_all_strategies_with_confirmation - 
+📁 初步选股列表已保存为文件: confirmed_stocks/confirmed_stocks_20250607.csv
+2025-06-07 08:41:19,811 - stock_strategy - INFO - main.py:131 - run_all_strategies_with_confirmation - 最终选股数量: 13
+2025-06-07 08:41:19,811 - stock_strategy - INFO - main.py:132 - run_all_strategies_with_confirmation - 得分分布: {4.2: 1, 4.4: 1, 4.6000000000000005: 5, 4.8: 5, 5.6000000000000005: 1}
+2025-06-07 08:45:01,830 - stock_strategy - INFO - main.py:255 - run_by_time - 
+🕒 当前时间: 08:45，判断逻辑触发中…
+2025-06-07 08:45:01,830 - stock_strategy - INFO - main.py:258 - run_by_time - 🌅 [盘前] 执行选股
+2025-06-07 08:45:01,830 - stock_strategy - INFO - main.py:77 - run_all_strategies_with_confirmation - 
+===== 执行选股流程: 20250607 =====
+2025-06-07 08:45:12,990 - stock_strategy - INFO - strategies.py:34 - strategy_check_breakout_batch - 成功从数据库获取数据
+2025-06-07 08:45:16,154 - stock_strategy - INFO - main.py:88 - run_all_strategies_with_confirmation - 【strategy_check_breakout_batch】命中数量: 11
+2025-06-07 08:45:17,516 - stock_strategy - INFO - main.py:88 - run_all_strategies_with_confirmation - 【strategy_top_gainers】命中数量: 29
+2025-06-07 08:45:27,170 - stock_strategy - INFO - main.py:88 - run_all_strategies_with_confirmation - 【strategy_plate_breakout_post_close】命中数量: 60
+2025-06-07 08:45:37,688 - stock_strategy - INFO - main.py:88 - run_all_strategies_with_confirmation - 【strategy_consolidation_breakout_preparation】命中数量: 63
+2025-06-07 08:45:45,042 - stock_strategy - INFO - main.py:88 - run_all_strategies_with_confirmation - 【strategy_box_bottom_rebound】命中数量: 1627
+2025-06-07 08:45:53,361 - stock_strategy - INFO - main.py:88 - run_all_strategies_with_confirmation - 【strategy_ma_convergence_start】命中数量: 517
+2025-06-07 08:46:02,355 - stock_strategy - INFO - main.py:88 - run_all_strategies_with_confirmation - 【strategy_macd_divergent_gold_cross】命中数量: 236
+2025-06-07 08:46:11,398 - stock_strategy - INFO - main.py:88 - run_all_strategies_with_confirmation - 【strategy_annual_line_breakout】命中数量: 23
+2025-06-07 08:46:12,370 - stock_strategy - INFO - main.py:155 - run_all_strategies_with_confirmation - 
+📁 初步选股列表已保存为文件: confirmed_stocks/confirmed_stocks_20250607.csv
+2025-06-07 08:46:12,370 - stock_strategy - INFO - main.py:156 - run_all_strategies_with_confirmation - 最终选股数量: 1681
+2025-06-07 08:46:12,370 - stock_strategy - INFO - main.py:157 - run_all_strategies_with_confirmation - 得分分布: {1.05: 11, 1.26: 19, 1.5: 41, 1.8: 1034, 1.95: 99, 2.25: 7, 2.77: 10, 3.06: 2, 3.31: 5, 3.85: 4, 3.96: 51, 4.14: 26, 4.5: 286, 4.68: 5, 4.7: 1, 5.04: 4, 5.96: 1, 6.59: 3, 7.22: 1, 7.35: 44, 7.56: 3, 7.98: 8, 8.4: 2, 8.5: 1, 8.61: 1, 10.42: 1, 10.66: 4, 11.14: 1, 11.52: 3, 12.0: 1, 12.24: 1, 13.88: 1}
+2025-06-07 10:30:13,171 - stock_strategy - INFO - main.py:304 - run_by_time - 
+🕒 当前时间: 10:30，判断逻辑触发中…
+2025-06-07 10:30:13,172 - stock_strategy - INFO - main.py:311 - run_by_time - 📈 [盘中] 每分钟记录股票行情，启动定时实时复审
+2025-06-07 10:30:13,172 - stock_strategy - INFO - main.py:263 - run_schedule_reconfirm - ⏳ 每一分钟执行一次实时数据下载和实时复审任务，开始监控...（交易日: 20250607）
+2025-06-07 10:30:25,330 - stock_strategy - INFO - main.py:304 - run_by_time - 
+🕒 当前时间: 10:30，判断逻辑触发中…
+2025-06-07 10:30:25,330 - stock_strategy - INFO - main.py:319 - run_by_time - 🛑 当前时间不在策略运行时段内，无操作。
+2025-06-07 10:30:38,088 - stock_strategy - INFO - main.py:304 - run_by_time - 
+🕒 当前时间: 10:30，判断逻辑触发中…
+2025-06-07 10:30:38,089 - stock_strategy - INFO - main.py:307 - run_by_time - 🌅 [盘前] 执行选股
+2025-06-07 10:30:38,089 - stock_strategy - INFO - main.py:126 - run_all_strategies_with_confirmation - 
+===== 执行选股流程: 20250607 =====
+2025-06-07 10:30:38,111 - stock_strategy - ERROR - strategies.py:56 - strategy_check_breakout_batch - 数据库查询失败: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ON (ts_code) *\n        FROM stock_fundamental\n        WHERE trade_date <= '20250' at line 15")
+[SQL: 
+    WITH daily_data AS (
+        SELECT ts_code, trade_date, open, close, pre_close, vol
+        FROM stock_daily
+        WHERE trade_date <= %(date)s
+    ),
+    fundamental_data AS (
+        SELECT ts_code, trade_date,
+            eps, roe, gross_margin, revenue_yoy, profit_yoy, operating_cash_flow
+        FROM stock_fundamental
+        WHERE trade_date <= %(date)s
+    )
+    SELECT d.*, f.*
+    FROM daily_data d
+    LEFT JOIN (
+        SELECT DISTINCT ON (ts_code) *
+        FROM stock_fundamental
+        WHERE trade_date <= %(date)s
+        ORDER BY ts_code, trade_date DESC
+    ) f ON d.ts_code = f.ts_code
+    ]
+[parameters: {'date': '20250606'}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-06-07 10:30:38,112 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_check_breakout_batch】命中数量: 0
+2025-06-07 10:30:38,113 - stock_strategy - ERROR - main.py:139 - run_all_strategies_with_confirmation - 策略 strategy_top_gainers 运行失败: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ON (ts_code) *\n        FROM stock_fundamental\n        WHERE trade_date <= '20250' at line 15")
+[SQL: 
+    WITH daily_data AS (
+        SELECT ts_code, trade_date, close, pre_close, vol, amount
+        FROM stock_daily
+        WHERE trade_date = %(trade_date)s
+    ),
+    fundamental_data AS (
+        SELECT ts_code, trade_date,
+            eps, roe, gross_margin, revenue_yoy, profit_yoy, total_liabilities, total_assets
+        FROM stock_fundamental
+        WHERE trade_date <= %(trade_date)s
+    )
+    SELECT d.*, f.*
+    FROM daily_data d
+    LEFT JOIN (
+        SELECT DISTINCT ON (ts_code) *
+        FROM stock_fundamental
+        WHERE trade_date <= %(trade_date)s
+        ORDER BY ts_code, trade_date DESC
+    ) f ON d.ts_code = f.ts_code
+    ]
+[parameters: {'trade_date': '20250606'}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-06-07 10:30:38,114 - stock_strategy - ERROR - main.py:139 - run_all_strategies_with_confirmation - 策略 strategy_plate_breakout_post_close 运行失败: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ON (ts_code) *\n        FROM stock_fundamental\n        WHERE trade_date <= '20250' at line 9")
+[SQL: 
+    WITH daily_data AS (
+        SELECT ts_code, trade_date, close, high, vol
+        FROM stock_daily
+        WHERE trade_date <= %(trade_date)s
+    )
+    SELECT d.*, f.eps, f.roe, f.gross_margin, f.revenue_yoy, f.profit_yoy, f.operating_cash_flow
+    FROM daily_data d
+    LEFT JOIN (
+        SELECT DISTINCT ON (ts_code) *
+        FROM stock_fundamental
+        WHERE trade_date <= %(trade_date)s
+        ORDER BY ts_code, trade_date DESC
+    ) f ON d.ts_code = f.ts_code
+    ]
+[parameters: {'trade_date': '20250606'}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-06-07 10:30:38,115 - stock_strategy - ERROR - main.py:139 - run_all_strategies_with_confirmation - 策略 strategy_consolidation_breakout_preparation 运行失败: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ON (ts_code) *\n        FROM stock_fundamental\n        WHERE trade_date <= '20250' at line 9")
+[SQL: 
+    WITH daily_data AS (
+        SELECT ts_code, trade_date, close, high, low, vol
+        FROM stock_daily
+        WHERE trade_date <= %(trade_date)s
+    )
+    SELECT d.*, f.roe, f.gross_margin, f.revenue_yoy, f.profit_yoy, f.operating_cash_flow
+    FROM daily_data d
+    LEFT JOIN (
+        SELECT DISTINCT ON (ts_code) *
+        FROM stock_fundamental
+        WHERE trade_date <= %(trade_date)s
+        ORDER BY ts_code, trade_date DESC
+    ) f ON d.ts_code = f.ts_code
+    ]
+[parameters: {'trade_date': '20250606'}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-06-07 10:30:38,116 - stock_strategy - ERROR - main.py:139 - run_all_strategies_with_confirmation - 策略 strategy_box_bottom_rebound 运行失败: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ON (ts_code) *\n        FROM stock_fundamental\n        WHERE trade_date <= '20250' at line 10")
+[SQL: 
+    WITH daily_data AS (
+        SELECT ts_code, trade_date, close
+        FROM stock_daily
+        WHERE trade_date <= %(trade_date)s
+    )
+    SELECT d.*, f.roe, f.gross_margin, f.revenue_yoy, f.profit_yoy,
+        f.total_liabilities, f.total_assets
+    FROM daily_data d
+    LEFT JOIN (
+        SELECT DISTINCT ON (ts_code) *
+        FROM stock_fundamental
+        WHERE trade_date <= %(trade_date)s
+        ORDER BY ts_code, trade_date DESC
+    ) f ON d.ts_code = f.ts_code
+    ]
+[parameters: {'trade_date': '20250606'}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-06-07 10:30:38,117 - stock_strategy - ERROR - main.py:139 - run_all_strategies_with_confirmation - 策略 strategy_ma_convergence_start 运行失败: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ON (ts_code) *\n        FROM stock_fundamental\n        WHERE trade_date <= '20250' at line 9")
+[SQL: 
+    WITH daily_data AS (
+        SELECT ts_code, trade_date, close
+        FROM stock_daily
+        WHERE trade_date <= %(trade_date)s
+    )
+    SELECT d.*, f.roe, f.gross_margin, f.revenue_yoy, f.profit_yoy, f.operating_cash_flow
+    FROM daily_data d
+    LEFT JOIN (
+        SELECT DISTINCT ON (ts_code) *
+        FROM stock_fundamental
+        WHERE trade_date <= %(trade_date)s
+        ORDER BY ts_code, trade_date DESC
+    ) f ON d.ts_code = f.ts_code
+    ]
+[parameters: {'trade_date': '20250606'}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-06-07 10:30:38,117 - stock_strategy - ERROR - main.py:139 - run_all_strategies_with_confirmation - 策略 strategy_macd_divergent_gold_cross 运行失败: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ON (ts_code) *\n        FROM stock_fundamental\n        WHERE trade_date <= '20250' at line 9")
+[SQL: 
+    WITH daily_data AS (
+        SELECT ts_code, trade_date, close
+        FROM stock_daily
+        WHERE trade_date <= %(trade_date)s
+    )
+    SELECT d.*, f.roe, f.gross_margin, f.revenue_yoy, f.profit_yoy, f.total_liabilities, f.total_assets
+    FROM daily_data d
+    LEFT JOIN (
+        SELECT DISTINCT ON (ts_code) *
+        FROM stock_fundamental
+        WHERE trade_date <= %(trade_date)s
+        ORDER BY ts_code, trade_date DESC
+    ) f ON d.ts_code = f.ts_code
+    ]
+[parameters: {'trade_date': '20250606'}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-06-07 10:30:38,118 - stock_strategy - ERROR - main.py:139 - run_all_strategies_with_confirmation - 策略 strategy_annual_line_breakout 运行失败: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ON (ts_code) *\n        FROM stock_fundamental\n        WHERE trade_date <= '20250' at line 9")
+[SQL: 
+    WITH daily_data AS (
+        SELECT ts_code, trade_date, close, vol
+        FROM stock_daily
+        WHERE trade_date <= %(trade_date)s
+    )
+    SELECT d.*, f.roe, f.gross_margin, f.revenue_yoy, f.profit_yoy, f.operating_cash_flow
+    FROM daily_data d
+    LEFT JOIN (
+        SELECT DISTINCT ON (ts_code) *
+        FROM stock_fundamental
+        WHERE trade_date <= %(trade_date)s
+        ORDER BY ts_code, trade_date DESC
+    ) f ON d.ts_code = f.ts_code
+    ]
+[parameters: {'trade_date': '20250606'}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-06-07 10:30:38,118 - stock_strategy - INFO - main.py:142 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-06-07 10:32:06,832 - stock_strategy - INFO - main.py:304 - run_by_time - 
+🕒 当前时间: 10:32，判断逻辑触发中…
+2025-06-07 10:32:06,832 - stock_strategy - INFO - main.py:307 - run_by_time - 🌅 [盘前] 执行选股
+2025-06-07 10:32:06,832 - stock_strategy - INFO - main.py:126 - run_all_strategies_with_confirmation - 
+===== 执行选股流程: 20250607 =====
+2025-06-07 10:32:13,421 - stock_strategy - INFO - strategies.py:53 - strategy_check_breakout_batch - 成功从数据库获取数据
+2025-06-07 10:32:16,112 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_check_breakout_batch】命中数量: 0
+2025-06-07 10:32:16,116 - stock_strategy - ERROR - main.py:139 - run_all_strategies_with_confirmation - 策略 strategy_top_gainers 运行失败: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ON (ts_code) *\n        FROM stock_fundamental\n        WHERE trade_date <= '20250' at line 15")
+[SQL: 
+    WITH daily_data AS (
+        SELECT ts_code, trade_date, close, pre_close, vol, amount
+        FROM stock_daily
+        WHERE trade_date = %(trade_date)s
+    ),
+    fundamental_data AS (
+        SELECT ts_code, trade_date,
+            eps, roe, gross_margin, revenue_yoy, profit_yoy, total_liabilities, total_assets
+        FROM stock_fundamental
+        WHERE trade_date <= %(trade_date)s
+    )
+    SELECT d.*, f.*
+    FROM daily_data d
+    LEFT JOIN (
+        SELECT DISTINCT ON (ts_code) *
+        FROM stock_fundamental
+        WHERE trade_date <= %(trade_date)s
+        ORDER BY ts_code, trade_date DESC
+    ) f ON d.ts_code = f.ts_code
+    ]
+[parameters: {'trade_date': '20250606'}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-06-07 10:32:16,117 - stock_strategy - ERROR - main.py:139 - run_all_strategies_with_confirmation - 策略 strategy_plate_breakout_post_close 运行失败: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ON (ts_code) *\n        FROM stock_fundamental\n        WHERE trade_date <= '20250' at line 9")
+[SQL: 
+    WITH daily_data AS (
+        SELECT ts_code, trade_date, close, high, vol
+        FROM stock_daily
+        WHERE trade_date <= %(trade_date)s
+    )
+    SELECT d.*, f.eps, f.roe, f.gross_margin, f.revenue_yoy, f.profit_yoy, f.operating_cash_flow
+    FROM daily_data d
+    LEFT JOIN (
+        SELECT DISTINCT ON (ts_code) *
+        FROM stock_fundamental
+        WHERE trade_date <= %(trade_date)s
+        ORDER BY ts_code, trade_date DESC
+    ) f ON d.ts_code = f.ts_code
+    ]
+[parameters: {'trade_date': '20250606'}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-06-07 10:32:16,118 - stock_strategy - ERROR - main.py:139 - run_all_strategies_with_confirmation - 策略 strategy_consolidation_breakout_preparation 运行失败: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ON (ts_code) *\n        FROM stock_fundamental\n        WHERE trade_date <= '20250' at line 9")
+[SQL: 
+    WITH daily_data AS (
+        SELECT ts_code, trade_date, close, high, low, vol
+        FROM stock_daily
+        WHERE trade_date <= %(trade_date)s
+    )
+    SELECT d.*, f.roe, f.gross_margin, f.revenue_yoy, f.profit_yoy, f.operating_cash_flow
+    FROM daily_data d
+    LEFT JOIN (
+        SELECT DISTINCT ON (ts_code) *
+        FROM stock_fundamental
+        WHERE trade_date <= %(trade_date)s
+        ORDER BY ts_code, trade_date DESC
+    ) f ON d.ts_code = f.ts_code
+    ]
+[parameters: {'trade_date': '20250606'}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-06-07 10:32:16,119 - stock_strategy - ERROR - main.py:139 - run_all_strategies_with_confirmation - 策略 strategy_box_bottom_rebound 运行失败: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ON (ts_code) *\n        FROM stock_fundamental\n        WHERE trade_date <= '20250' at line 10")
+[SQL: 
+    WITH daily_data AS (
+        SELECT ts_code, trade_date, close
+        FROM stock_daily
+        WHERE trade_date <= %(trade_date)s
+    )
+    SELECT d.*, f.roe, f.gross_margin, f.revenue_yoy, f.profit_yoy,
+        f.total_liabilities, f.total_assets
+    FROM daily_data d
+    LEFT JOIN (
+        SELECT DISTINCT ON (ts_code) *
+        FROM stock_fundamental
+        WHERE trade_date <= %(trade_date)s
+        ORDER BY ts_code, trade_date DESC
+    ) f ON d.ts_code = f.ts_code
+    ]
+[parameters: {'trade_date': '20250606'}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-06-07 10:32:16,120 - stock_strategy - ERROR - main.py:139 - run_all_strategies_with_confirmation - 策略 strategy_ma_convergence_start 运行失败: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ON (ts_code) *\n        FROM stock_fundamental\n        WHERE trade_date <= '20250' at line 9")
+[SQL: 
+    WITH daily_data AS (
+        SELECT ts_code, trade_date, close
+        FROM stock_daily
+        WHERE trade_date <= %(trade_date)s
+    )
+    SELECT d.*, f.roe, f.gross_margin, f.revenue_yoy, f.profit_yoy, f.operating_cash_flow
+    FROM daily_data d
+    LEFT JOIN (
+        SELECT DISTINCT ON (ts_code) *
+        FROM stock_fundamental
+        WHERE trade_date <= %(trade_date)s
+        ORDER BY ts_code, trade_date DESC
+    ) f ON d.ts_code = f.ts_code
+    ]
+[parameters: {'trade_date': '20250606'}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-06-07 10:32:16,121 - stock_strategy - ERROR - main.py:139 - run_all_strategies_with_confirmation - 策略 strategy_macd_divergent_gold_cross 运行失败: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ON (ts_code) *\n        FROM stock_fundamental\n        WHERE trade_date <= '20250' at line 9")
+[SQL: 
+    WITH daily_data AS (
+        SELECT ts_code, trade_date, close
+        FROM stock_daily
+        WHERE trade_date <= %(trade_date)s
+    )
+    SELECT d.*, f.roe, f.gross_margin, f.revenue_yoy, f.profit_yoy, f.total_liabilities, f.total_assets
+    FROM daily_data d
+    LEFT JOIN (
+        SELECT DISTINCT ON (ts_code) *
+        FROM stock_fundamental
+        WHERE trade_date <= %(trade_date)s
+        ORDER BY ts_code, trade_date DESC
+    ) f ON d.ts_code = f.ts_code
+    ]
+[parameters: {'trade_date': '20250606'}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-06-07 10:32:16,122 - stock_strategy - ERROR - main.py:139 - run_all_strategies_with_confirmation - 策略 strategy_annual_line_breakout 运行失败: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ON (ts_code) *\n        FROM stock_fundamental\n        WHERE trade_date <= '20250' at line 9")
+[SQL: 
+    WITH daily_data AS (
+        SELECT ts_code, trade_date, close, vol
+        FROM stock_daily
+        WHERE trade_date <= %(trade_date)s
+    )
+    SELECT d.*, f.roe, f.gross_margin, f.revenue_yoy, f.profit_yoy, f.operating_cash_flow
+    FROM daily_data d
+    LEFT JOIN (
+        SELECT DISTINCT ON (ts_code) *
+        FROM stock_fundamental
+        WHERE trade_date <= %(trade_date)s
+        ORDER BY ts_code, trade_date DESC
+    ) f ON d.ts_code = f.ts_code
+    ]
+[parameters: {'trade_date': '20250606'}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-06-07 10:32:16,122 - stock_strategy - INFO - main.py:142 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-06-07 10:35:43,064 - stock_strategy - INFO - main.py:304 - run_by_time - 
+🕒 当前时间: 10:35，判断逻辑触发中…
+2025-06-07 10:35:43,064 - stock_strategy - INFO - main.py:307 - run_by_time - 🌅 [盘前] 执行选股
+2025-06-07 10:35:43,064 - stock_strategy - INFO - main.py:126 - run_all_strategies_with_confirmation - 
+===== 执行选股流程: 20250607 =====
+2025-06-07 10:35:43,077 - stock_strategy - ERROR - strategies.py:63 - strategy_check_breakout_batch - 数据库查询失败: 'trade_date'
+2025-06-07 10:35:43,078 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_check_breakout_batch】命中数量: 0
+2025-06-07 10:35:43,709 - stock_strategy - ERROR - main.py:139 - run_all_strategies_with_confirmation - 策略 strategy_top_gainers 运行失败: The column label 'ts_code' is not unique.
+2025-06-07 10:38:43,220 - stock_strategy - INFO - main.py:304 - run_by_time - 
+🕒 当前时间: 10:38，判断逻辑触发中…
+2025-06-07 10:38:43,220 - stock_strategy - INFO - main.py:307 - run_by_time - 🌅 [盘前] 执行选股
+2025-06-07 10:38:43,220 - stock_strategy - INFO - main.py:126 - run_all_strategies_with_confirmation - 
+===== 执行选股流程: 20250607 =====
+2025-06-07 10:38:43,221 - stock_strategy - INFO - strategies.py:59 - strategy_check_breakout_batch - 
+    WITH daily_data AS (
+        SELECT ts_code, trade_date, open, close, pre_close, vol
+        FROM stock_daily
+        WHERE trade_date <= %(date)s
+    ),
+    latest_fundamental AS (
+        SELECT f1.*
+        FROM stock_fundamental f1
+        INNER JOIN (
+            SELECT ts_code, MAX(trade_date) as max_date
+            FROM stock_fundamental
+            WHERE trade_date <= %(date)s
+            GROUP BY ts_code
+        ) f2 ON f1.ts_code = f2.ts_code AND f1.trade_date = f2.max_date
+    )
+    SELECT d.*, f.roe, f.gross_margin, f.revenue_yoy, f.profit_yoy, f.operating_cash_flow
+    FROM daily_data d
+    LEFT JOIN (
+        SELECT f.*
+        FROM stock_fundamental f
+        INNER JOIN (
+            SELECT ts_code, MAX(trade_date) AS max_date
+            FROM stock_fundamental
+            WHERE trade_date <= %(trade_date)s
+            GROUP BY ts_code
+        ) fm ON f.ts_code = fm.ts_code AND f.trade_date = fm.max_date
+    ) f ON d.ts_code = f.ts_code    
+2025-06-07 10:38:43,247 - stock_strategy - ERROR - strategies.py:64 - strategy_check_breakout_batch - 数据库查询失败: 'trade_date'
+2025-06-07 10:38:43,248 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_check_breakout_batch】命中数量: 0
+2025-06-07 10:38:43,848 - stock_strategy - ERROR - main.py:139 - run_all_strategies_with_confirmation - 策略 strategy_top_gainers 运行失败: The column label 'ts_code' is not unique.
+2025-06-07 10:39:51,006 - stock_strategy - INFO - main.py:304 - run_by_time - 
+🕒 当前时间: 10:39，判断逻辑触发中…
+2025-06-07 10:39:51,006 - stock_strategy - INFO - main.py:307 - run_by_time - 🌅 [盘前] 执行选股
+2025-06-07 10:39:51,006 - stock_strategy - INFO - main.py:126 - run_all_strategies_with_confirmation - 
+===== 执行选股流程: 20250607 =====
+2025-06-07 10:39:51,006 - stock_strategy - INFO - strategies.py:59 - strategy_check_breakout_batch - 
+    WITH daily_data AS (
+        SELECT ts_code, trade_date, open, close, pre_close, vol
+        FROM stock_daily
+        WHERE trade_date <= %(trade_date)s
+    ),
+    latest_fundamental AS (
+        SELECT f1.*
+        FROM stock_fundamental f1
+        INNER JOIN (
+            SELECT ts_code, MAX(trade_date) as max_date
+            FROM stock_fundamental
+            WHERE trade_date <= %(trade_date)s
+            GROUP BY ts_code
+        ) f2 ON f1.ts_code = f2.ts_code AND f1.trade_date = f2.max_date
+    )
+    SELECT d.*, f.roe, f.gross_margin, f.revenue_yoy, f.profit_yoy, f.operating_cash_flow
+    FROM daily_data d
+    LEFT JOIN (
+        SELECT f.*
+        FROM stock_fundamental f
+        INNER JOIN (
+            SELECT ts_code, MAX(trade_date) AS max_date
+            FROM stock_fundamental
+            WHERE trade_date <= %(trade_date)s
+            GROUP BY ts_code
+        ) fm ON f.ts_code = fm.ts_code AND f.trade_date = fm.max_date
+    ) f ON d.ts_code = f.ts_code    
+2025-06-07 10:40:01,481 - stock_strategy - INFO - main.py:304 - run_by_time - 
+🕒 当前时间: 10:40，判断逻辑触发中…
+2025-06-07 10:40:01,481 - stock_strategy - INFO - main.py:307 - run_by_time - 🌅 [盘前] 执行选股
+2025-06-07 10:40:01,481 - stock_strategy - INFO - main.py:126 - run_all_strategies_with_confirmation - 
+===== 执行选股流程: 20250607 =====
+2025-06-07 10:40:08,145 - stock_strategy - INFO - strategies.py:61 - strategy_check_breakout_batch - 成功从数据库获取数据
+2025-06-07 10:40:10,785 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_check_breakout_batch】命中数量: 0
+2025-06-07 10:40:11,367 - stock_strategy - ERROR - main.py:139 - run_all_strategies_with_confirmation - 策略 strategy_top_gainers 运行失败: The column label 'ts_code' is not unique.
+2025-06-07 10:41:43,453 - stock_strategy - INFO - main.py:304 - run_by_time - 
+🕒 当前时间: 10:41，判断逻辑触发中…
+2025-06-07 10:41:43,453 - stock_strategy - INFO - main.py:307 - run_by_time - 🌅 [盘前] 执行选股
+2025-06-07 10:41:43,453 - stock_strategy - INFO - main.py:126 - run_all_strategies_with_confirmation - 
+===== 执行选股流程: 20250607 =====
+2025-06-07 10:41:49,807 - stock_strategy - INFO - strategies.py:61 - strategy_check_breakout_batch - 成功从数据库获取数据
+2025-06-07 10:41:52,482 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_check_breakout_batch】命中数量: 0
+2025-06-07 10:41:53,053 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_top_gainers】命中数量: 0
+2025-06-07 10:41:59,944 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_plate_breakout_post_close】命中数量: 0
+2025-06-07 10:42:07,361 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_consolidation_breakout_preparation】命中数量: 0
+2025-06-07 10:42:13,656 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_box_bottom_rebound】命中数量: 3
+2025-06-07 10:42:19,781 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_ma_convergence_start】命中数量: 1
+2025-06-07 10:42:27,549 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_macd_divergent_gold_cross】命中数量: 0
+2025-06-07 10:42:34,074 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_annual_line_breakout】命中数量: 0
+2025-06-07 10:47:23,611 - stock_strategy - INFO - main.py:315 - run_by_time - 
+🕒 当前时间: 10:47，判断逻辑触发中…
+2025-06-07 10:47:23,612 - stock_strategy - INFO - main.py:318 - run_by_time - 🌅 [盘前] 执行选股
+2025-06-07 10:47:23,612 - stock_strategy - INFO - main.py:126 - run_all_strategies_with_confirmation - 
+===== 执行选股流程: 20250607 =====
+2025-06-07 10:47:29,899 - stock_strategy - INFO - strategies.py:61 - strategy_check_breakout_batch - 成功从数据库获取数据
+2025-06-07 10:47:32,482 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_check_breakout_batch】命中数量: 0
+2025-06-07 10:47:33,032 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_top_gainers】命中数量: 0
+2025-06-07 10:47:39,899 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_plate_breakout_post_close】命中数量: 0
+2025-06-07 10:47:46,860 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_consolidation_breakout_preparation】命中数量: 0
+2025-06-07 10:47:53,237 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_box_bottom_rebound】命中数量: 3
+2025-06-07 10:47:59,371 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_ma_convergence_start】命中数量: 1
+2025-06-07 10:48:06,849 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_macd_divergent_gold_cross】命中数量: 0
+2025-06-07 10:48:13,244 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_annual_line_breakout】命中数量: 0
+2025-06-07 10:50:49,957 - stock_strategy - INFO - main.py:306 - run_by_time - 
+🕒 当前时间: 10:50，判断逻辑触发中…
+2025-06-07 10:50:49,957 - stock_strategy - INFO - main.py:309 - run_by_time - 🌅 [盘前] 执行选股
+2025-06-07 10:50:49,957 - stock_strategy - INFO - main.py:126 - run_all_strategies_with_confirmation - 
+===== 执行选股流程: 20250607 =====
+2025-06-07 10:50:56,273 - stock_strategy - INFO - strategies.py:61 - strategy_check_breakout_batch - 成功从数据库获取数据
+2025-06-07 10:50:58,888 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_check_breakout_batch】命中数量: 0
+2025-06-07 10:50:59,463 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_top_gainers】命中数量: 0
+2025-06-07 10:51:06,723 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_plate_breakout_post_close】命中数量: 0
+2025-06-07 10:51:13,715 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_consolidation_breakout_preparation】命中数量: 0
+2025-06-07 10:51:19,935 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_box_bottom_rebound】命中数量: 3
+2025-06-07 10:51:26,091 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_ma_convergence_start】命中数量: 1
+2025-06-07 10:51:33,348 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_macd_divergent_gold_cross】命中数量: 0
+2025-06-07 10:51:40,498 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_annual_line_breakout】命中数量: 0
+2025-06-07 10:51:40,500 - stock_strategy - INFO - main.py:153 - run_all_strategies_with_confirmation -   ts_code                         strategy
+0  000596    [strategy_box_bottom_rebound]
+1  002847    [strategy_box_bottom_rebound]
+2  003006    [strategy_box_bottom_rebound]
+3  603103  [strategy_ma_convergence_start]
+2025-06-07 10:54:35,477 - stock_strategy - INFO - main.py:322 - run_by_time - 
+🕒 当前时间: 10:54，判断逻辑触发中…
+2025-06-07 10:54:35,477 - stock_strategy - INFO - main.py:325 - run_by_time - 🌅 [盘前] 执行选股
+2025-06-07 10:54:35,477 - stock_strategy - INFO - main.py:126 - run_all_strategies_with_confirmation - 
+===== 执行选股流程: 20250607 =====
+2025-06-07 10:54:41,725 - stock_strategy - INFO - strategies.py:61 - strategy_check_breakout_batch - 成功从数据库获取数据
+2025-06-07 10:54:44,354 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_check_breakout_batch】命中数量: 0
+2025-06-07 10:54:44,936 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_top_gainers】命中数量: 0
+2025-06-07 10:54:51,863 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_plate_breakout_post_close】命中数量: 0
+2025-06-07 10:54:58,766 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_consolidation_breakout_preparation】命中数量: 0
+2025-06-07 10:55:05,285 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_box_bottom_rebound】命中数量: 3
+2025-06-07 10:55:11,458 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_ma_convergence_start】命中数量: 1
+2025-06-07 10:55:18,871 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_macd_divergent_gold_cross】命中数量: 0
+2025-06-07 10:55:25,343 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_annual_line_breakout】命中数量: 0
+2025-06-07 10:55:25,344 - stock_strategy - INFO - main.py:146 - run_all_strategies_with_confirmation -   ts_code                       strategy   close  box_width_pct  close_position_pct  ma5_10_diff_pct  ma10_20_diff_pct  ma5_slope
+0  000596    strategy_box_bottom_rebound  149.80          14.17                9.50              NaN               NaN        NaN
+1  002847    strategy_box_bottom_rebound   88.50          12.47               14.96              NaN               NaN        NaN
+2  003006    strategy_box_bottom_rebound   30.83           8.83                9.63              NaN               NaN        NaN
+3  603103  strategy_ma_convergence_start   16.08            NaN                 NaN             1.33               1.4      0.136
+2025-06-07 10:56:40,434 - stock_strategy - INFO - main.py:322 - run_by_time - 
+🕒 当前时间: 10:56，判断逻辑触发中…
+2025-06-07 10:56:40,434 - stock_strategy - INFO - main.py:325 - run_by_time - 🌅 [盘前] 执行选股
+2025-06-07 10:56:40,434 - stock_strategy - INFO - main.py:126 - run_all_strategies_with_confirmation - 
+===== 执行选股流程: 20250607 =====
+2025-06-07 10:56:46,816 - stock_strategy - INFO - strategies.py:61 - strategy_check_breakout_batch - 成功从数据库获取数据
+2025-06-07 10:56:49,464 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_check_breakout_batch】命中数量: 0
+2025-06-07 10:56:50,047 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_top_gainers】命中数量: 0
+2025-06-07 10:56:56,949 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_plate_breakout_post_close】命中数量: 0
+2025-06-07 10:57:03,917 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_consolidation_breakout_preparation】命中数量: 0
+2025-06-07 10:57:10,312 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_box_bottom_rebound】命中数量: 3
+2025-06-07 10:57:16,368 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_ma_convergence_start】命中数量: 1
+2025-06-07 10:57:23,619 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_macd_divergent_gold_cross】命中数量: 0
+2025-06-07 10:57:29,975 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_annual_line_breakout】命中数量: 0
+2025-06-07 10:57:29,976 - stock_strategy - INFO - main.py:146 - run_all_strategies_with_confirmation -   ts_code                       strategy   close  box_width_pct  close_position_pct  ma5_10_diff_pct  ma10_20_diff_pct  ma5_slope
+0  000596    strategy_box_bottom_rebound  149.80          14.17                9.50              NaN               NaN        NaN
+1  002847    strategy_box_bottom_rebound   88.50          12.47               14.96              NaN               NaN        NaN
+2  003006    strategy_box_bottom_rebound   30.83           8.83                9.63              NaN               NaN        NaN
+3  603103  strategy_ma_convergence_start   16.08            NaN                 NaN             1.33               1.4      0.136
+2025-06-07 11:01:42,294 - stock_strategy - INFO - main.py:254 - run_by_time - 
+🕒 当前时间: 11:01，判断逻辑触发中…
+2025-06-07 11:01:42,295 - stock_strategy - INFO - main.py:257 - run_by_time - 🌅 [盘前] 执行选股
+2025-06-07 11:01:42,295 - stock_strategy - INFO - main.py:126 - run_all_strategies_with_confirmation - 
+===== 执行选股流程: 20250607 =====
+2025-06-07 11:01:58,980 - stock_strategy - INFO - main.py:254 - run_by_time - 
+🕒 当前时间: 11:01，判断逻辑触发中…
+2025-06-07 11:01:58,981 - stock_strategy - INFO - main.py:257 - run_by_time - 🌅 [盘前] 执行选股
+2025-06-07 11:01:58,981 - stock_strategy - INFO - main.py:126 - run_all_strategies_with_confirmation - 
+===== 执行选股流程: 20250607 =====
+2025-06-07 11:02:21,286 - stock_strategy - INFO - main.py:265 - run_by_time - 
+🕒 当前时间: 11:02，判断逻辑触发中…
+2025-06-07 11:02:21,286 - stock_strategy - INFO - main.py:268 - run_by_time - 🌅 [盘前] 执行选股
+2025-06-07 11:02:21,286 - stock_strategy - INFO - main.py:126 - run_all_strategies_with_confirmation - 
+===== 执行选股流程: 20250607 =====
+2025-06-07 11:02:27,630 - stock_strategy - INFO - strategies.py:61 - strategy_check_breakout_batch - 成功从数据库获取数据
+2025-06-07 11:02:30,177 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_check_breakout_batch】命中数量: 0
+2025-06-07 11:02:30,753 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_top_gainers】命中数量: 0
+2025-06-07 11:02:37,546 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_plate_breakout_post_close】命中数量: 0
+2025-06-07 11:02:44,442 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_consolidation_breakout_preparation】命中数量: 0
+2025-06-07 11:02:50,899 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_box_bottom_rebound】命中数量: 3
+2025-06-07 11:02:57,137 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_ma_convergence_start】命中数量: 1
+2025-06-07 11:03:04,660 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_macd_divergent_gold_cross】命中数量: 0
+2025-06-07 11:03:11,242 - stock_strategy - INFO - main.py:137 - run_all_strategies_with_confirmation - 【strategy_annual_line_breakout】命中数量: 0
+2025-06-07 11:03:11,243 - stock_strategy - INFO - main.py:146 - run_all_strategies_with_confirmation -   ts_code                       strategy   close  box_width_pct  close_position_pct  ma5_10_diff_pct  ma10_20_diff_pct  ma5_slope
+0  000596    strategy_box_bottom_rebound  149.80          14.17                9.50              NaN               NaN        NaN
+1  002847    strategy_box_bottom_rebound   88.50          12.47               14.96              NaN               NaN        NaN
+2  003006    strategy_box_bottom_rebound   30.83           8.83                9.63              NaN               NaN        NaN
+3  603103  strategy_ma_convergence_start   16.08            NaN                 NaN             1.33               1.4      0.136
+2025-06-07 11:03:11,268 - stock_strategy - INFO - main.py:166 - run_all_strategies_with_confirmation - 
+📁 初步选股列表已保存为文件: confirmed_stocks/confirmed_stocks_20250607.csv
+2025-06-07 11:03:11,268 - stock_strategy - INFO - main.py:167 - run_all_strategies_with_confirmation - 最终选股数量: 4
+2025-06-07 11:06:45,897 - stock_strategy - INFO - main.py:200 - run_by_time - 
+🕒 当前时间: 11:06，判断逻辑触发中…
+2025-06-07 11:06:45,898 - stock_strategy - INFO - main.py:207 - run_by_time - 📈 [盘中] 每分钟记录股票行情，启动定时实时复审
+2025-06-07 11:06:45,898 - stock_strategy - INFO - main.py:160 - run_schedule_reconfirm - ⏳ 每一分钟执行一次实时数据下载和实时复审任务，开始监控...（交易日: 20250607）

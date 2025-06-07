@@ -1,2 +1,3 @@
 .vscode
 stock_portfolio/frontend/node_modules
+__pycache__
