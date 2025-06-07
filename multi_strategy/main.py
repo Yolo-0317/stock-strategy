@@ -143,7 +143,6 @@ def run_all_strategies_with_confirmation(trade_date: str):
         return
 
     df_all = pd.concat(all_hits, ignore_index=True)
-    logger.info(df_all)
 
     # 过滤掉科创板（688开头）和创业板（300开头）
     df_confirmed = df_all[~df_all["ts_code"].str.startswith(("300", "688"))]
@@ -154,8 +153,10 @@ def run_all_strategies_with_confirmation(trade_date: str):
         yesterday_close = get_yesterday_close(ts_code, trade_date)
         yesterday_closes.append(yesterday_close)
 
+    df_confirmed = df_confirmed.copy()  # 先复制
     df_confirmed["昨收"] = yesterday_closes
-    df_confirmed["策略名称"] = df_confirmed["strategy"].apply(lambda x: ", ".join(x))
+    # df_confirmed["策略名称"] = df_confirmed["strategy"].apply(lambda x: ", ".join(x))
+    df_confirmed["策略名称"] = df_confirmed["strategy"]
 
     # 仅保留指定列
     df_confirmed = df_confirmed[["ts_code", "昨收", "策略名称"]]

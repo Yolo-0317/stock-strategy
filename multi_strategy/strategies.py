@@ -16,18 +16,23 @@ engine = create_engine(MYSQL_URL)
 
 def strategy_check_breakout_batch(trade_date: str):
     """
-    策略1：突破+放量+涨幅≥5% + 基本面优质
-    适合 T+1 卖出
-    原因：
-        • 涨幅 ≥5% 且放量突破，通常是短线资金介入，次日有惯性
-        • 突破后，次日惯性冲高概率大，可以 T+1 卖出止盈
-    基本面筛选：
-        • ROE > 15%：确保公司有较强的盈利能力
-        • 毛利率 > 25%：确保公司有较高的利润空间
-        • 营收同比增长 > 20%：确保公司处于高速增长期
-        • 净利润同比增长 > 30%：确保公司利润增长强劲
-        • 经营性现金流净额 > 0：确保公司经营现金流健康
+    策略1 放宽版：
+    - 技术面放宽：
+        • 涨幅 ≥ 3% （降低门槛，允许略小涨幅）
+        • 成交量 ≥ 1.5倍5日均量 （降低放量要求）
+        • 收盘价达到过去20日最高价的98%以上（允许略低于最高价）
+        • 收盘价高于开盘价（当天上涨）
+        • MA多头排列连续2天（减少天数要求）
+    - 基本面放宽：
+        • ROE > 10%
+        • 毛利率 > 15%
+        • 营收同比增长 > 10%
+        • 净利润同比增长 > 15%
+        • 经营性现金流净额 > 0
+
+    适合 T+1 卖出，适当增加股票池数量，提高策略的包容性。
     """
+
     sql = """
     WITH daily_data AS (
         SELECT ts_code, trade_date, open, close, pre_close, vol
@@ -55,7 +60,9 @@ def strategy_check_breakout_batch(trade_date: str):
             WHERE trade_date <= %(trade_date)s
             GROUP BY ts_code
         ) fm ON f.ts_code = fm.ts_code AND f.trade_date = fm.max_date
-    ) f ON d.ts_code = f.ts_code    """
+    ) f ON d.ts_code = f.ts_code
+    """
+
     try:
         df_all = pd.read_sql(sql, engine, params={"trade_date": trade_date})
         logger.info("成功从数据库获取数据")
@@ -68,37 +75,55 @@ def strategy_check_breakout_batch(trade_date: str):
 
     for ts_code, df in grouped:
         df = df.sort_values("trade_date").reset_index(drop=True)
+
+        # 数据量不足30天，跳过
         if len(df) < 30:
             continue
 
-        df = df.copy()  # 创建副本
+        df = df.copy()
+
+        # 计算每日涨幅百分比
         df.loc[:, "pct_chg"] = (df["close"] - df["pre_close"]) / df["pre_close"] * 100
+
+        # 计算5日均量，反映短期成交量平均水平
         df.loc[:, "avg_vol_5"] = df["vol"].rolling(window=5).mean()
+
+        # 计算过去20日最高收盘价，作为突破参考
         df.loc[:, "max_close_20"] = df["close"].rolling(window=20).max()
+
+        # 计算5日、10日、20日均线，判断多头排列趋势
         df.loc[:, "ma5"] = df["close"].rolling(5).mean()
         df.loc[:, "ma10"] = df["close"].rolling(10).mean()
         df.loc[:, "ma20"] = df["close"].rolling(20).mean()
+
+        # 判断多头排列：5日均线 > 10日均线 > 20日均线
         df.loc[:, "ma_bullish"] = (df["ma5"] > df["ma10"]) & (df["ma10"] > df["ma20"])
 
         last = df.iloc[-1]
-        ma_bullish = df["ma_bullish"].iloc[-3:].all()
 
+        # MA多头排列连续2天
+        ma_bullish_2days = df["ma_bullish"].iloc[-2:].all()
+
+        # 技术面突破判断条件
         volume_price_breakout = (
-            last["pct_chg"] >= 5
-            and last["vol"] >= 2 * last["avg_vol_5"]
-            and last["close"] >= last["max_close_20"]
-            and last["close"] > last["open"]
+            (last["pct_chg"] >= 3) and  # 当日涨幅至少3%
+            (last["vol"] >= 1.5 * last["avg_vol_5"]) and  # 成交量至少1.5倍5日均量
+            (last["close"] >= 0.98 * last["max_close_20"]) and  # 收盘价达到近20日最高价的98%
+            (last["close"] > last["open"])  # 当日收盘高于开盘
         )
 
-        if volume_price_breakout and ma_bullish:
-            # 获取最新的基本面数据
+        # 满足技术面和趋势条件才进一步判断基本面
+        if volume_price_breakout and ma_bullish_2days:
             fundamental = df.iloc[-1]
-            # 增加基本面筛选
-            if (fundamental['roe'] > 15 and  # ROE > 15%
-                fundamental['gross_margin'] > 25 and  # 毛利率 > 25%
-                fundamental['revenue_yoy'] > 20 and  # 营收同比增长为正
-                fundamental['profit_yoy'] > 30 and  # 净利润同比增长为正
-                fundamental['operating_cash_flow'] > 0):  # 经营性现金流净额为正
+
+            # 基本面多条件筛选
+            if (
+                (fundamental['roe'] > 10) and
+                (fundamental['gross_margin'] > 15) and
+                (fundamental['revenue_yoy'] > 10) and
+                (fundamental['profit_yoy'] > 15) and
+                (fundamental['operating_cash_flow'] > 0)
+            ):
                 results.append({"ts_code": ts_code})
 
     return pd.DataFrame(results)
@@ -106,29 +131,23 @@ def strategy_check_breakout_batch(trade_date: str):
 
 def strategy_top_gainers(trade_date: str) -> pd.DataFrame:
     """
-    策略2：涨幅前5% + 成交额大 + 放量 + 基本面优质
-    适合 T+1 卖出
-    原因：
-        • 涨幅前5%、放量+成交额大，往往为主力资金进场
-        • 次日有短线资金跟风炒作预期，适合次日冲高卖出
-    基本面筛选：
-        • ROE > 12%：确保公司有良好的盈利能力
-        • 毛利率 > 20%：确保公司有足够的利润空间
-        • 营收同比增长 > 15%：确保公司业务在增长
-        • 净利润同比增长 > 20%：确保公司利润在增长
-        • 资产负债率 < 60%：控制财务风险
+    放宽版策略：
+    - 技术面同原策略（涨幅前5%、成交额大、放量）
+    - 基本面5项指标过滤，至少满足3条条件
+    - 阈值较宽松
+
+    基本面指标：
+        • ROE > 8%
+        • 毛利率 > 15%
+        • 营收同比增长 > 5%
+        • 净利润同比增长 > 5%
+        • 资产负债率 < 70%
     """
     sql = """
     WITH daily_data AS (
         SELECT ts_code, trade_date, close, pre_close, vol, amount
         FROM stock_daily
         WHERE trade_date = %(trade_date)s
-    ),
-    fundamental_data AS (
-        SELECT ts_code, trade_date,
-            eps, roe, gross_margin, revenue_yoy, profit_yoy, total_liabilities, total_assets
-        FROM stock_fundamental
-        WHERE trade_date <= %(trade_date)s
     )
     SELECT 
         d.ts_code, d.trade_date, d.close, d.pre_close, d.vol, d.amount,
@@ -161,16 +180,21 @@ def strategy_top_gainers(trade_date: str) -> pd.DataFrame:
 
     df = pd.merge(df, df_prev, on="ts_code")
     df["vol_increase_ratio"] = df["vol"] / df["vol_prev"]
+
+    # 技术面筛选
     df = df[(df["amount"] >= 1e4) & (df["vol_increase_ratio"] >= 1.5)]
 
-    # 增加基本面筛选
-    df = df[
-        (df["roe"] > 12) &  # ROE > 12%
-        (df["gross_margin"] > 20) &  # 毛利率 > 20%
-        (df["revenue_yoy"] > 15) &  # 营收同比增长为正
-        (df["profit_yoy"] > 20) &  # 净利润同比增长为正
-        (df["total_liabilities"] / df["total_assets"] * 100 < 60)  # 资产负债率 < 60%
-    ]
+    # 基本面条件计数
+    cond1 = df["roe"] > 8
+    cond2 = df["gross_margin"] > 15
+    cond3 = df["revenue_yoy"] > 5
+    cond4 = df["profit_yoy"] > 5
+    cond5 = (df["total_liabilities"] / df["total_assets"] * 100) < 70
+
+    df["basic_conditions_met"] = cond1.astype(int) + cond2.astype(int) + cond3.astype(int) + cond4.astype(int) + cond5.astype(int)
+
+    # 至少满足3条基本面条件
+    df = df[df["basic_conditions_met"] >= 3]
 
     top5pct = int(len(df) * 0.05)
     df = df.sort_values("pct_chg", ascending=False).head(top5pct)
@@ -180,19 +204,20 @@ def strategy_top_gainers(trade_date: str) -> pd.DataFrame:
 
 def strategy_plate_breakout_post_close(trade_date: str) -> pd.DataFrame:
     """
-    策略3：平台突破 + 放量启动 + 基本面优质
+    策略3 放宽版：平台突破 + 放量启动 + 基本面较优
     逻辑条件：
         1. 过去10日高点构成平台
-        2. 今日收盘价突破10日最高价
-        3. 今日涨幅 > 4%
-        4. 今日成交量 > 过去5日均量的1.5倍
+        2. 今日收盘价突破10日最高价的98%（允许略低）
+        3. 今日涨幅 > 3% （降低涨幅门槛）
+        4. 今日成交量 > 过去5日均量的1.2倍 （降低放量要求）
     基本面筛选：
-        • ROE > 10%：确保公司有基本的盈利能力
-        • 毛利率 > 15%：确保公司有基本的利润空间
-        • 营收同比增长 > 10%：确保公司业务在增长
-        • 净利润同比增长 > 15%：确保公司利润在增长
-        • 经营性现金流净额 > 0：确保公司经营现金流健康
+        • ROE > 8%
+        • 毛利率 > 12%
+        • 营收同比增长 > 8%
+        • 净利润同比增长 > 12%
+        • 经营性现金流净额 > 0
     """
+
     sql = """
     WITH daily_data AS (
         SELECT ts_code, trade_date, close, high, vol
@@ -219,16 +244,19 @@ def strategy_plate_breakout_post_close(trade_date: str) -> pd.DataFrame:
 
     for ts_code, group in df.groupby("ts_code"):
         group = group.tail(20).copy()
+        # 数据不足11天，不处理
         if len(group) < 11:
             continue
 
+        # 计算5日均量，用于成交量放大判断
         group["avg_vol_5"] = group["vol"].rolling(5).mean()
 
+        # 历史数据为最近10天（不包括今天）
         history = group.iloc[:-1]
         today = group.iloc[-1]
         yesterday = group.iloc[-2]
 
-        # 跳过均量为空或前一日收盘为 0 的情况
+        # 跳过缺失或异常数据
         if pd.isna(today["avg_vol_5"]) or yesterday["close"] == 0:
             continue
 
@@ -236,14 +264,19 @@ def strategy_plate_breakout_post_close(trade_date: str) -> pd.DataFrame:
         pct_change = (today["close"] - yesterday["close"]) / yesterday["close"] * 100
         vol_ratio = today["vol"] / today["avg_vol_5"]
 
-        # 走势逻辑判断
-        if today["close"] > max_high_10 and pct_change > 4 and vol_ratio > 1.5:
+        # 判断是否突破平台且涨幅和放量满足要求
+        if (
+            today["close"] >= 0.98 * max_high_10 and  # 收盘价达到10日高点的98%
+            pct_change > 3 and                        # 涨幅超过3%
+            vol_ratio > 1.2                          # 成交量放大超过1.2倍
+        ):
             f = today
+            # 基本面指标放宽筛选
             if (
-                f["roe"] > 10 and
-                f["gross_margin"] > 15 and
-                f["revenue_yoy"] > 10 and
-                f["profit_yoy"] > 15 and
+                f["roe"] > 8 and
+                f["gross_margin"] > 12 and
+                f["revenue_yoy"] > 8 and
+                f["profit_yoy"] > 12 and
                 f["operating_cash_flow"] > 0
             ):
                 result.append({
@@ -885,16 +918,16 @@ STRATEGY_CONFIG = {
 
 # 策略注册表
 ALL_STRATEGIES = [
-    strategy_check_breakout_batch,
-    strategy_top_gainers,
+    # strategy_check_breakout_batch,
+    # strategy_top_gainers,
     strategy_plate_breakout_post_close,
-    # 将长线暂停
-    # strategy_macd_golden_cross,
-    # strategy_first_limit_up_low_position,
-    # 新增5个潜伏类策略
-    strategy_consolidation_breakout_preparation,
-    strategy_box_bottom_rebound,
-    strategy_ma_convergence_start,
-    strategy_macd_divergent_gold_cross,
-    strategy_annual_line_breakout,
+    # # 将长线暂停
+    # # strategy_macd_golden_cross,
+    # # strategy_first_limit_up_low_position,
+    # # 新增5个潜伏类策略
+    # strategy_consolidation_breakout_preparation,
+    # strategy_box_bottom_rebound,
+    # strategy_ma_convergence_start,
+    # strategy_macd_divergent_gold_cross,
+    # strategy_annual_line_breakout,
 ]
