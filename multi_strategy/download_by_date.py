@@ -45,6 +45,10 @@ def save_to_mysql(df: pd.DataFrame):
     有则更新，无则插入
     """
     df = df[["ts_code", "trade_date", "open", "high", "low", "close", "pre_close", "vol", "amount"]].copy()
+    # 拆分 ts_code 为股票代码和交易所代码
+    df["exch_code"] = df["ts_code"].str.split(".").str[1]  # 提取交易所代码
+    df["ts_code"] = df["ts_code"].str.split(".").str[0]  # 只保留股票代码
+
     df["trade_date"] = pd.to_datetime(df["trade_date"])
     df["update_time"] = datetime.now()
 
@@ -93,3 +97,4 @@ if __name__ == "__main__":
     today = datetime.today().strftime("%Y%m%d")
     run(yesterday)
     run(today)
+    # run('')

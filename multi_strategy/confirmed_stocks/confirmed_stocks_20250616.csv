@@ -1,0 +1,70 @@
+﻿股票代码,现价,昨收,策略数量,策略名称
+000822,,6.18,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+002109,,3.76,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+002246,,14.29,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+002393,,22.11,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+002490,,4.35,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+002828,,10.09,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+003017,,27.21,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+600281,,7.26,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+600367,,14.59,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+600714,,12.03,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+600722,,5.76,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+600759,,2.43,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+603353,,17.74,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+603619,,20.53,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+603706,,20.78,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+603880,,6.3,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+603928,,11.85,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+000520,,5.27,1,strategy_top_gainers
+000881,,8.58,1,strategy_top_gainers
+001896,,5.12,1,strategy_top_gainers
+002190,,36.72,1,strategy_top_gainers
+002583,,12.51,1,strategy_top_gainers
+002878,,24.93,1,strategy_top_gainers
+002980,,21.56,1,strategy_top_gainers
+301118,,26.32,1,strategy_top_gainers
+301148,,24.13,1,strategy_top_gainers
+301158,,20.34,1,strategy_top_gainers
+301357,,43.26,1,strategy_top_gainers
+302132,,88.0,1,strategy_top_gainers
+600792,,3.69,1,strategy_top_gainers
+601279,,4.8,1,strategy_top_gainers
+601718,,2.98,1,strategy_top_gainers
+836807,,15.4,1,strategy_top_gainers
+837006,,36.15,1,strategy_top_gainers
+870204,,25.4,1,strategy_top_gainers
+871263,,25.5,1,strategy_top_gainers
+871642,,20.3,1,strategy_top_gainers
+873169,,39.95,1,strategy_top_gainers
+920088,,41.14,1,strategy_top_gainers
+600988,,29.24,3,"strategy_plate_breakout_post_close, strategy_consolidation_breakout_preparation, strategy_ma_convergence_start"
+000803,,6.14,1,strategy_plate_breakout_post_close
+001278,,21.11,1,strategy_plate_breakout_post_close
+001337,,26.24,1,strategy_plate_breakout_post_close
+002005,,2.02,1,strategy_plate_breakout_post_close
+002615,,10.25,1,strategy_plate_breakout_post_close
+600026,,10.75,1,strategy_plate_breakout_post_close
+600366,,11.15,1,strategy_plate_breakout_post_close
+601872,,6.61,1,strategy_plate_breakout_post_close
+603151,,17.12,1,strategy_plate_breakout_post_close
+603727,,15.56,1,strategy_plate_breakout_post_close
+002001,,21.97,1,strategy_ma_convergence_start
+002270,,15.9,1,strategy_ma_convergence_start
+600989,,16.61,1,strategy_ma_convergence_start
+000975,,20.92,2,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start"
+002170,,10.38,2,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start"
+000554,,7.15,3,"strategy_check_breakout_batch, strategy_top_gainers, strategy_plate_breakout_post_close"
+002319,,11.51,3,"strategy_check_breakout_batch, strategy_top_gainers, strategy_plate_breakout_post_close"
+600871,,2.09,3,"strategy_check_breakout_batch, strategy_top_gainers, strategy_plate_breakout_post_close"
+603988,,25.56,3,"strategy_check_breakout_batch, strategy_top_gainers, strategy_plate_breakout_post_close"
+002554,,2.97,2,"strategy_check_breakout_batch, strategy_plate_breakout_post_close"
+003029,,25.04,2,"strategy_check_breakout_batch, strategy_plate_breakout_post_close"
+600339,,3.35,2,"strategy_check_breakout_batch, strategy_plate_breakout_post_close"
+000333,,71.48,1,strategy_box_bottom_rebound
+002648,,16.76,1,strategy_box_bottom_rebound
+002847,,87.1,1,strategy_box_bottom_rebound
+603202,,97.24,1,strategy_box_bottom_rebound
+603486,,52.65,1,strategy_box_bottom_rebound
+603816,,24.65,1,strategy_box_bottom_rebound
+603893,,142.7,1,strategy_box_bottom_rebound

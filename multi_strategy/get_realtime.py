@@ -7,9 +7,9 @@ import requests
 
 
 def get_secid(code):
-    if code.startswith(("00", "30", "301", "002", "8")):  # 包括北交所如 873527
+    if str(code).startswith(("00", "30", "301", "002", "8")):  # 包括北交所如 873527
         return f"0.{code[:6]}"  # 深市系统，包括北交所
-    elif code.startswith(("60", "688")):
+    elif str(code).startswith(("60", "688")):
         return f"1.{code[:6]}"  # 沪市
     else:
         raise ValueError(f"无法识别股票代码的市场类型: {code}")

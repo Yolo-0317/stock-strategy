@@ -1,0 +1,1292 @@
+﻿股票代码,现价,昨收,策略数量,策略名称
+002146,,1.4,1,strategy_box_bottom_rebound
+000656,,1.47,1,strategy_box_bottom_rebound
+601992,,1.56,1,strategy_ma_convergence_start
+600606,,1.71,1,strategy_ma_convergence_start
+601588,,1.72,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+600231,,1.73,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+603077,,1.79,1,strategy_ma_convergence_start
+002005,,1.81,1,strategy_ma_convergence_start
+002482,,1.84,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+601929,,1.85,1,strategy_ma_convergence_start
+000517,,1.86,1,strategy_macd_divergent_gold_cross
+002024,,1.86,1,strategy_box_bottom_rebound
+600653,,1.9,1,strategy_box_bottom_rebound
+600569,,1.93,1,strategy_ma_convergence_start
+600518,,1.95,1,strategy_box_bottom_rebound
+000980,,2.05,1,strategy_box_bottom_rebound
+000882,,2.07,1,strategy_box_bottom_rebound
+000709,,2.16,1,strategy_box_bottom_rebound
+600136,,2.17,1,strategy_ma_convergence_start
+600691,,2.18,1,strategy_ma_convergence_start
+601996,,2.18,1,strategy_ma_convergence_start
+600400,,2.19,1,strategy_box_bottom_rebound
+600759,,2.2,1,strategy_ma_convergence_start
+002506,,2.21,1,strategy_box_bottom_rebound
+601868,,2.24,1,strategy_ma_convergence_start
+002217,,2.25,2,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start"
+600512,,2.28,1,strategy_ma_convergence_start
+002321,,2.29,1,strategy_box_bottom_rebound
+600076,,2.31,1,strategy_ma_convergence_start
+000069,,2.34,1,strategy_box_bottom_rebound
+000727,,2.36,1,strategy_box_bottom_rebound
+002638,,2.37,1,strategy_consolidation_breakout_preparation
+600227,,2.38,1,strategy_ma_convergence_start
+600935,,2.38,1,strategy_ma_convergence_start
+600726,,2.39,1,strategy_box_bottom_rebound
+600170,,2.41,1,strategy_ma_convergence_start
+600715,,2.41,3,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+000552,,2.43,1,strategy_ma_convergence_start
+000564,,2.43,1,strategy_box_bottom_rebound
+600376,,2.45,1,strategy_ma_convergence_start
+002486,,2.52,1,strategy_ma_convergence_start
+601388,,2.53,1,strategy_ma_convergence_start
+601011,,2.55,1,strategy_ma_convergence_start
+600503,,2.56,1,strategy_box_bottom_rebound
+002314,,2.58,1,strategy_ma_convergence_start
+600208,,2.61,1,strategy_ma_convergence_start
+600166,,2.63,1,strategy_box_bottom_rebound
+600159,,2.65,1,strategy_ma_convergence_start
+601778,,2.65,1,strategy_ma_convergence_start
+000031,,2.66,1,strategy_ma_convergence_start
+600617,,2.67,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+002247,,2.7,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+002426,,2.7,1,strategy_box_bottom_rebound
+600322,,2.71,3,"strategy_check_breakout_batch, strategy_top_gainers, strategy_plate_breakout_post_close"
+002528,,2.73,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+002495,,2.74,1,strategy_ma_convergence_start
+601975,,2.74,2,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600816,,2.75,1,strategy_ma_convergence_start
+600179,,2.76,1,strategy_box_bottom_rebound
+002554,,2.78,1,strategy_consolidation_breakout_preparation
+600226,,2.78,1,strategy_box_bottom_rebound
+000402,,2.82,1,strategy_ma_convergence_start
+002622,,2.84,1,strategy_ma_convergence_start
+000008,,2.85,1,strategy_ma_convergence_start
+600675,,2.89,1,strategy_ma_convergence_start
+002239,,2.9,1,strategy_box_bottom_rebound
+002607,,2.93,1,strategy_box_bottom_rebound
+601016,,2.95,1,strategy_ma_convergence_start
+601618,,2.95,1,strategy_ma_convergence_start
+600108,,2.98,1,strategy_ma_convergence_start
+002589,,2.99,1,strategy_ma_convergence_start
+002586,,3.0,1,strategy_box_bottom_rebound
+000592,,3.05,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+600581,,3.08,1,strategy_box_bottom_rebound
+600496,,3.11,1,strategy_box_bottom_rebound
+600433,,3.13,1,strategy_ma_convergence_start
+000615,,3.14,1,strategy_box_bottom_rebound
+600293,,3.15,1,strategy_ma_convergence_start
+600339,,3.16,1,strategy_ma_convergence_start
+000785,,3.17,1,strategy_box_bottom_rebound
+600094,,3.18,1,strategy_ma_convergence_start
+601015,,3.18,1,strategy_ma_convergence_start
+000659,,3.18,1,strategy_box_bottom_rebound
+601212,,3.19,4,"strategy_check_breakout_batch, strategy_top_gainers, strategy_plate_breakout_post_close, strategy_consolidation_breakout_preparation"
+002266,,3.19,1,strategy_box_bottom_rebound
+600008,,3.2,1,strategy_ma_convergence_start
+601991,,3.21,2,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+601228,,3.21,1,strategy_box_bottom_rebound
+000809,,3.22,1,strategy_ma_convergence_start
+601326,,3.22,1,strategy_box_bottom_rebound
+600665,,3.23,1,strategy_ma_convergence_start
+000428,,3.26,1,strategy_ma_convergence_start
+603778,,3.26,1,strategy_ma_convergence_start
+600984,,3.28,1,strategy_macd_divergent_gold_cross
+002421,,3.31,1,strategy_box_bottom_rebound
+600261,,3.33,2,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start"
+600423,,3.34,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+000509,,3.34,1,strategy_ma_convergence_start
+600725,,3.34,1,strategy_ma_convergence_start
+600751,,3.38,2,"strategy_check_breakout_batch, strategy_plate_breakout_post_close"
+002485,,3.39,2,"strategy_plate_breakout_post_close, strategy_macd_divergent_gold_cross"
+002132,,3.39,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+002109,,3.39,1,strategy_ma_convergence_start
+002822,,3.4,1,strategy_box_bottom_rebound
+002662,,3.41,1,strategy_box_bottom_rebound
+000563,,3.42,1,strategy_ma_convergence_start
+002108,,3.43,1,strategy_box_bottom_rebound
+601619,,3.5,1,strategy_box_bottom_rebound
+002060,,3.52,1,strategy_ma_convergence_start
+600626,,3.54,1,strategy_ma_convergence_start
+002390,,3.55,1,strategy_ma_convergence_start
+000090,,3.55,1,strategy_box_bottom_rebound
+000692,,3.56,1,strategy_ma_convergence_start
+000778,,3.56,1,strategy_ma_convergence_start
+600853,,3.58,1,strategy_box_bottom_rebound
+000889,,3.6,1,strategy_top_gainers
+002110,,3.6,1,strategy_box_bottom_rebound
+002131,,3.6,1,strategy_box_bottom_rebound
+000825,,3.61,1,strategy_ma_convergence_start
+600740,,3.61,1,strategy_ma_convergence_start
+601018,,3.61,1,strategy_box_bottom_rebound
+000863,,3.63,1,strategy_box_bottom_rebound
+600300,,3.66,1,strategy_ma_convergence_start
+600939,,3.67,1,strategy_plate_breakout_post_close
+600716,,3.68,1,strategy_ma_convergence_start
+600595,,3.69,1,strategy_box_bottom_rebound
+600782,,3.7,1,strategy_box_bottom_rebound
+000036,,3.73,3,"strategy_plate_breakout_post_close, strategy_consolidation_breakout_preparation, strategy_ma_convergence_start"
+600219,,3.74,1,strategy_ma_convergence_start
+002067,,3.76,1,strategy_ma_convergence_start
+000761,,3.76,1,strategy_box_bottom_rebound
+600425,,3.79,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+601515,,3.79,1,strategy_box_bottom_rebound
+002551,,3.8,1,strategy_ma_convergence_start
+600664,,3.81,1,strategy_ma_convergence_start
+000750,,3.83,1,strategy_ma_convergence_start
+002154,,3.83,1,strategy_ma_convergence_start
+000796,,3.83,2,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start"
+601616,,3.84,1,strategy_ma_convergence_start
+600248,,3.85,1,strategy_ma_convergence_start
+600121,,3.86,1,strategy_ma_convergence_start
+000698,,3.86,2,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start"
+002716,,3.89,2,"strategy_plate_breakout_post_close, strategy_consolidation_breakout_preparation"
+002548,,3.9,1,strategy_ma_convergence_start
+000637,,3.93,1,strategy_ma_convergence_start
+002375,,3.93,1,strategy_ma_convergence_start
+000725,,3.94,1,strategy_ma_convergence_start
+601375,,3.94,1,strategy_ma_convergence_start
+002775,,3.95,3,"strategy_plate_breakout_post_close, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+600491,,3.97,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+600361,,3.98,1,strategy_ma_convergence_start
+601162,,3.98,1,strategy_ma_convergence_start
+000949,,3.98,1,strategy_box_bottom_rebound
+000965,,3.99,1,strategy_ma_convergence_start
+002160,,3.99,1,strategy_ma_convergence_start
+601818,,4.0,1,strategy_ma_convergence_start
+601113,,4.0,1,strategy_box_bottom_rebound
+601000,,4.05,1,strategy_box_bottom_rebound
+002385,,4.06,1,strategy_ma_convergence_start
+600863,,4.13,1,strategy_ma_convergence_start
+000055,,4.16,1,strategy_ma_convergence_start
+002634,,4.17,1,strategy_macd_divergent_gold_cross
+603183,,4.17,1,strategy_ma_convergence_start
+600282,,4.17,1,strategy_box_bottom_rebound
+000900,,4.18,1,strategy_ma_convergence_start
+002641,,4.18,1,strategy_ma_convergence_start
+603188,,4.18,1,strategy_ma_convergence_start
+600507,,4.18,1,strategy_box_bottom_rebound
+601096,,4.21,1,strategy_box_bottom_rebound
+002004,,4.22,1,strategy_ma_convergence_start
+600369,,4.22,1,strategy_ma_convergence_start
+601568,,4.22,1,strategy_ma_convergence_start
+002145,,4.22,1,strategy_box_bottom_rebound
+600310,,4.22,1,strategy_box_bottom_rebound
+600075,,4.23,1,strategy_ma_convergence_start
+600649,,4.23,1,strategy_box_bottom_rebound
+603616,,4.24,1,strategy_consolidation_breakout_preparation
+601678,,4.25,1,strategy_ma_convergence_start
+600824,,4.27,1,strategy_box_bottom_rebound
+002424,,4.28,1,strategy_ma_convergence_start
+600488,,4.28,1,strategy_ma_convergence_start
+600905,,4.28,1,strategy_box_bottom_rebound
+000723,,4.3,1,strategy_ma_convergence_start
+002524,,4.33,1,strategy_ma_convergence_start
+002628,,4.33,1,strategy_ma_convergence_start
+000035,,4.35,1,strategy_box_bottom_rebound
+002175,,4.35,1,strategy_box_bottom_rebound
+600800,,4.36,2,"strategy_top_gainers, strategy_macd_divergent_gold_cross"
+002702,,4.36,1,strategy_ma_convergence_start
+600578,,4.38,1,strategy_ma_convergence_start
+601608,,4.39,1,strategy_box_bottom_rebound
+600063,,4.41,1,strategy_ma_convergence_start
+002429,,4.42,1,strategy_ma_convergence_start
+600368,,4.42,1,strategy_box_bottom_rebound
+601989,,4.45,1,strategy_ma_convergence_start
+000401,,4.49,1,strategy_box_bottom_rebound
+601068,,4.5,1,strategy_ma_convergence_start
+600572,,4.51,1,strategy_ma_convergence_start
+600717,,4.53,1,strategy_box_bottom_rebound
+002687,,4.54,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+600035,,4.55,1,strategy_ma_convergence_start
+600604,,4.56,1,strategy_ma_convergence_start
+600395,,4.56,1,strategy_box_bottom_rebound
+600217,,4.57,1,strategy_ma_convergence_start
+600490,,4.59,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+000060,,4.59,1,strategy_ma_convergence_start
+002062,,4.59,1,strategy_box_bottom_rebound
+002330,,4.61,1,strategy_ma_convergence_start
+000514,,4.62,1,strategy_ma_convergence_start
+600795,,4.62,1,strategy_ma_convergence_start
+002408,,4.65,1,strategy_ma_convergence_start
+000883,,4.65,1,strategy_box_bottom_rebound
+000932,,4.66,1,strategy_box_bottom_rebound
+002386,,4.67,1,strategy_ma_convergence_start
+600586,,4.69,1,strategy_box_bottom_rebound
+000012,,4.7,1,strategy_ma_convergence_start
+002713,,4.7,1,strategy_box_bottom_rebound
+600165,,4.71,1,strategy_box_bottom_rebound
+002562,,4.74,1,strategy_ma_convergence_start
+000955,,4.76,1,strategy_ma_convergence_start
+600333,,4.76,1,strategy_ma_convergence_start
+600502,,4.76,1,strategy_ma_convergence_start
+601118,,4.77,2,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start"
+000966,,4.77,1,strategy_box_bottom_rebound
+002567,,4.8,1,strategy_ma_convergence_start
+002398,,4.82,1,strategy_ma_convergence_start
+002494,,4.86,1,strategy_ma_convergence_start
+002863,,4.86,1,strategy_box_bottom_rebound
+601669,,4.88,3,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+600325,,4.9,1,strategy_box_bottom_rebound
+000782,,4.92,1,strategy_box_bottom_rebound
+000016,,4.93,1,strategy_box_bottom_rebound
+002225,,4.94,1,strategy_box_bottom_rebound
+002659,,4.95,1,strategy_ma_convergence_start
+600517,,4.96,1,strategy_ma_convergence_start
+600510,,4.98,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+600854,,5.0,1,strategy_ma_convergence_start
+002513,,5.03,1,strategy_ma_convergence_start
+600399,,5.06,1,strategy_box_bottom_rebound
+000755,,5.07,1,strategy_ma_convergence_start
+000683,,5.09,1,strategy_ma_convergence_start
+002585,,5.11,1,strategy_ma_convergence_start
+000753,,5.11,2,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600929,,5.14,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+002059,,5.17,1,strategy_ma_convergence_start
+600722,,5.17,1,strategy_ma_convergence_start
+002479,,5.18,1,strategy_ma_convergence_start
+002538,,5.19,1,strategy_ma_convergence_start
+002044,,5.2,1,strategy_box_bottom_rebound
+000557,,5.21,1,strategy_box_bottom_rebound
+601636,,5.22,1,strategy_box_bottom_rebound
+600609,,5.23,1,strategy_box_bottom_rebound
+600704,,5.27,1,strategy_ma_convergence_start
+600497,,5.27,2,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start"
+002360,,5.28,1,strategy_ma_convergence_start
+600979,,5.29,1,strategy_box_bottom_rebound
+601216,,5.31,1,strategy_box_bottom_rebound
+002563,,5.32,1,strategy_box_bottom_rebound
+600620,,5.33,1,strategy_ma_convergence_start
+600163,,5.34,1,strategy_box_bottom_rebound
+600998,,5.35,1,strategy_ma_convergence_start
+002226,,5.36,1,strategy_ma_convergence_start
+601658,,5.36,1,strategy_ma_convergence_start
+000597,,5.37,1,strategy_ma_convergence_start
+002419,,5.38,1,strategy_box_bottom_rebound
+600390,,5.39,1,strategy_ma_convergence_start
+601199,,5.4,1,strategy_ma_convergence_start
+600050,,5.42,1,strategy_ma_convergence_start
+002382,,5.44,1,strategy_ma_convergence_start
+600736,,5.44,1,strategy_ma_convergence_start
+601988,,5.45,1,strategy_box_bottom_rebound
+002697,,5.47,1,strategy_box_bottom_rebound
+002333,,5.48,1,strategy_ma_convergence_start
+000862,,5.48,1,strategy_box_bottom_rebound
+000868,,5.51,1,strategy_box_bottom_rebound
+000789,,5.53,1,strategy_ma_convergence_start
+600287,,5.53,1,strategy_consolidation_breakout_preparation
+000059,,5.54,1,strategy_ma_convergence_start
+600821,,5.54,1,strategy_ma_convergence_start
+600382,,5.55,2,"strategy_check_breakout_batch, strategy_plate_breakout_post_close"
+600078,,5.56,1,strategy_ma_convergence_start
+002752,,5.57,1,strategy_ma_convergence_start
+002016,,5.6,1,strategy_ma_convergence_start
+000599,,5.61,1,strategy_top_gainers
+002627,,5.61,1,strategy_ma_convergence_start
+601288,,5.61,1,strategy_ma_convergence_start
+601390,,5.61,1,strategy_ma_convergence_start
+000417,,5.62,1,strategy_box_bottom_rebound
+600909,,5.63,1,strategy_ma_convergence_start
+601222,,5.64,1,strategy_ma_convergence_start
+000650,,5.65,1,strategy_ma_convergence_start
+002328,,5.66,1,strategy_macd_divergent_gold_cross
+000159,,5.68,4,"strategy_plate_breakout_post_close, strategy_consolidation_breakout_preparation, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+601668,,5.69,1,strategy_ma_convergence_start
+000567,,5.71,1,strategy_ma_convergence_start
+002629,,5.73,1,strategy_plate_breakout_post_close
+002676,,5.73,1,strategy_box_bottom_rebound
+600997,,5.73,1,strategy_box_bottom_rebound
+000665,,5.74,1,strategy_plate_breakout_post_close
+002701,,5.74,1,strategy_ma_convergence_start
+603588,,5.74,1,strategy_ma_convergence_start
+600711,,5.74,2,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start"
+600028,,5.75,1,strategy_ma_convergence_start
+002591,,5.77,1,strategy_ma_convergence_start
+600864,,5.77,1,strategy_ma_convergence_start
+002075,,5.77,1,strategy_box_bottom_rebound
+002193,,5.78,1,strategy_ma_convergence_start
+600538,,5.81,2,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start"
+601816,,5.81,1,strategy_box_bottom_rebound
+002283,,5.83,1,strategy_box_bottom_rebound
+600302,,5.84,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+000498,,5.85,1,strategy_ma_convergence_start
+601686,,5.85,1,strategy_ma_convergence_start
+002063,,5.87,1,strategy_ma_convergence_start
+600796,,5.87,1,strategy_ma_convergence_start
+601789,,5.87,3,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+600582,,5.88,1,strategy_box_bottom_rebound
+601377,,5.89,1,strategy_ma_convergence_start
+601997,,5.91,1,strategy_box_bottom_rebound
+600256,,5.97,1,strategy_ma_convergence_start
+002483,,5.97,1,strategy_box_bottom_rebound
+002491,,5.98,1,strategy_plate_breakout_post_close
+600780,,5.98,1,strategy_ma_convergence_start
+002302,,6.0,1,strategy_ma_convergence_start
+000593,,6.01,1,strategy_ma_convergence_start
+002726,,6.01,1,strategy_ma_convergence_start
+002546,,6.02,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+002420,,6.03,1,strategy_ma_convergence_start
+002746,,6.04,1,strategy_ma_convergence_start
+002320,,6.05,2,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start"
+601121,,6.07,1,strategy_ma_convergence_start
+600975,,6.08,1,strategy_ma_convergence_start
+000735,,6.09,3,"strategy_plate_breakout_post_close, strategy_consolidation_breakout_preparation, strategy_macd_divergent_gold_cross"
+603117,,6.09,1,strategy_box_bottom_rebound
+000978,,6.1,1,strategy_ma_convergence_start
+002300,,6.1,1,strategy_box_bottom_rebound
+002207,,6.11,1,strategy_ma_convergence_start
+000531,,6.11,1,strategy_box_bottom_rebound
+002022,,6.14,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+000153,,6.16,1,strategy_ma_convergence_start
+600235,,6.16,1,strategy_ma_convergence_start
+600185,,6.16,1,strategy_box_bottom_rebound
+600354,,6.18,1,strategy_ma_convergence_start
+000679,,6.18,1,strategy_box_bottom_rebound
+000541,,6.19,1,strategy_box_bottom_rebound
+600755,,6.21,1,strategy_box_bottom_rebound
+603378,,6.21,1,strategy_box_bottom_rebound
+600784,,6.23,1,strategy_ma_convergence_start
+002100,,6.23,1,strategy_box_bottom_rebound
+002442,,6.24,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+002587,,6.25,1,strategy_ma_convergence_start
+600918,,6.25,1,strategy_ma_convergence_start
+600313,,6.29,1,strategy_ma_convergence_start
+600693,,6.3,1,strategy_box_bottom_rebound
+000619,,6.31,1,strategy_ma_convergence_start
+000886,,6.32,1,strategy_consolidation_breakout_preparation
+000791,,6.32,1,strategy_box_bottom_rebound
+600611,,6.32,1,strategy_box_bottom_rebound
+600186,,6.34,1,strategy_macd_divergent_gold_cross
+600232,,6.36,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+000707,,6.36,1,strategy_ma_convergence_start
+000554,,6.37,1,strategy_ma_convergence_start
+603318,,6.37,1,strategy_box_bottom_rebound
+002169,,6.38,1,strategy_ma_convergence_start
+002443,,6.38,3,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+002354,,6.39,1,strategy_box_bottom_rebound
+000726,,6.41,1,strategy_ma_convergence_start
+600667,,6.41,1,strategy_ma_convergence_start
+601169,,6.41,1,strategy_ma_convergence_start
+600098,,6.45,1,strategy_box_bottom_rebound
+600335,,6.45,1,strategy_box_bottom_rebound
+600236,,6.5,1,strategy_ma_convergence_start
+603111,,6.51,1,strategy_macd_divergent_gold_cross
+601949,,6.52,1,strategy_ma_convergence_start
+002614,,6.54,1,strategy_box_bottom_rebound
+603421,,6.55,1,strategy_ma_convergence_start
+000505,,6.57,1,strategy_ma_convergence_start
+002279,,6.58,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+000987,,6.58,1,strategy_ma_convergence_start
+000626,,6.59,3,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+000928,,6.6,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+000002,,6.6,1,strategy_box_bottom_rebound
+601609,,6.62,1,strategy_ma_convergence_start
+600348,,6.63,1,strategy_box_bottom_rebound
+600906,,6.64,1,strategy_ma_convergence_start
+601665,,6.65,1,strategy_ma_convergence_start
+603385,,6.65,1,strategy_ma_convergence_start
+600019,,6.65,1,strategy_box_bottom_rebound
+000701,,6.66,1,strategy_plate_breakout_post_close
+600155,,6.66,1,strategy_ma_convergence_start
+000783,,6.68,1,strategy_ma_convergence_start
+002029,,6.7,1,strategy_ma_convergence_start
+600719,,6.7,1,strategy_box_bottom_rebound
+002187,,6.71,1,strategy_box_bottom_rebound
+601918,,6.72,1,strategy_box_bottom_rebound
+002797,,6.73,1,strategy_ma_convergence_start
+601600,,6.73,1,strategy_ma_convergence_start
+002054,,6.74,1,strategy_ma_convergence_start
+002381,,6.75,1,strategy_ma_convergence_start
+600127,,6.77,2,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002350,,6.79,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+601801,,6.84,1,strategy_ma_convergence_start
+600330,,6.85,1,strategy_ma_convergence_start
+002753,,6.88,1,strategy_ma_convergence_start
+002681,,6.88,1,strategy_box_bottom_rebound
+600888,,6.9,1,strategy_ma_convergence_start
+603330,,6.91,1,strategy_consolidation_breakout_preparation
+000731,,6.93,1,strategy_ma_convergence_start
+600903,,6.93,1,strategy_ma_convergence_start
+002474,,6.94,1,strategy_ma_convergence_start
+600284,,6.94,1,strategy_ma_convergence_start
+002999,,6.95,1,strategy_ma_convergence_start
+000936,,6.99,1,strategy_ma_convergence_start
+600229,,6.99,1,strategy_ma_convergence_start
+000800,,6.99,1,strategy_box_bottom_rebound
+002252,,7.0,1,strategy_ma_convergence_start
+600116,,7.0,1,strategy_ma_convergence_start
+002452,,7.01,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+601969,,7.02,1,strategy_macd_divergent_gold_cross
+002120,,7.02,1,strategy_ma_convergence_start
+001391,,7.02,1,strategy_box_bottom_rebound
+000042,,7.03,1,strategy_ma_convergence_start
+600359,,7.04,1,strategy_ma_convergence_start
+000070,,7.04,1,strategy_consolidation_breakout_preparation
+000713,,7.05,1,strategy_ma_convergence_start
+000157,,7.05,1,strategy_box_bottom_rebound
+603316,,7.06,2,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start"
+000655,,7.08,1,strategy_ma_convergence_start
+603717,,7.09,1,strategy_macd_divergent_gold_cross
+601398,,7.1,1,strategy_ma_convergence_start
+003037,,7.11,1,strategy_ma_convergence_start
+600061,,7.12,1,strategy_ma_convergence_start
+600328,,7.15,1,strategy_ma_convergence_start
+002996,,7.18,1,strategy_ma_convergence_start
+600278,,7.18,1,strategy_box_bottom_rebound
+600733,,7.18,1,strategy_box_bottom_rebound
+601766,,7.18,1,strategy_box_bottom_rebound
+000700,,7.2,1,strategy_box_bottom_rebound
+002763,,7.21,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+002282,,7.22,1,strategy_box_bottom_rebound
+600692,,7.25,2,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start"
+600331,,7.26,1,strategy_ma_convergence_start
+000697,,7.27,1,strategy_ma_convergence_start
+600177,,7.28,1,strategy_box_bottom_rebound
+002274,,7.29,1,strategy_ma_convergence_start
+600051,,7.29,1,strategy_ma_convergence_start
+002027,,7.29,1,strategy_box_bottom_rebound
+002363,,7.29,1,strategy_box_bottom_rebound
+002440,,7.29,1,strategy_box_bottom_rebound
+002817,,7.3,1,strategy_ma_convergence_start
+000917,,7.31,1,strategy_ma_convergence_start
+600135,,7.32,1,strategy_box_bottom_rebound
+000798,,7.33,1,strategy_ma_convergence_start
+001258,,7.33,1,strategy_ma_convergence_start
+002301,,7.33,1,strategy_ma_convergence_start
+600080,,7.34,1,strategy_ma_convergence_start
+600599,,7.35,1,strategy_box_bottom_rebound
+600969,,7.35,1,strategy_box_bottom_rebound
+600623,,7.36,1,strategy_ma_convergence_start
+000910,,7.38,1,strategy_ma_convergence_start
+002790,,7.39,1,strategy_ma_convergence_start
+601512,,7.41,1,strategy_ma_convergence_start
+000547,,7.42,1,strategy_ma_convergence_start
+002212,,7.42,2,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start"
+601077,,7.43,1,strategy_ma_convergence_start
+002723,,7.44,1,strategy_ma_convergence_start
+600603,,7.45,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+600058,,7.47,1,strategy_ma_convergence_start
+000925,,7.48,1,strategy_macd_divergent_gold_cross
+002091,,7.48,1,strategy_ma_convergence_start
+000686,,7.49,1,strategy_ma_convergence_start
+600191,,7.49,1,strategy_ma_convergence_start
+002129,,7.5,1,strategy_box_bottom_rebound
+003016,,7.51,1,strategy_ma_convergence_start
+002673,,7.55,1,strategy_ma_convergence_start
+605500,,7.55,1,strategy_ma_convergence_start
+002707,,7.57,1,strategy_ma_convergence_start
+002759,,7.58,1,strategy_box_bottom_rebound
+600064,,7.59,1,strategy_ma_convergence_start
+603993,,7.59,2,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start"
+000430,,7.62,1,strategy_ma_convergence_start
+603903,,7.63,1,strategy_ma_convergence_start
+600015,,7.66,1,strategy_ma_convergence_start
+601238,,7.66,1,strategy_box_bottom_rebound
+000612,,7.67,1,strategy_ma_convergence_start
+002339,,7.67,1,strategy_ma_convergence_start
+600531,,7.68,3,"strategy_check_breakout_batch, strategy_plate_breakout_post_close, strategy_consolidation_breakout_preparation"
+000728,,7.69,1,strategy_ma_convergence_start
+002642,,7.69,1,strategy_ma_convergence_start
+601328,,7.69,1,strategy_ma_convergence_start
+002406,,7.69,1,strategy_box_bottom_rebound
+002334,,7.72,1,strategy_macd_divergent_gold_cross
+002615,,7.72,1,strategy_ma_convergence_start
+601901,,7.73,1,strategy_ma_convergence_start
+000039,,7.75,1,strategy_box_bottom_rebound
+000990,,7.76,1,strategy_ma_convergence_start
+605162,,7.77,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+603168,,7.78,1,strategy_consolidation_breakout_preparation
+600241,,7.82,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+601990,,7.82,1,strategy_ma_convergence_start
+002745,,7.82,1,strategy_box_bottom_rebound
+600826,,7.84,1,strategy_ma_convergence_start
+000156,,7.88,1,strategy_ma_convergence_start
+002137,,7.88,1,strategy_ma_convergence_start
+603759,,7.88,1,strategy_ma_convergence_start
+002772,,7.89,1,strategy_box_bottom_rebound
+001313,,7.91,1,strategy_box_bottom_rebound
+002298,,7.95,1,strategy_plate_breakout_post_close
+002799,,7.95,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+600814,,7.96,1,strategy_box_bottom_rebound
+601117,,7.98,2,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start"
+600720,,7.99,1,strategy_ma_convergence_start
+000425,,8.02,1,strategy_box_bottom_rebound
+000759,,8.02,1,strategy_box_bottom_rebound
+600883,,8.05,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+603018,,8.08,2,"strategy_plate_breakout_post_close, strategy_consolidation_breakout_preparation"
+603626,,8.1,1,strategy_box_bottom_rebound
+600596,,8.11,1,strategy_ma_convergence_start
+603321,,8.12,1,strategy_macd_divergent_gold_cross
+000525,,8.13,1,strategy_plate_breakout_post_close
+600356,,8.15,1,strategy_ma_convergence_start
+000058,,8.15,1,strategy_box_bottom_rebound
+600048,,8.16,1,strategy_ma_convergence_start
+600095,,8.19,1,strategy_ma_convergence_start
+000533,,8.2,1,strategy_plate_breakout_post_close
+600838,,8.21,1,strategy_box_bottom_rebound
+603158,,8.21,1,strategy_box_bottom_rebound
+601236,,8.23,1,strategy_ma_convergence_start
+603387,,8.24,1,strategy_ma_convergence_start
+000050,,8.25,1,strategy_box_bottom_rebound
+601921,,8.26,1,strategy_ma_convergence_start
+600746,,8.28,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+002545,,8.28,1,strategy_ma_convergence_start
+002057,,8.29,1,strategy_ma_convergence_start
+002458,,8.29,1,strategy_ma_convergence_start
+601319,,8.29,1,strategy_ma_convergence_start
+002082,,8.3,1,strategy_plate_breakout_post_close
+600366,,8.3,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+002221,,8.31,1,strategy_ma_convergence_start
+603313,,8.36,1,strategy_ma_convergence_start
+600273,,8.37,1,strategy_ma_convergence_start
+601065,,8.37,1,strategy_ma_convergence_start
+002469,,8.37,1,strategy_box_bottom_rebound
+002051,,8.38,1,strategy_ma_convergence_start
+600630,,8.38,1,strategy_box_bottom_rebound
+601311,,8.38,1,strategy_box_bottom_rebound
+601777,,8.39,1,strategy_box_bottom_rebound
+002234,,8.4,1,strategy_ma_convergence_start
+000301,,8.4,1,strategy_box_bottom_rebound
+002327,,8.41,1,strategy_ma_convergence_start
+002926,,8.43,1,strategy_ma_convergence_start
+002787,,8.46,1,strategy_ma_convergence_start
+603689,,8.47,1,strategy_ma_convergence_start
+002918,,8.48,1,strategy_ma_convergence_start
+600109,,8.48,1,strategy_ma_convergence_start
+002788,,8.49,1,strategy_ma_convergence_start
+001267,,8.5,1,strategy_ma_convergence_start
+601857,,8.51,1,strategy_ma_convergence_start
+002539,,8.53,1,strategy_ma_convergence_start
+000537,,8.57,1,strategy_ma_convergence_start
+000685,,8.57,1,strategy_ma_convergence_start
+603357,,8.61,1,strategy_ma_convergence_start
+002645,,8.63,1,strategy_ma_convergence_start
+600916,,8.66,1,strategy_ma_convergence_start
+001979,,8.66,1,strategy_box_bottom_rebound
+002966,,8.67,1,strategy_ma_convergence_start
+601369,,8.68,1,strategy_ma_convergence_start
+000582,,8.69,1,strategy_ma_convergence_start
+002606,,8.69,1,strategy_ma_convergence_start
+603177,,8.7,1,strategy_ma_convergence_start
+600642,,8.71,1,strategy_box_bottom_rebound
+603876,,8.73,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+002950,,8.76,1,strategy_ma_convergence_start
+000721,,8.8,1,strategy_ma_convergence_start
+000752,,8.8,1,strategy_ma_convergence_start
+002783,,8.8,1,strategy_ma_convergence_start
+601890,,8.8,1,strategy_ma_convergence_start
+002636,,8.81,1,strategy_ma_convergence_start
+600021,,8.81,1,strategy_box_bottom_rebound
+600546,,8.82,1,strategy_box_bottom_rebound
+601800,,8.85,1,strategy_ma_convergence_start
+002293,,8.87,1,strategy_box_bottom_rebound
+603609,,8.89,1,strategy_ma_convergence_start
+603399,,8.91,1,strategy_ma_convergence_start
+000506,,8.92,1,strategy_plate_breakout_post_close
+600773,,8.94,1,strategy_ma_convergence_start
+002441,,8.95,1,strategy_ma_convergence_start
+001286,,8.97,1,strategy_box_bottom_rebound
+002153,,9.01,1,strategy_top_gainers
+002171,,9.02,2,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start"
+002700,,9.04,1,strategy_ma_convergence_start
+603328,,9.05,1,strategy_ma_convergence_start
+002521,,9.05,1,strategy_box_bottom_rebound
+603022,,9.06,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+600848,,9.06,1,strategy_ma_convergence_start
+603086,,9.07,1,strategy_ma_convergence_start
+000501,,9.08,1,strategy_box_bottom_rebound
+600865,,9.09,1,strategy_box_bottom_rebound
+601298,,9.1,1,strategy_ma_convergence_start
+000899,,9.11,1,strategy_box_bottom_rebound
+600879,,9.13,1,strategy_ma_convergence_start
+002761,,9.14,1,strategy_ma_convergence_start
+603500,,9.14,1,strategy_ma_convergence_start
+600267,,9.15,1,strategy_ma_convergence_start
+002387,,9.17,1,strategy_ma_convergence_start
+600663,,9.17,1,strategy_ma_convergence_start
+603916,,9.19,1,strategy_ma_convergence_start
+601519,,9.2,1,strategy_ma_convergence_start
+603088,,9.2,1,strategy_box_bottom_rebound
+002758,,9.23,1,strategy_ma_convergence_start
+603558,,9.24,1,strategy_ma_convergence_start
+600371,,9.25,1,strategy_ma_convergence_start
+600735,,9.26,2,"strategy_plate_breakout_post_close, strategy_macd_divergent_gold_cross"
+002836,,9.26,1,strategy_ma_convergence_start
+601566,,9.26,1,strategy_ma_convergence_start
+002244,,9.28,1,strategy_macd_divergent_gold_cross
+002828,,9.29,1,strategy_ma_convergence_start
+002459,,9.34,1,strategy_box_bottom_rebound
+002559,,9.34,1,strategy_box_bottom_rebound
+002332,,9.38,1,strategy_ma_convergence_start
+000737,,9.4,1,strategy_ma_convergence_start
+002037,,9.4,2,"strategy_check_breakout_batch, strategy_plate_breakout_post_close"
+603053,,9.41,1,strategy_box_bottom_rebound
+600618,,9.46,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+600706,,9.47,1,strategy_ma_convergence_start
+603909,,9.48,1,strategy_ma_convergence_start
+603055,,9.48,1,strategy_box_bottom_rebound
+002646,,9.5,1,strategy_ma_convergence_start
+600958,,9.51,1,strategy_ma_convergence_start
+600039,,9.53,1,strategy_ma_convergence_start
+002079,,9.53,1,strategy_box_bottom_rebound
+600133,,9.54,1,strategy_ma_convergence_start
+600203,,9.54,1,strategy_ma_convergence_start
+000876,,9.55,1,strategy_ma_convergence_start
+605199,,9.59,1,strategy_box_bottom_rebound
+603098,,9.61,1,strategy_box_bottom_rebound
+603212,,9.63,1,strategy_ma_convergence_start
+000682,,9.65,1,strategy_ma_convergence_start
+601208,,9.72,1,strategy_macd_divergent_gold_cross
+603966,,9.72,1,strategy_box_bottom_rebound
+002674,,9.73,1,strategy_ma_convergence_start
+002637,,9.75,1,strategy_ma_convergence_start
+600876,,9.76,1,strategy_ma_convergence_start
+600138,,9.81,1,strategy_ma_convergence_start
+601952,,9.84,1,strategy_ma_convergence_start
+002041,,9.89,1,strategy_box_bottom_rebound
+600718,,9.9,1,strategy_ma_convergence_start
+605368,,9.91,1,strategy_box_bottom_rebound
+002125,,9.96,1,strategy_ma_convergence_start
+600846,,9.96,2,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start"
+601456,,10.0,1,strategy_ma_convergence_start
+605567,,10.0,1,strategy_ma_convergence_start
+002043,,10.0,1,strategy_box_bottom_rebound
+002324,,10.02,1,strategy_box_bottom_rebound
+002668,,10.02,1,strategy_box_bottom_rebound
+002695,,10.04,1,strategy_box_bottom_rebound
+600153,,10.05,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+601696,,10.06,1,strategy_ma_convergence_start
+600839,,10.06,1,strategy_box_bottom_rebound
+600026,,10.08,1,strategy_box_bottom_rebound
+000155,,10.09,2,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+000795,,10.11,1,strategy_macd_divergent_gold_cross
+603803,,10.13,1,strategy_ma_convergence_start
+000998,,10.14,1,strategy_ma_convergence_start
+600352,,10.14,1,strategy_ma_convergence_start
+600742,,10.14,1,strategy_ma_convergence_start
+002911,,10.15,1,strategy_box_bottom_rebound
+600338,,10.16,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+002106,,10.17,1,strategy_box_bottom_rebound
+002111,,10.18,1,strategy_ma_convergence_start
+600499,,10.18,1,strategy_ma_convergence_start
+000920,,10.19,1,strategy_ma_convergence_start
+600857,,10.22,1,strategy_ma_convergence_start
+002661,,10.23,1,strategy_ma_convergence_start
+600576,,10.23,1,strategy_ma_convergence_start
+002254,,10.24,1,strategy_ma_convergence_start
+600822,,10.24,1,strategy_box_bottom_rebound
+600283,,10.28,1,strategy_box_bottom_rebound
+603527,,10.32,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+002953,,10.34,1,strategy_box_bottom_rebound
+600847,,10.35,1,strategy_ma_convergence_start
+603801,,10.35,1,strategy_box_bottom_rebound
+000828,,10.39,1,strategy_ma_convergence_start
+002052,,10.39,1,strategy_ma_convergence_start
+600661,,10.39,1,strategy_ma_convergence_start
+600837,,10.41,1,strategy_box_bottom_rebound
+600983,,10.42,1,strategy_ma_convergence_start
+603937,,10.43,5,"strategy_top_gainers, strategy_plate_breakout_post_close, strategy_consolidation_breakout_preparation, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+002815,,10.44,1,strategy_ma_convergence_start
+002530,,10.47,1,strategy_ma_convergence_start
+002116,,10.48,1,strategy_ma_convergence_start
+000823,,10.51,1,strategy_ma_convergence_start
+600056,,10.51,1,strategy_ma_convergence_start
+001208,,10.51,1,strategy_box_bottom_rebound
+002205,,10.52,1,strategy_consolidation_breakout_preparation
+600776,,10.55,1,strategy_ma_convergence_start
+000411,,10.56,1,strategy_box_bottom_rebound
+600101,,10.59,1,strategy_box_bottom_rebound
+002186,,10.61,1,strategy_ma_convergence_start
+600873,,10.61,1,strategy_box_bottom_rebound
+600639,,10.63,1,strategy_ma_convergence_start
+601229,,10.64,1,strategy_ma_convergence_start
+601878,,10.64,1,strategy_ma_convergence_start
+600769,,10.66,1,strategy_box_bottom_rebound
+002893,,10.67,1,strategy_ma_convergence_start
+600373,,10.67,1,strategy_ma_convergence_start
+600961,,10.76,1,strategy_ma_convergence_start
+002319,,10.78,4,"strategy_plate_breakout_post_close, strategy_consolidation_breakout_preparation, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+600739,,10.8,1,strategy_ma_convergence_start
+603311,,10.82,1,strategy_ma_convergence_start
+601116,,10.83,1,strategy_box_bottom_rebound
+002871,,10.85,1,strategy_ma_convergence_start
+000586,,10.85,3,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+601233,,10.86,1,strategy_box_bottom_rebound
+603928,,10.87,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+605228,,10.92,1,strategy_box_bottom_rebound
+600435,,11.0,1,strategy_box_bottom_rebound
+001299,,11.03,1,strategy_ma_convergence_start
+600768,,11.04,1,strategy_ma_convergence_start
+000821,,11.04,1,strategy_box_bottom_rebound
+603165,,11.04,1,strategy_box_bottom_rebound
+002271,,11.08,1,strategy_ma_convergence_start
+600552,,11.11,1,strategy_box_bottom_rebound
+002372,,11.12,1,strategy_box_bottom_rebound
+600919,,11.15,1,strategy_ma_convergence_start
+000957,,11.16,1,strategy_box_bottom_rebound
+600619,,11.17,1,strategy_box_bottom_rebound
+002883,,11.19,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+002497,,11.19,1,strategy_ma_convergence_start
+600648,,11.19,1,strategy_ma_convergence_start
+002736,,11.2,1,strategy_ma_convergence_start
+603386,,11.2,1,strategy_ma_convergence_start
+603968,,11.23,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+002053,,11.26,1,strategy_ma_convergence_start
+002003,,11.27,1,strategy_box_bottom_rebound
+605007,,11.3,1,strategy_ma_convergence_start
+000708,,11.33,2,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002810,,11.33,1,strategy_box_bottom_rebound
+601963,,11.34,1,strategy_ma_convergence_start
+600176,,11.36,1,strategy_box_bottom_rebound
+601133,,11.38,1,strategy_ma_convergence_start
+003018,,11.4,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+600508,,11.43,1,strategy_ma_convergence_start
+603218,,11.46,1,strategy_box_bottom_rebound
+603327,,11.5,1,strategy_macd_divergent_gold_cross
+603680,,11.51,1,strategy_top_gainers
+600372,,11.51,1,strategy_ma_convergence_start
+002093,,11.54,1,strategy_macd_divergent_gold_cross
+603408,,11.55,1,strategy_ma_convergence_start
+002237,,11.56,1,strategy_ma_convergence_start
+600749,,11.57,1,strategy_ma_convergence_start
+002182,,11.58,1,strategy_box_bottom_rebound
+600388,,11.59,1,strategy_ma_convergence_start
+600818,,11.65,1,strategy_ma_convergence_start
+002240,,11.66,1,strategy_ma_convergence_start
+000001,,11.7,1,strategy_ma_convergence_start
+600089,,11.7,1,strategy_ma_convergence_start
+603890,,11.7,1,strategy_box_bottom_rebound
+603085,,11.73,1,strategy_ma_convergence_start
+605155,,11.73,1,strategy_ma_convergence_start
+600860,,11.74,1,strategy_box_bottom_rebound
+600054,,11.77,1,strategy_ma_convergence_start
+002407,,11.79,1,strategy_ma_convergence_start
+002960,,11.81,1,strategy_consolidation_breakout_preparation
+601928,,11.82,1,strategy_ma_convergence_start
+000810,,11.84,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+002725,,11.84,1,strategy_box_bottom_rebound
+603628,,11.92,1,strategy_ma_convergence_start
+002805,,11.93,1,strategy_ma_convergence_start
+002456,,11.94,1,strategy_box_bottom_rebound
+002846,,11.95,1,strategy_macd_divergent_gold_cross
+603339,,11.95,1,strategy_ma_convergence_start
+000878,,11.97,1,strategy_ma_convergence_start
+603303,,12.02,1,strategy_ma_convergence_start
+002703,,12.02,1,strategy_box_bottom_rebound
+002457,,12.06,1,strategy_ma_convergence_start
+603015,,12.06,1,strategy_box_bottom_rebound
+603132,,12.08,2,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start"
+001366,,12.09,1,strategy_ma_convergence_start
+603636,,12.12,1,strategy_ma_convergence_start
+002963,,12.14,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+600785,,12.15,1,strategy_ma_convergence_start
+603439,,12.16,1,strategy_ma_convergence_start
+600703,,12.16,1,strategy_box_bottom_rebound
+002101,,12.21,1,strategy_box_bottom_rebound
+002245,,12.23,1,strategy_box_bottom_rebound
+603071,,12.23,1,strategy_box_bottom_rebound
+002782,,12.24,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+600697,,12.25,1,strategy_ma_convergence_start
+600877,,12.25,1,strategy_ma_convergence_start
+002670,,12.29,1,strategy_ma_convergence_start
+603977,,12.29,1,strategy_ma_convergence_start
+600000,,12.32,1,strategy_ma_convergence_start
+002951,,12.34,1,strategy_plate_breakout_post_close
+601058,,12.34,1,strategy_box_bottom_rebound
+603191,,12.39,1,strategy_ma_convergence_start
+603315,,12.4,1,strategy_box_bottom_rebound
+600292,,12.45,1,strategy_ma_convergence_start
+000020,,12.57,1,strategy_ma_convergence_start
+600801,,12.57,1,strategy_ma_convergence_start
+002655,,12.59,1,strategy_box_bottom_rebound
+002923,,12.75,1,strategy_ma_convergence_start
+600985,,12.76,2,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start"
+605122,,12.79,2,"strategy_check_breakout_batch, strategy_plate_breakout_post_close"
+002818,,12.8,1,strategy_box_bottom_rebound
+000625,,12.84,1,strategy_ma_convergence_start
+002227,,12.93,1,strategy_ma_convergence_start
+603668,,12.95,1,strategy_box_bottom_rebound
+002890,,12.98,1,strategy_ma_convergence_start
+603230,,13.02,1,strategy_ma_convergence_start
+002184,,13.1,1,strategy_ma_convergence_start
+603758,,13.1,1,strategy_ma_convergence_start
+002507,,13.14,1,strategy_box_bottom_rebound
+600955,,13.19,1,strategy_box_bottom_rebound
+603886,,13.19,1,strategy_box_bottom_rebound
+002729,,13.23,1,strategy_ma_convergence_start
+603917,,13.26,1,strategy_box_bottom_rebound
+002803,,13.27,1,strategy_box_bottom_rebound
+603070,,13.29,1,strategy_ma_convergence_start
+002020,,13.32,1,strategy_ma_convergence_start
+000923,,13.33,1,strategy_ma_convergence_start
+603685,,13.35,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+600679,,13.35,1,strategy_box_bottom_rebound
+002823,,13.37,1,strategy_box_bottom_rebound
+000902,,13.4,1,strategy_ma_convergence_start
+601156,,13.4,1,strategy_ma_convergence_start
+603182,,13.4,1,strategy_ma_convergence_start
+000636,,13.49,1,strategy_ma_convergence_start
+002077,,13.55,1,strategy_box_bottom_rebound
+000815,,13.59,2,"strategy_top_gainers, strategy_macd_divergent_gold_cross"
+001387,,13.6,1,strategy_ma_convergence_start
+601808,,13.6,1,strategy_ma_convergence_start
+600522,,13.61,1,strategy_macd_divergent_gold_cross
+001360,,13.64,1,strategy_ma_convergence_start
+603356,,13.68,2,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start"
+605298,,13.7,1,strategy_ma_convergence_start
+600588,,13.71,1,strategy_ma_convergence_start
+000995,,13.78,1,strategy_ma_convergence_start
+002945,,13.79,1,strategy_ma_convergence_start
+603871,,13.79,1,strategy_box_bottom_rebound
+603519,,13.8,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+002885,,13.83,1,strategy_ma_convergence_start
+603938,,13.83,1,strategy_box_bottom_rebound
+601098,,13.84,2,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+002853,,13.85,2,"strategy_consolidation_breakout_preparation, strategy_macd_divergent_gold_cross"
+600992,,13.86,1,strategy_ma_convergence_start
+603836,,13.87,1,strategy_ma_convergence_start
+600113,,13.94,1,strategy_box_bottom_rebound
+002572,,13.95,1,strategy_box_bottom_rebound
+603813,,14.01,1,strategy_ma_convergence_start
+002552,,14.03,1,strategy_ma_convergence_start
+002921,,14.04,1,strategy_ma_convergence_start
+603138,,14.04,1,strategy_ma_convergence_start
+001219,,14.05,1,strategy_ma_convergence_start
+002949,,14.15,1,strategy_ma_convergence_start
+003015,,14.17,1,strategy_box_bottom_rebound
+603819,,14.2,1,strategy_box_bottom_rebound
+603185,,14.21,1,strategy_box_bottom_rebound
+000960,,14.22,1,strategy_ma_convergence_start
+603863,,14.22,1,strategy_ma_convergence_start
+000429,,14.29,1,strategy_ma_convergence_start
+000722,,14.33,1,strategy_macd_divergent_gold_cross
+002802,,14.38,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+002536,,14.4,1,strategy_box_bottom_rebound
+603809,,14.4,1,strategy_box_bottom_rebound
+002410,,14.42,1,strategy_ma_convergence_start
+601012,,14.47,1,strategy_box_bottom_rebound
+600668,,14.51,1,strategy_ma_convergence_start
+601966,,14.51,1,strategy_box_bottom_rebound
+603219,,14.51,1,strategy_box_bottom_rebound
+603115,,14.54,1,strategy_ma_convergence_start
+603032,,14.58,4,"strategy_top_gainers, strategy_plate_breakout_post_close, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+603511,,14.61,1,strategy_ma_convergence_start
+002346,,14.65,1,strategy_macd_divergent_gold_cross
+001356,,14.68,1,strategy_box_bottom_rebound
+603727,,14.69,1,strategy_consolidation_breakout_preparation
+600258,,14.73,1,strategy_box_bottom_rebound
+002009,,14.75,1,strategy_box_bottom_rebound
+002527,,14.76,1,strategy_box_bottom_rebound
+002555,,14.77,1,strategy_ma_convergence_start
+000066,,14.8,1,strategy_macd_divergent_gold_cross
+002488,,14.8,1,strategy_ma_convergence_start
+600197,,14.82,1,strategy_ma_convergence_start
+603877,,14.85,1,strategy_box_bottom_rebound
+002623,,14.86,1,strategy_ma_convergence_start
+603978,,14.87,1,strategy_ma_convergence_start
+001201,,14.94,1,strategy_ma_convergence_start
+600346,,14.98,1,strategy_box_bottom_rebound
+002299,,14.99,1,strategy_box_bottom_rebound
+603970,,15.01,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+603209,,15.01,1,strategy_ma_convergence_start
+601811,,15.11,1,strategy_box_bottom_rebound
+000756,,15.13,1,strategy_ma_convergence_start
+600886,,15.13,1,strategy_box_bottom_rebound
+000819,,15.15,1,strategy_ma_convergence_start
+002159,,15.18,1,strategy_ma_convergence_start
+603990,,15.19,1,strategy_ma_convergence_start
+002718,,15.2,1,strategy_ma_convergence_start
+000338,,15.21,1,strategy_ma_convergence_start
+603989,,15.22,1,strategy_ma_convergence_start
+002749,,15.26,1,strategy_ma_convergence_start
+603107,,15.3,1,strategy_box_bottom_rebound
+600487,,15.36,1,strategy_ma_convergence_start
+000426,,15.42,3,"strategy_plate_breakout_post_close, strategy_consolidation_breakout_preparation, strategy_ma_convergence_start"
+002698,,15.43,1,strategy_box_bottom_rebound
+003022,,15.44,1,strategy_ma_convergence_start
+600459,,15.47,1,strategy_plate_breakout_post_close
+600422,,15.47,1,strategy_box_bottom_rebound
+603172,,15.48,2,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start"
+002236,,15.53,1,strategy_ma_convergence_start
+002048,,15.53,1,strategy_box_bottom_rebound
+600312,,15.62,1,strategy_box_bottom_rebound
+002270,,15.63,1,strategy_ma_convergence_start
+605277,,15.65,1,strategy_macd_divergent_gold_cross
+600182,,15.65,1,strategy_ma_convergence_start
+002439,,15.72,1,strategy_ma_convergence_start
+002737,,15.73,1,strategy_box_bottom_rebound
+000860,,15.78,1,strategy_ma_convergence_start
+603726,,15.85,1,strategy_ma_convergence_start
+002039,,15.86,1,strategy_box_bottom_rebound
+603788,,15.88,1,strategy_box_bottom_rebound
+601900,,15.95,1,strategy_box_bottom_rebound
+002085,,15.99,1,strategy_box_bottom_rebound
+603659,,15.99,1,strategy_box_bottom_rebound
+603159,,16.03,1,strategy_ma_convergence_start
+002922,,16.05,1,strategy_ma_convergence_start
+600765,,16.06,1,strategy_box_bottom_rebound
+601702,,16.06,1,strategy_box_bottom_rebound
+002046,,16.07,1,strategy_ma_convergence_start
+603103,,16.08,1,strategy_ma_convergence_start
+600438,,16.09,1,strategy_box_bottom_rebound
+603043,,16.13,1,strategy_ma_convergence_start
+603995,,16.15,1,strategy_box_bottom_rebound
+002722,,16.16,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+002007,,16.16,1,strategy_ma_convergence_start
+001205,,16.16,1,strategy_box_bottom_rebound
+603036,,16.18,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+600875,,16.18,1,strategy_ma_convergence_start
+600088,,16.2,1,strategy_box_bottom_rebound
+003025,,16.22,1,strategy_box_bottom_rebound
+603279,,16.23,1,strategy_ma_convergence_start
+001210,,16.28,1,strategy_ma_convergence_start
+603276,,16.31,2,"strategy_plate_breakout_post_close, strategy_consolidation_breakout_preparation"
+002771,,16.32,1,strategy_ma_convergence_start
+603353,,16.32,1,strategy_ma_convergence_start
+600674,,16.42,1,strategy_box_bottom_rebound
+603050,,16.43,1,strategy_ma_convergence_start
+000776,,16.45,1,strategy_ma_convergence_start
+600989,,16.46,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+000792,,16.48,1,strategy_ma_convergence_start
+603073,,16.48,1,strategy_ma_convergence_start
+603729,,16.48,1,strategy_ma_convergence_start
+002213,,16.49,2,"strategy_plate_breakout_post_close, strategy_ma_convergence_start"
+002967,,16.49,1,strategy_box_bottom_rebound
+600999,,16.5,1,strategy_ma_convergence_start
+000933,,16.52,1,strategy_box_bottom_rebound
+000623,,16.54,1,strategy_ma_convergence_start
+603598,,16.55,1,strategy_ma_convergence_start
+001289,,16.55,2,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600761,,16.56,1,strategy_ma_convergence_start
+000519,,16.57,1,strategy_box_bottom_rebound
+002931,,16.67,1,strategy_ma_convergence_start
+002006,,16.68,1,strategy_box_bottom_rebound
+603037,,16.7,1,strategy_box_bottom_rebound
+603810,,16.75,2,"strategy_plate_breakout_post_close, strategy_macd_divergent_gold_cross"
+605339,,16.83,1,strategy_box_bottom_rebound
+603368,,16.9,2,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+603206,,17.03,1,strategy_ma_convergence_start
+603231,,17.04,1,strategy_ma_convergence_start
+002648,,17.04,1,strategy_box_bottom_rebound
+600559,,17.05,1,strategy_box_bottom_rebound
+603112,,17.06,1,strategy_ma_convergence_start
+600980,,17.09,1,strategy_ma_convergence_start
+603151,,17.12,1,strategy_plate_breakout_post_close
+603080,,17.12,1,strategy_ma_convergence_start
+002741,,17.15,1,strategy_plate_breakout_post_close
+603153,,17.21,1,strategy_ma_convergence_start
+000887,,17.26,1,strategy_box_bottom_rebound
+603233,,17.28,1,strategy_box_bottom_rebound
+603272,,17.3,1,strategy_ma_convergence_start
+002158,,17.4,1,strategy_box_bottom_rebound
+600206,,17.4,1,strategy_box_bottom_rebound
+603096,,17.43,1,strategy_box_bottom_rebound
+603619,,17.47,1,strategy_ma_convergence_start
+603638,,17.57,1,strategy_box_bottom_rebound
+603829,,17.61,3,"strategy_plate_breakout_post_close, strategy_consolidation_breakout_preparation, strategy_ma_convergence_start"
+605028,,17.64,1,strategy_ma_convergence_start
+000021,,17.72,1,strategy_macd_divergent_gold_cross
+600012,,17.73,1,strategy_ma_convergence_start
+002777,,17.76,1,strategy_ma_convergence_start
+000985,,17.79,1,strategy_ma_convergence_start
+600741,,17.79,1,strategy_box_bottom_rebound
+603217,,17.93,1,strategy_ma_convergence_start
+001218,,17.94,1,strategy_ma_convergence_start
+001287,,17.99,1,strategy_box_bottom_rebound
+603976,,18.04,1,strategy_ma_convergence_start
+001296,,18.1,2,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start"
+003011,,18.14,1,strategy_ma_convergence_start
+601899,,18.14,1,strategy_ma_convergence_start
+600131,,18.19,1,strategy_ma_convergence_start
+002149,,18.27,1,strategy_box_bottom_rebound
+603266,,18.28,1,strategy_box_bottom_rebound
+002541,,18.31,1,strategy_box_bottom_rebound
+002838,,18.33,1,strategy_ma_convergence_start
+605177,,18.34,1,strategy_ma_convergence_start
+603790,,18.39,1,strategy_ma_convergence_start
+601607,,18.45,1,strategy_ma_convergence_start
+600031,,18.47,1,strategy_box_bottom_rebound
+603029,,18.48,1,strategy_ma_convergence_start
+603656,,18.48,1,strategy_box_bottom_rebound
+603211,,18.51,1,strategy_ma_convergence_start
+000762,,18.52,1,strategy_macd_divergent_gold_cross
+601965,,18.53,1,strategy_ma_convergence_start
+603045,,18.54,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+002984,,18.56,1,strategy_box_bottom_rebound
+600872,,18.65,1,strategy_box_bottom_rebound
+603042,,18.67,1,strategy_plate_breakout_post_close
+603093,,18.69,2,"strategy_check_breakout_batch, strategy_plate_breakout_post_close"
+601882,,18.7,1,strategy_box_bottom_rebound
+603958,,18.84,1,strategy_ma_convergence_start
+600506,,18.84,1,strategy_box_bottom_rebound
+601136,,18.98,1,strategy_ma_convergence_start
+002508,,19.05,1,strategy_box_bottom_rebound
+603585,,19.06,2,"strategy_check_breakout_batch, strategy_plate_breakout_post_close"
+600501,,19.07,1,strategy_box_bottom_rebound
+002430,,19.19,1,strategy_box_bottom_rebound
+600114,,19.2,1,strategy_box_bottom_rebound
+600803,,19.22,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+603595,,19.37,1,strategy_ma_convergence_start
+002747,,19.44,1,strategy_box_bottom_rebound
+603826,,19.45,1,strategy_box_bottom_rebound
+600301,,19.52,1,strategy_ma_convergence_start
+600062,,19.54,1,strategy_ma_convergence_start
+601698,,19.62,1,strategy_ma_convergence_start
+003023,,19.77,1,strategy_ma_convergence_start
+001231,,19.79,1,strategy_ma_convergence_start
+605003,,19.86,2,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start"
+000581,,19.91,1,strategy_box_bottom_rebound
+603214,,19.96,1,strategy_box_bottom_rebound
+002903,,19.99,1,strategy_box_bottom_rebound
+600861,,20.0,1,strategy_box_bottom_rebound
+002983,,20.08,1,strategy_ma_convergence_start
+603310,,20.14,1,strategy_plate_breakout_post_close
+600161,,20.15,3,"strategy_plate_breakout_post_close, strategy_consolidation_breakout_preparation, strategy_ma_convergence_start"
+605566,,20.15,1,strategy_ma_convergence_start
+600549,,20.18,1,strategy_ma_convergence_start
+001333,,20.23,1,strategy_box_bottom_rebound
+000975,,20.28,1,strategy_ma_convergence_start
+603210,,20.28,1,strategy_box_bottom_rebound
+603348,,20.34,1,strategy_box_bottom_rebound
+002189,,20.63,1,strategy_ma_convergence_start
+600498,,20.71,1,strategy_macd_divergent_gold_cross
+003008,,20.84,1,strategy_ma_convergence_start
+600129,,20.85,1,strategy_box_bottom_rebound
+605108,,20.94,1,strategy_box_bottom_rebound
+600071,,21.05,1,strategy_ma_convergence_start
+605116,,21.07,1,strategy_ma_convergence_start
+605186,,21.1,2,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start"
+603308,,21.18,1,strategy_ma_convergence_start
+603381,,21.23,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+603615,,21.27,1,strategy_ma_convergence_start
+603067,,21.28,1,strategy_box_bottom_rebound
+001382,,21.37,1,strategy_box_bottom_rebound
+003029,,21.49,1,strategy_ma_convergence_start
+600482,,21.52,2,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600529,,21.63,1,strategy_ma_convergence_start
+605598,,21.78,1,strategy_ma_convergence_start
+002001,,21.82,2,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+605218,,21.83,1,strategy_ma_convergence_start
+000099,,21.85,1,strategy_box_bottom_rebound
+600426,,21.9,1,strategy_ma_convergence_start
+600007,,22.14,1,strategy_ma_convergence_start
+001378,,22.19,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+605020,,22.24,2,"strategy_consolidation_breakout_preparation, strategy_macd_divergent_gold_cross"
+600362,,22.27,2,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start"
+603220,,22.29,1,strategy_macd_divergent_gold_cross
+605011,,22.38,1,strategy_box_bottom_rebound
+601633,,22.47,1,strategy_box_bottom_rebound
+002362,,22.52,1,strategy_ma_convergence_start
+002180,,22.59,1,strategy_ma_convergence_start
+603156,,22.6,1,strategy_box_bottom_rebound
+001211,,22.62,1,strategy_ma_convergence_start
+603757,,22.86,1,strategy_box_bottom_rebound
+600060,,22.92,1,strategy_box_bottom_rebound
+600585,,22.92,1,strategy_box_bottom_rebound
+001368,,23.08,1,strategy_ma_convergence_start
+600754,,23.09,1,strategy_box_bottom_rebound
+603663,,23.14,1,strategy_box_bottom_rebound
+600750,,23.17,1,strategy_ma_convergence_start
+002912,,23.22,1,strategy_ma_convergence_start
+603097,,23.28,1,strategy_ma_convergence_start
+002155,,23.31,1,strategy_ma_convergence_start
+003020,,23.37,1,strategy_box_bottom_rebound
+002557,,23.42,1,strategy_ma_convergence_start
+600580,,23.47,1,strategy_box_bottom_rebound
+603380,,23.52,1,strategy_box_bottom_rebound
+600694,,23.67,1,strategy_box_bottom_rebound
+605358,,23.69,1,strategy_ma_convergence_start
+002444,,23.69,1,strategy_box_bottom_rebound
+001228,,23.75,1,strategy_ma_convergence_start
+002156,,23.87,1,strategy_macd_divergent_gold_cross
+603800,,23.89,1,strategy_ma_convergence_start
+603613,,23.92,1,strategy_ma_convergence_start
+002318,,23.99,1,strategy_box_bottom_rebound
+603285,,24.06,1,strategy_ma_convergence_start
+001337,,24.15,1,strategy_ma_convergence_start
+001358,,24.16,1,strategy_ma_convergence_start
+600315,,24.19,2,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600066,,24.27,1,strategy_box_bottom_rebound
+001269,,24.29,1,strategy_ma_convergence_start
+600378,,24.42,1,strategy_macd_divergent_gold_cross
+003017,,24.51,1,strategy_ma_convergence_start
+002876,,24.52,1,strategy_macd_divergent_gold_cross
+002287,,24.52,1,strategy_ma_convergence_start
+002380,,24.53,1,strategy_ma_convergence_start
+603867,,24.6,1,strategy_ma_convergence_start
+002368,,24.64,2,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start"
+000895,,24.67,1,strategy_ma_convergence_start
+603396,,24.7,1,strategy_ma_convergence_start
+000938,,24.74,1,strategy_ma_convergence_start
+001259,,24.75,1,strategy_ma_convergence_start
+002597,,24.9,1,strategy_ma_convergence_start
+600845,,25.02,1,strategy_box_bottom_rebound
+600895,,25.09,1,strategy_box_bottom_rebound
+600323,,25.3,1,strategy_ma_convergence_start
+603344,,25.31,1,strategy_box_bottom_rebound
+600345,,25.37,1,strategy_ma_convergence_start
+000028,,25.38,1,strategy_ma_convergence_start
+603496,,25.43,1,strategy_macd_divergent_gold_cross
+002955,,25.49,1,strategy_ma_convergence_start
+603280,,25.75,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+600030,,25.98,1,strategy_ma_convergence_start
+603920,,25.98,1,strategy_box_bottom_rebound
+603255,,25.99,1,strategy_ma_convergence_start
+603755,,26.1,2,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+600938,,26.18,1,strategy_ma_convergence_start
+603939,,26.3,1,strategy_box_bottom_rebound
+603005,,26.34,1,strategy_box_bottom_rebound
+605305,,26.48,1,strategy_ma_convergence_start
+002142,,26.62,1,strategy_ma_convergence_start
+600332,,26.96,1,strategy_ma_convergence_start
+600160,,26.98,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+001311,,26.98,1,strategy_box_bottom_rebound
+603929,,27.21,1,strategy_macd_divergent_gold_cross
+603270,,27.24,1,strategy_ma_convergence_start
+600988,,27.32,1,strategy_ma_convergence_start
+002985,,27.38,1,strategy_ma_convergence_start
+600566,,27.38,1,strategy_ma_convergence_start
+600118,,27.46,1,strategy_ma_convergence_start
+603661,,27.52,1,strategy_ma_convergence_start
+600520,,27.55,1,strategy_box_bottom_rebound
+000921,,27.6,1,strategy_box_bottom_rebound
+605333,,27.66,1,strategy_box_bottom_rebound
+603235,,27.68,1,strategy_ma_convergence_start
+002812,,27.78,1,strategy_box_bottom_rebound
+603508,,27.84,2,"strategy_plate_breakout_post_close, strategy_ma_convergence_start"
+603031,,27.9,1,strategy_ma_convergence_start
+002487,,27.91,1,strategy_ma_convergence_start
+001282,,28.01,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+603351,,28.01,1,strategy_ma_convergence_start
+000786,,28.19,1,strategy_box_bottom_rebound
+002415,,28.55,1,strategy_ma_convergence_start
+600887,,28.66,1,strategy_box_bottom_rebound
+002192,,28.95,1,strategy_ma_convergence_start
+600764,,29.08,1,strategy_ma_convergence_start
+605258,,29.15,1,strategy_ma_convergence_start
+600593,,29.37,2,"strategy_box_bottom_rebound, strategy_ma_convergence_start"
+603859,,29.44,1,strategy_macd_divergent_gold_cross
+003007,,29.62,1,strategy_ma_convergence_start
+001359,,29.75,1,strategy_box_bottom_rebound
+600729,,29.78,1,strategy_box_bottom_rebound
+003019,,29.79,1,strategy_box_bottom_rebound
+600456,,29.88,2,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start"
+001373,,30.0,1,strategy_ma_convergence_start
+002466,,30.34,1,strategy_ma_convergence_start
+600547,,30.35,1,strategy_ma_convergence_start
+600511,,30.51,1,strategy_ma_convergence_start
+603860,,30.51,1,strategy_ma_convergence_start
+002738,,30.54,1,strategy_ma_convergence_start
+600150,,30.76,1,strategy_ma_convergence_start
+002605,,30.8,1,strategy_plate_breakout_post_close
+003006,,30.83,1,strategy_box_bottom_rebound
+002756,,30.88,1,strategy_ma_convergence_start
+603063,,30.93,1,strategy_macd_divergent_gold_cross
+002827,,31.03,1,strategy_plate_breakout_post_close
+002460,,31.19,1,strategy_ma_convergence_start
+601595,,31.24,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+605111,,31.33,1,strategy_ma_convergence_start
+002870,,31.46,1,strategy_box_bottom_rebound
+603650,,31.47,1,strategy_box_bottom_rebound
+002683,,31.92,1,strategy_ma_convergence_start
+002906,,31.92,1,strategy_box_bottom_rebound
+002472,,32.11,1,strategy_box_bottom_rebound
+003026,,32.22,1,strategy_ma_convergence_start
+002222,,32.28,1,strategy_box_bottom_rebound
+000063,,32.31,1,strategy_ma_convergence_start
+600745,,32.41,1,strategy_box_bottom_rebound
+002978,,32.54,4,"strategy_plate_breakout_post_close, strategy_consolidation_breakout_preparation, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+600584,,32.94,1,strategy_macd_divergent_gold_cross
+001229,,33.02,1,strategy_ma_convergence_start
+002933,,33.33,1,strategy_box_bottom_rebound
+002975,,33.58,1,strategy_ma_convergence_start
+001326,,33.75,1,strategy_ma_convergence_start
+603358,,33.92,1,strategy_macd_divergent_gold_cross
+601995,,33.96,1,strategy_ma_convergence_start
+603068,,34.0,1,strategy_ma_convergence_start
+603026,,34.08,1,strategy_ma_convergence_start
+002841,,34.59,1,strategy_ma_convergence_start
+603409,,34.61,1,strategy_box_bottom_rebound
+600316,,34.75,1,strategy_box_bottom_rebound
+002353,,34.96,1,strategy_ma_convergence_start
+601601,,34.98,1,strategy_ma_convergence_start
+605098,,35.66,1,strategy_box_bottom_rebound
+603375,,35.67,1,strategy_ma_convergence_start
+603312,,35.96,1,strategy_box_bottom_rebound
+603667,,35.99,1,strategy_box_bottom_rebound
+605099,,36.53,2,"strategy_check_breakout_batch, strategy_plate_breakout_post_close"
+001335,,36.88,1,strategy_box_bottom_rebound
+600038,,36.98,1,strategy_ma_convergence_start
+603307,,37.11,1,strategy_ma_convergence_start
+603722,,37.33,1,strategy_box_bottom_rebound
+000408,,37.58,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+002432,,37.65,1,strategy_box_bottom_rebound
+603199,,37.75,1,strategy_ma_convergence_start
+603082,,37.78,1,strategy_box_bottom_rebound
+603197,,38.11,1,strategy_box_bottom_rebound
+603391,,38.2,1,strategy_ma_convergence_start
+003001,,39.1,1,strategy_macd_divergent_gold_cross
+603205,,39.1,1,strategy_ma_convergence_start
+603268,,39.12,1,strategy_box_bottom_rebound
+002625,,39.78,1,strategy_box_bottom_rebound
+601628,,40.03,1,strategy_ma_convergence_start
+002179,,40.14,1,strategy_ma_convergence_start
+600976,,40.7,1,strategy_ma_convergence_start
+603198,,40.93,1,strategy_box_bottom_rebound
+603171,,41.31,1,strategy_macd_divergent_gold_cross
+600763,,41.95,1,strategy_ma_convergence_start
+000799,,42.05,1,strategy_box_bottom_rebound
+603369,,43.07,1,strategy_box_bottom_rebound
+600779,,43.41,1,strategy_box_bottom_rebound
+603395,,43.93,1,strategy_ma_convergence_start
+603062,,44.27,1,strategy_box_bottom_rebound
+000628,,44.46,1,strategy_box_bottom_rebound
+000988,,44.77,1,strategy_ma_convergence_start
+600536,,44.97,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+603083,,45.11,1,strategy_plate_breakout_post_close
+603102,,45.12,1,strategy_ma_convergence_start
+603338,,45.5,1,strategy_box_bottom_rebound
+001314,,45.66,1,strategy_ma_convergence_start
+001395,,46.24,1,strategy_box_bottom_rebound
+000733,,46.71,1,strategy_box_bottom_rebound
+603260,,47.4,1,strategy_box_bottom_rebound
+601689,,48.15,1,strategy_box_bottom_rebound
+003031,,48.45,1,strategy_ma_convergence_start
+603379,,48.61,1,strategy_ma_convergence_start
+001283,,49.95,1,strategy_box_bottom_rebound
+000977,,51.92,1,strategy_ma_convergence_start
+603486,,53.03,1,strategy_box_bottom_rebound
+001389,,53.3,1,strategy_ma_convergence_start
+603786,,53.47,1,strategy_box_bottom_rebound
+603596,,53.58,1,strategy_box_bottom_rebound
+600309,,54.88,1,strategy_box_bottom_rebound
+000423,,54.93,1,strategy_box_bottom_rebound
+001400,,55.61,1,strategy_box_bottom_rebound
+000538,,56.6,1,strategy_ma_convergence_start
+603833,,58.98,1,strategy_box_bottom_rebound
+002992,,61.72,1,strategy_top_gainers
+603019,,61.9,1,strategy_box_bottom_rebound
+689009,,62.17,1,strategy_box_bottom_rebound
+002595,,63.65,1,strategy_ma_convergence_start
+002991,,63.7,1,strategy_box_bottom_rebound
+605123,,64.16,1,strategy_plate_breakout_post_close
+002049,,64.45,1,strategy_ma_convergence_start
+603160,,69.49,1,strategy_ma_convergence_start
+002028,,73.28,1,strategy_ma_convergence_start
+603195,,74.07,2,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start"
+603061,,75.64,1,strategy_box_bottom_rebound
+000333,,75.7,1,strategy_box_bottom_rebound
+603297,,83.9,1,strategy_box_bottom_rebound
+002847,,88.5,1,strategy_box_bottom_rebound
+603325,,93.12,1,strategy_ma_convergence_start
+603202,,98.28,1,strategy_box_bottom_rebound
+002920,,103.8,1,strategy_box_bottom_rebound
+000568,,116.14,1,strategy_box_bottom_rebound
+600941,,116.61,1,strategy_ma_convergence_start
+000858,,125.09,1,strategy_box_bottom_rebound
+603501,,132.4,1,strategy_ma_convergence_start
+000596,,149.8,1,strategy_box_bottom_rebound
+600436,,202.8,1,strategy_box_bottom_rebound
+002594,,359.96,1,strategy_box_bottom_rebound
+002371,,430.49,1,strategy_ma_convergence_start

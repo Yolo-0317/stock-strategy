@@ -8,6 +8,7 @@ class StockDaily(Base):
     __tablename__ = "stock_daily"
 
     ts_code = Column(String(10), nullable=False)
+    exch_code = Column(String(10))
     trade_date = Column(Date, nullable=False)
     open = Column(Float)
     high = Column(Float)

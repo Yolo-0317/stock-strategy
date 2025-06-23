@@ -36,7 +36,7 @@ def get_yesterday_close(ts_code, trade_date):
 
 
 def record_realtime_ticks(trade_date: str):
-    df = pd.read_csv(f"confirmed_stocks/confirmed_stocks_{trade_date}.csv")
+    df = pd.read_csv(f"confirmed_stocks/confirmed_stocks_{trade_date}.csv", dtype={"股票代码": str})
     ts_codes = df["股票代码"].tolist()
     now = datetime.now()
 
@@ -219,6 +219,41 @@ def is_kline_up_trending(ts_code: str, minutes: int) -> bool:
     return up_trend_count >= len(price_series) // 2  # 超过一半为上涨则认为趋势向上
 
 
+def is_local_low_point(ts_code: str, minutes: int = 10) -> bool:
+    """
+    判断当前价格是否处于局部低点
+    通过比较最近N分钟的价格走势，判断当前是否处于回调后的低点
+    """
+    now = datetime.now()
+    start_time = now - timedelta(minutes=minutes)
+    
+    df = pd.read_sql(
+        """
+        SELECT timestamp, price
+        FROM realtime_ticks
+        WHERE ts_code = %s AND timestamp >= %s
+        ORDER BY timestamp ASC
+        """,
+        con=engine,
+        params=(ts_code, start_time),
+    )
+    
+    if df.empty or len(df) < 10:  # 至少需要5个点来判断
+        return False
+        
+    # 获取最近3个价格点
+    recent_prices = df['price'].tail(3).values
+    
+    # 判断是否形成V形或U形底部
+    # 条件1：中间点比两边低
+    # 条件2：当前价格比前一个价格高（开始反弹）
+    is_v_shape = (recent_prices[1] < recent_prices[0] and 
+                 recent_prices[1] < recent_prices[2] and
+                 recent_prices[2] > recent_prices[1])
+                 
+    return is_v_shape
+
+
 def confirm_buy_with_realtime(ts_code: str, trade_date: str) -> bool:
     """
     实时行情确认是否满足买入条件。
@@ -247,7 +282,7 @@ def confirm_buy_with_realtime(ts_code: str, trade_date: str) -> bool:
         # logger.info(f"{ts_code} 开盘跌幅过大（今开 < 昨收 * 0.95），不买入")
         return False
 
-    # 条件2：当前价格必须高于“今开”和“昨收” —— 趋势向上确认
+    # 条件2：当前价格必须高于"今开"和"昨收" —— 趋势向上确认
     if realtime_price <= today_open or realtime_price <= yesterday_close:
         # logger.info(f"{ts_code} 实时价未高于今开和昨收，不买入")
         return False
@@ -265,8 +300,10 @@ def confirm_buy_with_realtime(ts_code: str, trade_date: str) -> bool:
     score = 0
     if position >= 0.6:
         score += 1
+    elif position <= 0.5 and is_local_low_point(ts_code):  # 新增：位置在50%以下且处于局部低点
+        score += 1
     else:
-        logger.info(f"{ts_code} 当前价位置较低: {position:.2%}")
+        logger.info(f"{ts_code} 当前价位置: {position:.2%}")
 
     if pct_change >= 0.5:
         score += 1
@@ -279,9 +316,9 @@ def confirm_buy_with_realtime(ts_code: str, trade_date: str) -> bool:
     else:
         logger.info(f"{ts_code} 满足实时动能买入条件，position={position:.2%}, pct_change={pct_change:.2f}%")
 
-    # 条件5：近5分钟是否持续上涨（tick级别）
-    if not is_rising_in_recent_ticks(ts_code, minutes=5):
-        logger.info(f"{ts_code} 最近5分钟没有持续上涨信号，谨慎不买入")
+    # 新增条件：检查是否处于局部低点且保持上涨趋势
+    if not is_local_low_point(ts_code) or not is_kline_up_trending(ts_code, 5):
+        logger.info(f"{ts_code} 未处于局部低点或上涨趋势不明显，不买入")
         return False
 
     # 条件6：成交量放大（资金确认）
@@ -289,11 +326,6 @@ def confirm_buy_with_realtime(ts_code: str, trade_date: str) -> bool:
     if vol_ratio < 2.0:
         logger.info(f"{ts_code} 成交量未明显放大（倍数: {vol_ratio:.2f}），不买入")
         # return False  # 可选放宽此限制
-
-    # 条件7：K线趋势判断（走势确认）
-    if not is_kline_up_trending(ts_code, 5):
-        logger.info(f"{ts_code} K线走势不明显向上，谨慎不买入")
-        return False
 
     # 条件8：平台突破价限制，避免追高
     breakout_price = get_platform_breakout_price(ts_code, trade_date)
