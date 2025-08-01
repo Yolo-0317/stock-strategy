@@ -1,0 +1,112 @@
+﻿股票代码,现价,昨收,策略数量,策略名称
+000153,,6.79,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+000856,,11.96,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+002102,,3.48,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+301345,,124.0,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+301348,,27.11,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+301373,,35.12,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+301448,,28.27,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+600396,,3.25,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+603124,,53.46,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+833427,,21.06,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+872925,,19.05,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+002165,,10.11,1,strategy_top_gainers
+002384,,41.55,1,strategy_top_gainers
+002729,,15.4,1,strategy_top_gainers
+002845,,15.73,1,strategy_top_gainers
+002866,,20.23,1,strategy_top_gainers
+600751,,3.61,1,strategy_top_gainers
+601606,,31.96,1,strategy_top_gainers
+603316,,9.89,1,strategy_top_gainers
+832982,,395.0,1,strategy_top_gainers
+000026,,16.51,1,strategy_plate_breakout_post_close
+000056,,3.42,1,strategy_plate_breakout_post_close
+000541,,6.7,1,strategy_plate_breakout_post_close
+000697,,7.97,1,strategy_plate_breakout_post_close
+000737,,11.53,1,strategy_plate_breakout_post_close
+000811,,10.37,1,strategy_plate_breakout_post_close
+000829,,10.82,1,strategy_plate_breakout_post_close
+000859,,7.69,1,strategy_plate_breakout_post_close
+000900,,4.65,1,strategy_plate_breakout_post_close
+000981,,2.4,1,strategy_plate_breakout_post_close
+001267,,9.98,1,strategy_plate_breakout_post_close
+002052,,11.33,1,strategy_plate_breakout_post_close
+002068,,10.82,1,strategy_plate_breakout_post_close
+002080,,21.45,1,strategy_plate_breakout_post_close
+002166,,8.2,1,strategy_plate_breakout_post_close
+002185,,10.78,1,strategy_plate_breakout_post_close
+002245,,13.51,1,strategy_plate_breakout_post_close
+002416,,13.22,1,strategy_plate_breakout_post_close
+002516,,5.38,1,strategy_plate_breakout_post_close
+002536,,15.72,1,strategy_plate_breakout_post_close
+002559,,10.0,1,strategy_plate_breakout_post_close
+002651,,13.22,1,strategy_plate_breakout_post_close
+002658,,8.61,1,strategy_plate_breakout_post_close
+002669,,12.76,1,strategy_plate_breakout_post_close
+002801,,35.61,1,strategy_plate_breakout_post_close
+003031,,55.63,1,strategy_plate_breakout_post_close
+301033,,64.06,1,strategy_plate_breakout_post_close
+301059,,12.16,1,strategy_plate_breakout_post_close
+301162,,53.78,1,strategy_plate_breakout_post_close
+301234,,31.81,1,strategy_plate_breakout_post_close
+301300,,37.7,1,strategy_plate_breakout_post_close
+301369,,56.75,1,strategy_plate_breakout_post_close
+301389,,26.18,1,strategy_plate_breakout_post_close
+301507,,15.78,1,strategy_plate_breakout_post_close
+301526,,3.89,1,strategy_plate_breakout_post_close
+301555,,28.76,1,strategy_plate_breakout_post_close
+600176,,11.88,1,strategy_plate_breakout_post_close
+600265,,18.42,1,strategy_plate_breakout_post_close
+600319,,7.18,1,strategy_plate_breakout_post_close
+600353,,14.67,1,strategy_plate_breakout_post_close
+600379,,12.37,1,strategy_plate_breakout_post_close
+600416,,14.31,1,strategy_plate_breakout_post_close
+600507,,4.61,1,strategy_plate_breakout_post_close
+600619,,12.55,1,strategy_plate_breakout_post_close
+600643,,8.16,1,strategy_plate_breakout_post_close
+600673,,12.67,1,strategy_plate_breakout_post_close
+600711,,6.59,1,strategy_plate_breakout_post_close
+600726,,2.57,1,strategy_plate_breakout_post_close
+600744,,4.96,1,strategy_plate_breakout_post_close
+601003,,3.87,1,strategy_plate_breakout_post_close
+603002,,6.92,1,strategy_plate_breakout_post_close
+603040,,42.29,1,strategy_plate_breakout_post_close
+603125,,19.36,1,strategy_plate_breakout_post_close
+603127,,22.3,1,strategy_plate_breakout_post_close
+603389,,16.99,1,strategy_plate_breakout_post_close
+603444,,320.48,1,strategy_plate_breakout_post_close
+603615,,25.05,1,strategy_plate_breakout_post_close
+603661,,30.46,1,strategy_plate_breakout_post_close
+603669,,5.78,1,strategy_plate_breakout_post_close
+603759,,8.9,1,strategy_plate_breakout_post_close
+603931,,28.11,1,strategy_plate_breakout_post_close
+605011,,23.26,1,strategy_plate_breakout_post_close
+605389,,47.18,1,strategy_plate_breakout_post_close
+831039,,11.58,1,strategy_plate_breakout_post_close
+837046,,16.93,1,strategy_plate_breakout_post_close
+001389,,60.02,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+603103,,16.27,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+002714,,41.99,1,strategy_ma_convergence_start
+002739,,11.52,1,strategy_ma_convergence_start
+600609,,5.36,1,strategy_ma_convergence_start
+601126,,16.43,1,strategy_ma_convergence_start
+603129,,223.49,1,strategy_ma_convergence_start
+603379,,49.23,1,strategy_ma_convergence_start
+603816,,25.46,1,strategy_ma_convergence_start
+605499,,321.7,1,strategy_ma_convergence_start
+002170,,10.7,3,"strategy_consolidation_breakout_preparation, strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+002592,,6.46,1,strategy_consolidation_breakout_preparation
+603529,,35.06,1,strategy_consolidation_breakout_preparation
+002810,,13.15,3,"strategy_check_breakout_batch, strategy_top_gainers, strategy_plate_breakout_post_close"
+603203,,27.36,3,"strategy_check_breakout_batch, strategy_top_gainers, strategy_plate_breakout_post_close"
+002786,,10.14,2,"strategy_check_breakout_batch, strategy_plate_breakout_post_close"
+601218,,4.52,2,"strategy_check_breakout_batch, strategy_plate_breakout_post_close"
+000333,,72.11,1,strategy_box_bottom_rebound
+000596,,131.68,1,strategy_box_bottom_rebound
+002001,,21.31,1,strategy_box_bottom_rebound
+002215,,10.31,1,strategy_box_bottom_rebound
+002595,,59.23,1,strategy_box_bottom_rebound
+600285,,22.45,1,strategy_box_bottom_rebound
+600660,,56.87,1,strategy_box_bottom_rebound
+603202,,96.82,1,strategy_box_bottom_rebound
+603699,,30.29,1,strategy_box_bottom_rebound

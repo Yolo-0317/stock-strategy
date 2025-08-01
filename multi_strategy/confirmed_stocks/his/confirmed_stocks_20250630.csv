@@ -1,0 +1,84 @@
+﻿股票代码,现价,昨收,策略数量,策略名称
+000737,,10.31,3,"strategy_top_gainers, strategy_plate_breakout_post_close, strategy_consolidation_breakout_preparation"
+000065,,11.73,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+000700,,7.76,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+002185,,9.96,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+002205,,11.75,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+301125,,14.69,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+301205,,101.0,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+301315,,58.5,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+301408,,14.54,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+301439,,17.48,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+600595,,4.49,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+605277,,17.68,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+835184,,19.7,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+870357,,29.24,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+000026,,14.38,1,strategy_top_gainers
+600961,,11.28,1,strategy_top_gainers
+605058,,27.78,1,strategy_top_gainers
+873305,,68.4,1,strategy_top_gainers
+000062,,27.49,1,strategy_plate_breakout_post_close
+000807,,16.19,1,strategy_plate_breakout_post_close
+000868,,6.2,1,strategy_plate_breakout_post_close
+000878,,12.62,1,strategy_plate_breakout_post_close
+000960,,15.5,1,strategy_plate_breakout_post_close
+001298,,29.49,1,strategy_plate_breakout_post_close
+002048,,17.5,1,strategy_plate_breakout_post_close
+002065,,9.74,1,strategy_plate_breakout_post_close
+002189,,28.0,1,strategy_plate_breakout_post_close
+002276,,14.75,1,strategy_plate_breakout_post_close
+002444,,25.48,1,strategy_plate_breakout_post_close
+002484,,20.66,1,strategy_plate_breakout_post_close
+002724,,8.0,1,strategy_plate_breakout_post_close
+002851,,50.57,1,strategy_plate_breakout_post_close
+002938,,32.2,1,strategy_plate_breakout_post_close
+002961,,21.66,1,strategy_plate_breakout_post_close
+301041,,25.85,1,strategy_plate_breakout_post_close
+301173,,46.94,1,strategy_plate_breakout_post_close
+301319,,31.4,1,strategy_plate_breakout_post_close
+301338,,45.1,1,strategy_plate_breakout_post_close
+600152,,6.92,1,strategy_plate_breakout_post_close
+600208,,2.98,1,strategy_plate_breakout_post_close
+600241,,9.68,1,strategy_plate_breakout_post_close
+600331,,8.58,1,strategy_plate_breakout_post_close
+600338,,11.01,1,strategy_plate_breakout_post_close
+600362,,23.57,1,strategy_plate_breakout_post_close
+600375,,7.53,1,strategy_plate_breakout_post_close
+600395,,4.86,1,strategy_plate_breakout_post_close
+600446,,19.25,1,strategy_plate_breakout_post_close
+600601,,5.27,1,strategy_plate_breakout_post_close
+600643,,6.92,1,strategy_plate_breakout_post_close
+600711,,6.15,1,strategy_plate_breakout_post_close
+600731,,7.42,1,strategy_plate_breakout_post_close
+600967,,17.59,1,strategy_plate_breakout_post_close
+601162,,5.06,1,strategy_plate_breakout_post_close
+601899,,19.78,1,strategy_plate_breakout_post_close
+603130,,30.93,1,strategy_plate_breakout_post_close
+603132,,13.19,1,strategy_plate_breakout_post_close
+603196,,17.19,1,strategy_plate_breakout_post_close
+603228,,38.04,1,strategy_plate_breakout_post_close
+603389,,16.99,1,strategy_plate_breakout_post_close
+603861,,9.8,1,strategy_plate_breakout_post_close
+603933,,16.63,1,strategy_plate_breakout_post_close
+603979,,46.84,1,strategy_plate_breakout_post_close
+605060,,20.54,1,strategy_plate_breakout_post_close
+833873,,7.15,1,strategy_plate_breakout_post_close
+871981,,39.43,1,strategy_plate_breakout_post_close
+603816,,25.48,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+002739,,11.3,1,strategy_ma_convergence_start
+600609,,5.27,1,strategy_ma_convergence_start
+601126,,16.11,1,strategy_ma_convergence_start
+603103,,15.96,1,strategy_ma_convergence_start
+603259,,65.83,1,strategy_ma_convergence_start
+603486,,54.73,1,strategy_ma_convergence_start
+000333,,72.28,1,strategy_box_bottom_rebound
+000975,,18.87,1,strategy_box_bottom_rebound
+002001,,21.27,1,strategy_box_bottom_rebound
+002215,,10.25,1,strategy_box_bottom_rebound
+002595,,59.46,1,strategy_box_bottom_rebound
+600285,,22.69,1,strategy_box_bottom_rebound
+603202,,96.77,1,strategy_box_bottom_rebound
+603337,,35.5,1,strategy_box_bottom_rebound
+603529,,34.15,1,strategy_box_bottom_rebound
+603699,,31.11,1,strategy_box_bottom_rebound
+605499,,316.42,1,strategy_box_bottom_rebound

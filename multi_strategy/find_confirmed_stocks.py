@@ -51,8 +51,8 @@ def find_confirmed_stocks(stock_codes, date=None, confirmed_dir="confirmed_stock
 # 示例用法
 if __name__ == "__main__":
     # 例子1：查找这些股票代码是否在指定日期的confirmed_stocks中
-    codes = ["600773", "002150", "002490", "000159"]
+    codes = ["000758", "002218", "002356", "002481", "002871", "600545", "600807"]
     date = datetime.now().strftime("%Y%m%d")
-    date = "20250623"
+    date = "20250717"
     found = find_confirmed_stocks(codes, date=date)
     print(f"存在于的confirmed_stocks_{date}.csv的股票代码：", found)

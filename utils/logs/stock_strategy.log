@@ -18685,3 +18685,946 @@
 2025-06-23 16:11:00,005 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_check_breakout_batch】命中数量: 1
 2025-06-23 16:11:00,650 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_top_gainers】命中数量: 35
 2025-06-23 16:11:05,478 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_plate_breakout_post_close】命中数量: 81
+2025-06-23 16:11:14,782 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_box_bottom_rebound】命中数量: 16
+2025-06-23 16:11:19,004 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_ma_convergence_start】命中数量: 3
+2025-06-23 16:11:23,720 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_macd_divergent_gold_cross】命中数量: 1
+2025-06-23 16:11:28,303 - stock_strategy - INFO - main.py:109 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250624.csv
+2025-06-24 16:10:15,672 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 16:10，判断逻辑触发中…
+2025-06-24 16:10:15,672 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-06-24 16:10:15,672 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250625 =====
+2025-06-24 16:49:36,307 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 16:49，判断逻辑触发中…
+2025-06-24 16:49:36,308 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-06-24 16:49:36,308 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250625 =====
+2025-06-24 16:49:44,795 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_top_gainers】命中数量: 72
+2025-06-24 16:49:49,604 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_plate_breakout_post_close】命中数量: 149
+2025-06-24 16:49:58,422 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_box_bottom_rebound】命中数量: 8
+2025-06-24 16:50:02,571 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_ma_convergence_start】命中数量: 8
+2025-06-24 16:50:07,218 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_macd_divergent_gold_cross】命中数量: 2
+2025-06-24 16:50:11,763 - stock_strategy - INFO - main.py:109 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250625.csv
+2025-06-25 16:48:09,322 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 16:48，判断逻辑触发中…
+2025-06-25 16:48:09,323 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-06-25 16:48:09,323 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250626 =====
+2025-06-25 16:48:18,037 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_top_gainers】命中数量: 34
+2025-06-25 16:48:23,267 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_plate_breakout_post_close】命中数量: 151
+2025-06-25 16:48:32,564 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_box_bottom_rebound】命中数量: 6
+2025-06-25 16:48:36,781 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_ma_convergence_start】命中数量: 11
+2025-06-25 16:48:41,483 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_macd_divergent_gold_cross】命中数量: 1
+2025-06-25 16:48:46,058 - stock_strategy - INFO - main.py:109 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250626.csv
+2025-06-26 16:07:48,114 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 16:07，判断逻辑触发中…
+2025-06-26 16:07:48,114 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-06-26 16:07:48,114 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250627 =====
+2025-06-26 16:07:57,457 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_top_gainers】命中数量: 24
+2025-06-26 16:08:02,399 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_plate_breakout_post_close】命中数量: 84
+2025-06-26 16:08:11,528 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_box_bottom_rebound】命中数量: 10
+2025-06-26 16:08:15,794 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_ma_convergence_start】命中数量: 9
+2025-06-26 16:08:20,532 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_macd_divergent_gold_cross】命中数量: 2
+2025-06-26 16:08:25,113 - stock_strategy - INFO - main.py:109 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250627.csv
+2025-06-27 16:13:01,064 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 16:13，判断逻辑触发中…
+2025-06-27 16:13:01,064 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-06-27 16:13:01,065 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250630 =====
+2025-06-27 16:13:09,362 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_check_breakout_batch】命中数量: 1
+2025-06-27 16:13:10,015 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_top_gainers】命中数量: 30
+2025-06-27 16:13:14,878 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_plate_breakout_post_close】命中数量: 94
+2025-06-27 16:13:20,568 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_consolidation_breakout_preparation】命中数量: 1
+2025-06-27 16:13:24,277 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_box_bottom_rebound】命中数量: 11
+2025-06-27 16:13:28,854 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_ma_convergence_start】命中数量: 8
+2025-06-27 16:13:33,821 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_macd_divergent_gold_cross】命中数量: 1
+2025-06-27 16:13:38,482 - stock_strategy - INFO - main.py:109 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250630.csv
+2025-07-01 09:46:59,631 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 09:46，判断逻辑触发中…
+2025-07-01 09:46:59,631 - stock_strategy - INFO - main.py:237 - run_by_time - 🌅 [盘前] 执行非实时选股
+2025-07-01 09:46:59,631 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250701 =====
+2025-07-01 09:47:08,394 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_check_breakout_batch】命中数量: 2
+2025-07-01 09:47:09,044 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_top_gainers】命中数量: 43
+2025-07-01 09:47:13,988 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_plate_breakout_post_close】命中数量: 136
+2025-07-01 09:47:19,618 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_consolidation_breakout_preparation】命中数量: 2
+2025-07-01 09:47:23,605 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_box_bottom_rebound】命中数量: 11
+2025-07-01 09:47:28,015 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_ma_convergence_start】命中数量: 14
+2025-07-01 09:47:33,073 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_macd_divergent_gold_cross】命中数量: 2
+2025-07-01 09:47:37,876 - stock_strategy - INFO - main.py:109 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250701.csv
+2025-07-01 16:38:34,273 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 16:38，判断逻辑触发中…
+2025-07-01 16:38:34,274 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-01 16:38:34,274 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250704 =====
+2025-07-01 16:38:43,724 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_check_breakout_batch】命中数量: 5
+2025-07-01 16:38:49,692 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_plate_breakout_post_close】命中数量: 123
+2025-07-01 16:38:55,473 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_consolidation_breakout_preparation】命中数量: 3
+2025-07-01 16:38:59,308 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_box_bottom_rebound】命中数量: 9
+2025-07-01 16:39:03,876 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_ma_convergence_start】命中数量: 14
+2025-07-01 16:39:08,914 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_macd_divergent_gold_cross】命中数量: 3
+2025-07-01 16:39:13,539 - stock_strategy - INFO - main.py:109 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250704.csv
+2025-07-01 16:40:33,951 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 16:40，判断逻辑触发中…
+2025-07-01 16:40:33,951 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-01 16:40:33,951 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250702 =====
+2025-07-01 16:40:42,364 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_check_breakout_batch】命中数量: 5
+2025-07-01 16:40:43,020 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_top_gainers】命中数量: 39
+2025-07-01 16:40:48,171 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_plate_breakout_post_close】命中数量: 123
+2025-07-01 16:40:54,543 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_consolidation_breakout_preparation】命中数量: 3
+2025-07-01 16:40:58,261 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_box_bottom_rebound】命中数量: 9
+2025-07-01 16:41:03,126 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_ma_convergence_start】命中数量: 14
+2025-07-01 16:41:08,420 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_macd_divergent_gold_cross】命中数量: 3
+2025-07-01 16:41:13,662 - stock_strategy - INFO - main.py:109 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250702.csv
+2025-07-02 16:08:24,218 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 16:08，判断逻辑触发中…
+2025-07-02 16:08:24,218 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-02 16:08:24,218 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250703 =====
+2025-07-02 16:08:32,627 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_check_breakout_batch】命中数量: 1
+2025-07-02 16:08:33,323 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_top_gainers】命中数量: 38
+2025-07-02 16:08:41,223 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_plate_breakout_post_close】命中数量: 114
+2025-07-02 16:08:50,515 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_box_bottom_rebound】命中数量: 6
+2025-07-02 16:08:54,719 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_ma_convergence_start】命中数量: 11
+2025-07-02 16:08:59,561 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_macd_divergent_gold_cross】命中数量: 3
+2025-07-02 16:09:04,335 - stock_strategy - INFO - main.py:109 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250703.csv
+2025-07-02 16:28:25,537 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 16:28，判断逻辑触发中…
+2025-07-02 16:28:25,538 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-02 16:28:25,538 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250703 =====
+2025-07-02 16:28:33,790 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_check_breakout_batch】命中数量: 5
+2025-07-02 16:28:34,441 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_top_gainers】命中数量: 38
+2025-07-02 16:28:39,540 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_plate_breakout_post_close】命中数量: 114
+2025-07-02 16:28:48,518 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_box_bottom_rebound】命中数量: 6
+2025-07-02 16:28:52,799 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_ma_convergence_start】命中数量: 11
+2025-07-02 16:28:57,557 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_macd_divergent_gold_cross】命中数量: 3
+2025-07-02 16:29:02,143 - stock_strategy - INFO - main.py:109 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250703.csv
+2025-07-03 16:15:59,633 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 16:15，判断逻辑触发中…
+2025-07-03 16:15:59,633 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-03 16:15:59,633 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250704 =====
+2025-07-03 16:16:08,910 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_check_breakout_batch】命中数量: 4
+2025-07-03 16:16:09,585 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_top_gainers】命中数量: 29
+2025-07-03 16:16:14,569 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_plate_breakout_post_close】命中数量: 93
+2025-07-03 16:16:20,209 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_consolidation_breakout_preparation】命中数量: 1
+2025-07-03 16:16:23,811 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_box_bottom_rebound】命中数量: 6
+2025-07-03 16:16:28,360 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_ma_convergence_start】命中数量: 15
+2025-07-03 16:16:33,636 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_macd_divergent_gold_cross】命中数量: 4
+2025-07-03 16:16:38,516 - stock_strategy - INFO - main.py:109 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250704.csv
+2025-07-04 17:22:54,355 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 17:22，判断逻辑触发中…
+2025-07-04 17:22:54,355 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-04 17:22:54,355 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250707 =====
+2025-07-04 17:23:03,598 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_check_breakout_batch】命中数量: 4
+2025-07-04 17:23:04,269 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_top_gainers】命中数量: 45
+2025-07-04 17:23:09,216 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_plate_breakout_post_close】命中数量: 59
+2025-07-04 17:23:14,748 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_consolidation_breakout_preparation】命中数量: 1
+2025-07-04 17:23:18,326 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_box_bottom_rebound】命中数量: 8
+2025-07-04 17:23:23,908 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_ma_convergence_start】命中数量: 14
+2025-07-04 17:23:29,065 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_macd_divergent_gold_cross】命中数量: 2
+2025-07-04 17:23:34,673 - stock_strategy - INFO - main.py:109 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250707.csv
+2025-07-07 16:15:39,114 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 16:15，判断逻辑触发中…
+2025-07-07 16:15:39,115 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-07 16:15:39,115 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250708 =====
+2025-07-07 16:15:39,125 - stock_strategy - ERROR - strategies.py:37 - strategy_check_breakout_batch - 数据库查询失败: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on 'localhost' ([Errno 61] Connection refused)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-07 16:15:39,127 - stock_strategy - ERROR - main.py:57 - run_all_strategies_with_confirmation - 策略 strategy_top_gainers 运行失败: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on 'localhost' ([Errno 61] Connection refused)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-07 16:15:39,128 - stock_strategy - ERROR - main.py:57 - run_all_strategies_with_confirmation - 策略 strategy_plate_breakout_post_close 运行失败: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on 'localhost' ([Errno 61] Connection refused)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-07 16:15:39,128 - stock_strategy - ERROR - main.py:57 - run_all_strategies_with_confirmation - 策略 strategy_consolidation_breakout_preparation 运行失败: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on 'localhost' ([Errno 61] Connection refused)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-07 16:15:39,128 - stock_strategy - ERROR - main.py:57 - run_all_strategies_with_confirmation - 策略 strategy_box_bottom_rebound 运行失败: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on 'localhost' ([Errno 61] Connection refused)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-07 16:15:39,129 - stock_strategy - ERROR - main.py:57 - run_all_strategies_with_confirmation - 策略 strategy_ma_convergence_start 运行失败: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on 'localhost' ([Errno 61] Connection refused)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-07 16:15:39,129 - stock_strategy - ERROR - main.py:57 - run_all_strategies_with_confirmation - 策略 strategy_macd_divergent_gold_cross 运行失败: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on 'localhost' ([Errno 61] Connection refused)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-07 16:15:39,129 - stock_strategy - ERROR - main.py:57 - run_all_strategies_with_confirmation - 策略 strategy_annual_line_breakout 运行失败: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on 'localhost' ([Errno 61] Connection refused)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-07 16:15:39,129 - stock_strategy - INFO - main.py:60 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-07 16:16:25,909 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 16:16，判断逻辑触发中…
+2025-07-07 16:16:25,910 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-07 16:16:25,910 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250708 =====
+2025-07-07 16:16:35,195 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_check_breakout_batch】命中数量: 5
+2025-07-07 16:16:40,759 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_plate_breakout_post_close】命中数量: 59
+2025-07-07 16:16:46,484 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_consolidation_breakout_preparation】命中数量: 1
+2025-07-07 16:16:50,056 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_box_bottom_rebound】命中数量: 8
+2025-07-07 16:16:54,863 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_ma_convergence_start】命中数量: 14
+2025-07-07 16:16:59,576 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_macd_divergent_gold_cross】命中数量: 2
+2025-07-07 16:17:04,399 - stock_strategy - INFO - main.py:109 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250708.csv
+2025-07-07 16:18:39,206 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 16:18，判断逻辑触发中…
+2025-07-07 16:18:39,206 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-07 16:18:39,206 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250708 =====
+2025-07-07 16:18:46,881 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_check_breakout_batch】命中数量: 10
+2025-07-07 16:18:47,486 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_top_gainers】命中数量: 26
+2025-07-07 16:18:52,553 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_plate_breakout_post_close】命中数量: 97
+2025-07-07 16:18:58,356 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_consolidation_breakout_preparation】命中数量: 2
+2025-07-07 16:19:02,262 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_box_bottom_rebound】命中数量: 10
+2025-07-07 16:19:07,578 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_ma_convergence_start】命中数量: 12
+2025-07-07 16:19:17,025 - stock_strategy - INFO - main.py:109 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250708.csv
+2025-07-08 16:24:08,450 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 16:24，判断逻辑触发中…
+2025-07-08 16:24:08,450 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-08 16:24:08,450 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250709 =====
+2025-07-08 16:24:16,651 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_check_breakout_batch】命中数量: 1
+2025-07-08 16:24:17,254 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_top_gainers】命中数量: 66
+2025-07-08 16:24:22,235 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_plate_breakout_post_close】命中数量: 106
+2025-07-08 16:24:27,869 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_consolidation_breakout_preparation】命中数量: 1
+2025-07-08 16:24:31,907 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_box_bottom_rebound】命中数量: 8
+2025-07-08 16:24:37,112 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_ma_convergence_start】命中数量: 7
+2025-07-08 16:24:47,033 - stock_strategy - INFO - main.py:109 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250709.csv
+2025-07-09 16:30:15,562 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 16:30，判断逻辑触发中…
+2025-07-09 16:30:15,563 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-09 16:30:15,563 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250710 =====
+2025-07-09 16:30:26,101 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_check_breakout_batch】命中数量: 3
+2025-07-09 16:30:26,789 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_top_gainers】命中数量: 41
+2025-07-09 16:30:31,975 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_plate_breakout_post_close】命中数量: 88
+2025-07-09 16:30:37,823 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_consolidation_breakout_preparation】命中数量: 3
+2025-07-09 16:30:41,549 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_box_bottom_rebound】命中数量: 8
+2025-07-09 16:30:46,823 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_ma_convergence_start】命中数量: 11
+2025-07-09 16:30:57,334 - stock_strategy - INFO - main.py:109 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250710.csv
+2025-07-10 16:26:58,724 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 16:26，判断逻辑触发中…
+2025-07-10 16:26:58,724 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-10 16:26:58,724 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250711 =====
+2025-07-10 16:27:08,131 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_check_breakout_batch】命中数量: 1
+2025-07-10 16:27:08,818 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_top_gainers】命中数量: 34
+2025-07-10 16:27:13,874 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_plate_breakout_post_close】命中数量: 117
+2025-07-10 16:27:24,116 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_box_bottom_rebound】命中数量: 10
+2025-07-10 16:27:29,207 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_ma_convergence_start】命中数量: 9
+2025-07-10 16:27:34,365 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_macd_divergent_gold_cross】命中数量: 1
+2025-07-10 16:27:40,202 - stock_strategy - INFO - main.py:109 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250711.csv
+2025-07-11 16:24:47,784 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 16:24，判断逻辑触发中…
+2025-07-11 16:24:47,784 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-11 16:24:47,784 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250714 =====
+2025-07-11 16:24:58,161 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_top_gainers】命中数量: 52
+2025-07-11 16:25:03,651 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_plate_breakout_post_close】命中数量: 118
+2025-07-11 16:25:09,502 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_consolidation_breakout_preparation】命中数量: 1
+2025-07-11 16:25:13,245 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_box_bottom_rebound】命中数量: 8
+2025-07-11 16:25:18,969 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_ma_convergence_start】命中数量: 12
+2025-07-11 16:25:27,174 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_macd_divergent_gold_cross】命中数量: 2
+2025-07-11 16:25:32,199 - stock_strategy - INFO - main.py:109 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250714.csv
+2025-07-14 21:58:35,567 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 21:58，判断逻辑触发中…
+2025-07-14 21:58:35,568 - stock_strategy - INFO - main.py:256 - run_by_time - 🛑 当前时间不在策略运行时段内，无操作。
+2025-07-14 21:58:52,260 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 21:58，判断逻辑触发中…
+2025-07-14 21:58:52,260 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-14 21:58:52,260 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250715 =====
+2025-07-14 21:59:02,615 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_check_breakout_batch】命中数量: 4
+2025-07-14 21:59:03,313 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_top_gainers】命中数量: 31
+2025-07-14 21:59:08,425 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_plate_breakout_post_close】命中数量: 116
+2025-07-14 21:59:14,100 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_consolidation_breakout_preparation】命中数量: 1
+2025-07-14 21:59:17,790 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_box_bottom_rebound】命中数量: 6
+2025-07-14 21:59:22,760 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_ma_convergence_start】命中数量: 12
+2025-07-14 21:59:28,451 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_macd_divergent_gold_cross】命中数量: 1
+2025-07-14 21:59:33,453 - stock_strategy - INFO - main.py:109 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250715.csv
+2025-07-16 17:55:35,225 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 17:55，判断逻辑触发中…
+2025-07-16 17:55:35,225 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-16 17:55:35,226 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250717 =====
+2025-07-16 17:55:44,422 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_check_breakout_batch】命中数量: 3
+2025-07-16 17:55:45,128 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_top_gainers】命中数量: 25
+2025-07-16 17:55:51,243 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_plate_breakout_post_close】命中数量: 96
+2025-07-16 17:55:58,351 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_consolidation_breakout_preparation】命中数量: 1
+2025-07-16 17:56:02,389 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_box_bottom_rebound】命中数量: 10
+2025-07-16 17:56:07,470 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_ma_convergence_start】命中数量: 9
+2025-07-16 17:56:17,990 - stock_strategy - INFO - main.py:109 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250717.csv
+2025-07-16 21:49:39,172 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 21:49，判断逻辑触发中…
+2025-07-16 21:49:39,173 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-16 21:49:39,173 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250717 =====
+2025-07-16 21:49:49,044 - stock_strategy - INFO - main.py:60 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-16 21:50:32,001 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 21:50，判断逻辑触发中…
+2025-07-16 21:50:32,001 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-16 21:50:32,001 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250716 =====
+2025-07-16 21:50:41,170 - stock_strategy - INFO - main.py:60 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-16 21:51:00,585 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 21:51，判断逻辑触发中…
+2025-07-16 21:51:00,585 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-16 21:51:00,585 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250716 =====
+2025-07-16 21:51:05,144 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 21:51，判断逻辑触发中…
+2025-07-16 21:51:05,144 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-16 21:51:05,144 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250701 =====
+2025-07-16 21:51:13,806 - stock_strategy - INFO - main.py:60 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-16 21:51:47,850 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 21:51，判断逻辑触发中…
+2025-07-16 21:51:47,850 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-16 21:51:47,850 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250702 =====
+2025-07-16 21:51:56,455 - stock_strategy - INFO - main.py:60 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-16 21:57:01,892 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 21:57，判断逻辑触发中…
+2025-07-16 21:57:01,893 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-16 21:57:01,893 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250702 =====
+2025-07-16 21:57:01,930 - stock_strategy - ERROR - strategies.py:592 - strategy_predict_next_limit_up_advanced - 数据库查询失败: (pymysql.err.OperationalError) (1054, "Unknown column 'turnover_rate' in 'field list'")
+[SQL: 
+    SELECT ts_code, trade_date, close, pre_close, vol, amount, turnover_rate, industry
+    FROM stock_daily
+    WHERE trade_date <= %(date)s
+    ORDER BY ts_code, trade_date DESC
+    ]
+[parameters: {'date': '20250701'}]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-16 21:57:01,932 - stock_strategy - INFO - main.py:60 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-16 22:00:02,115 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 22:00，判断逻辑触发中…
+2025-07-16 22:00:02,116 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-16 22:00:02,116 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250702 =====
+2025-07-16 22:00:02,147 - stock_strategy - ERROR - strategies.py:592 - strategy_predict_next_limit_up_advanced - 数据库查询失败: (pymysql.err.OperationalError) (1054, "Unknown column 'industry' in 'field list'")
+[SQL: 
+    SELECT ts_code, trade_date, close, pre_close, vol, amount, industry
+    FROM stock_daily
+    WHERE trade_date <= %(date)s
+    ORDER BY ts_code, trade_date DESC
+    ]
+[parameters: {'date': '20250701'}]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-16 22:00:02,149 - stock_strategy - INFO - main.py:60 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-16 22:05:05,001 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 22:05，判断逻辑触发中…
+2025-07-16 22:05:05,002 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-16 22:05:05,002 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250702 =====
+2025-07-16 22:05:12,496 - stock_strategy - ERROR - main.py:57 - run_all_strategies_with_confirmation - 策略 strategy_predict_next_limit_up_advanced 运行失败: 'avg_vol_5'
+2025-07-16 22:05:12,526 - stock_strategy - INFO - main.py:60 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-16 22:05:22,848 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 22:05，判断逻辑触发中…
+2025-07-16 22:05:22,848 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-16 22:05:22,848 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250703 =====
+2025-07-16 22:05:29,353 - stock_strategy - ERROR - main.py:57 - run_all_strategies_with_confirmation - 策略 strategy_predict_next_limit_up_advanced 运行失败: 'avg_vol_5'
+2025-07-16 22:05:29,441 - stock_strategy - INFO - main.py:60 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-16 22:05:35,880 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 22:05，判断逻辑触发中…
+2025-07-16 22:05:35,880 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-16 22:05:35,880 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250704 =====
+2025-07-16 22:05:42,272 - stock_strategy - ERROR - main.py:57 - run_all_strategies_with_confirmation - 策略 strategy_predict_next_limit_up_advanced 运行失败: 'avg_vol_5'
+2025-07-16 22:05:42,327 - stock_strategy - INFO - main.py:60 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-16 22:05:50,965 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 22:05，判断逻辑触发中…
+2025-07-16 22:05:50,965 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-16 22:05:50,966 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250707 =====
+2025-07-16 22:05:57,049 - stock_strategy - ERROR - main.py:57 - run_all_strategies_with_confirmation - 策略 strategy_predict_next_limit_up_advanced 运行失败: 'avg_vol_5'
+2025-07-16 22:05:57,080 - stock_strategy - INFO - main.py:60 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-16 22:07:53,131 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 22:07，判断逻辑触发中…
+2025-07-16 22:07:53,132 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-16 22:07:53,132 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250707 =====
+2025-07-16 22:07:59,078 - stock_strategy - ERROR - main.py:57 - run_all_strategies_with_confirmation - 策略 strategy_predict_next_limit_up_advanced 运行失败: 'avg_vol_5'
+2025-07-16 22:07:59,110 - stock_strategy - INFO - main.py:60 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-16 22:09:55,277 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 22:09，判断逻辑触发中…
+2025-07-16 22:09:55,278 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-16 22:09:55,278 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250707 =====
+2025-07-16 22:10:02,946 - stock_strategy - INFO - main.py:60 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-16 22:10:13,376 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 22:10，判断逻辑触发中…
+2025-07-16 22:10:13,377 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-16 22:10:13,377 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250702 =====
+2025-07-16 22:10:20,992 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_predict_next_limit_up_advanced】命中数量: 1
+2025-07-16 22:10:21,009 - stock_strategy - INFO - main.py:109 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250702.csv
+2025-07-16 22:17:46,349 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 22:17，判断逻辑触发中…
+2025-07-16 22:17:46,349 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-16 22:17:46,349 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250623 =====
+2025-07-16 22:17:54,587 - stock_strategy - INFO - main.py:60 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-16 22:20:58,769 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 22:20，判断逻辑触发中…
+2025-07-16 22:20:58,769 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-16 22:20:58,769 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250624 =====
+2025-07-16 22:21:05,738 - stock_strategy - INFO - main.py:60 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-16 22:21:17,244 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 22:21，判断逻辑触发中…
+2025-07-16 22:21:17,244 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-16 22:21:17,244 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250625 =====
+2025-07-16 22:21:24,403 - stock_strategy - INFO - main.py:60 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-16 22:21:32,385 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 22:21，判断逻辑触发中…
+2025-07-16 22:21:32,385 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-16 22:21:32,385 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250626 =====
+2025-07-16 22:21:40,407 - stock_strategy - INFO - main.py:60 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-16 22:21:47,308 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 22:21，判断逻辑触发中…
+2025-07-16 22:21:47,308 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-16 22:21:47,308 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250627 =====
+2025-07-16 22:21:54,405 - stock_strategy - INFO - main.py:60 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-16 22:31:33,928 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 22:31，判断逻辑触发中…
+2025-07-16 22:31:33,930 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-16 22:31:33,930 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250627 =====
+2025-07-16 22:31:42,419 - stock_strategy - INFO - main.py:60 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-16 22:31:56,314 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 22:31，判断逻辑触发中…
+2025-07-16 22:31:56,315 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-16 22:31:56,315 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250626 =====
+2025-07-16 22:32:03,464 - stock_strategy - INFO - main.py:60 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-16 22:32:10,824 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 22:32，判断逻辑触发中…
+2025-07-16 22:32:10,824 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-16 22:32:10,824 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250625 =====
+2025-07-16 22:32:18,643 - stock_strategy - INFO - main.py:60 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-16 22:37:57,340 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 22:37，判断逻辑触发中…
+2025-07-16 22:37:57,341 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-16 22:37:57,341 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250625 =====
+2025-07-16 22:38:05,197 - stock_strategy - INFO - main.py:60 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-16 22:38:15,493 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 22:38，判断逻辑触发中…
+2025-07-16 22:38:15,493 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-16 22:38:15,494 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250626 =====
+2025-07-16 22:38:22,753 - stock_strategy - INFO - main.py:60 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-16 22:38:29,546 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 22:38，判断逻辑触发中…
+2025-07-16 22:38:29,546 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-16 22:38:29,546 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250627 =====
+2025-07-16 22:38:36,677 - stock_strategy - INFO - main.py:60 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-16 22:44:50,680 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 22:44，判断逻辑触发中…
+2025-07-16 22:44:50,681 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-16 22:44:50,681 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250627 =====
+2025-07-16 22:44:58,010 - stock_strategy - INFO - main.py:60 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-16 22:45:10,173 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 22:45，判断逻辑触发中…
+2025-07-16 22:45:10,174 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-16 22:45:10,174 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250626 =====
+2025-07-16 22:45:16,972 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_v_shape_ma_breakout】命中数量: 1
+2025-07-16 22:45:16,986 - stock_strategy - INFO - main.py:109 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250626.csv
+2025-07-16 22:49:05,456 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 22:49，判断逻辑触发中…
+2025-07-16 22:49:05,456 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-16 22:49:05,456 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250626 =====
+2025-07-16 22:49:12,764 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_v_shape_ma_breakout】命中数量: 1
+2025-07-16 22:49:12,778 - stock_strategy - INFO - main.py:109 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250626.csv
+2025-07-16 23:10:30,100 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 23:10，判断逻辑触发中…
+2025-07-16 23:10:30,100 - stock_strategy - INFO - main.py:257 - run_by_time - 🛑 当前时间不在策略运行时段内，无操作。
+2025-07-16 23:10:42,046 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 23:10，判断逻辑触发中…
+2025-07-16 23:10:42,046 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-16 23:10:42,046 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250626 =====
+2025-07-16 23:12:01,620 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_v_shape_ma_breakout】命中数量: 2510
+2025-07-16 23:12:01,682 - stock_strategy - INFO - main.py:109 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250626.csv
+2025-07-16 23:14:01,647 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 23:14，判断逻辑触发中…
+2025-07-16 23:14:01,648 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-16 23:14:01,648 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250717 =====
+2025-07-16 23:15:20,649 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_v_shape_ma_breakout】命中数量: 2642
+2025-07-16 23:15:20,791 - stock_strategy - INFO - main.py:109 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250717.csv
+2025-07-16 23:27:27,215 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 23:27，判断逻辑触发中…
+2025-07-16 23:27:27,216 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-16 23:27:27,216 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250717 =====
+2025-07-16 23:28:54,566 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_v_shape_ma_breakout】命中数量: 56
+2025-07-16 23:28:54,622 - stock_strategy - INFO - main.py:109 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250717.csv
+2025-07-16 23:29:58,743 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 23:29，判断逻辑触发中…
+2025-07-16 23:29:58,744 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-16 23:29:58,744 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250710 =====
+2025-07-16 23:31:21,651 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_v_shape_ma_breakout】命中数量: 56
+2025-07-16 23:31:21,728 - stock_strategy - INFO - main.py:109 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250710.csv
+2025-07-16 23:35:08,567 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 23:35，判断逻辑触发中…
+2025-07-16 23:35:08,567 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-16 23:35:08,567 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250710 =====
+2025-07-16 23:35:18,241 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 23:35，判断逻辑触发中…
+2025-07-16 23:35:18,241 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-16 23:35:18,241 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250717 =====
+2025-07-16 23:36:39,096 - stock_strategy - INFO - main.py:55 - run_all_strategies_with_confirmation - 【strategy_v_shape_ma_breakout】命中数量: 56
+2025-07-16 23:36:39,157 - stock_strategy - INFO - main.py:109 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250717.csv
+2025-07-16 23:41:38,889 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 23:41，判断逻辑触发中…
+2025-07-16 23:41:38,889 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-16 23:41:38,889 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250717 =====
+2025-07-16 23:41:49,692 - stock_strategy - INFO - main.py:60 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-16 23:42:36,234 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 23:42，判断逻辑触发中…
+2025-07-16 23:42:36,234 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-16 23:42:36,234 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250626 =====
+2025-07-16 23:42:46,475 - stock_strategy - INFO - main.py:60 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-16 23:43:18,308 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 23:43，判断逻辑触发中…
+2025-07-16 23:43:18,308 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-16 23:43:18,308 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250627 =====
+2025-07-16 23:43:28,769 - stock_strategy - INFO - main.py:60 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-16 23:54:25,017 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 23:54，判断逻辑触发中…
+2025-07-16 23:54:25,018 - stock_strategy - INFO - main.py:257 - run_by_time - 🛑 当前时间不在策略运行时段内，无操作。
+2025-07-16 23:54:49,034 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 23:54，判断逻辑触发中…
+2025-07-16 23:54:49,035 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-16 23:54:49,035 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250717 =====
+2025-07-16 23:54:59,683 - stock_strategy - INFO - main.py:60 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-16 23:55:12,060 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 23:55，判断逻辑触发中…
+2025-07-16 23:55:12,061 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-16 23:55:12,061 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250627 =====
+2025-07-16 23:55:24,493 - stock_strategy - INFO - main.py:60 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-16 23:55:48,332 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 23:55，判断逻辑触发中…
+2025-07-16 23:55:48,332 - stock_strategy - INFO - main.py:245 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-16 23:55:48,332 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250627 =====
+2025-07-16 23:55:58,653 - stock_strategy - INFO - main.py:60 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-16 23:59:47,509 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 23:59，判断逻辑触发中…
+2025-07-16 23:59:47,509 - stock_strategy - INFO - main.py:257 - run_by_time - 🛑 当前时间不在策略运行时段内，无操作。
+2025-07-17 00:00:05,446 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 00:00，判断逻辑触发中…
+2025-07-17 00:00:05,446 - stock_strategy - INFO - main.py:237 - run_by_time - 🌅 [盘前] 执行非实时选股
+2025-07-17 00:00:05,446 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250717 =====
+2025-07-17 00:00:17,305 - stock_strategy - INFO - main.py:234 - run_by_time - 
+🕒 当前时间: 00:00，判断逻辑触发中…
+2025-07-17 00:00:17,305 - stock_strategy - INFO - main.py:237 - run_by_time - 🌅 [盘前] 执行非实时选股
+2025-07-17 00:00:17,305 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250627 =====
+2025-07-17 00:00:28,532 - stock_strategy - INFO - main.py:60 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-17 00:03:21,473 - stock_strategy - INFO - main.py:231 - run_by_time - 
+🕒 当前时间: 00:03，判断逻辑触发中…
+2025-07-17 00:03:21,473 - stock_strategy - INFO - main.py:234 - run_by_time - 🌅 [盘前] 执行非实时选股
+2025-07-17 00:03:21,473 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250627 =====
+2025-07-17 00:03:32,169 - stock_strategy - INFO - main.py:57 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-17 00:03:43,730 - stock_strategy - INFO - main.py:231 - run_by_time - 
+🕒 当前时间: 00:03，判断逻辑触发中…
+2025-07-17 00:03:43,730 - stock_strategy - INFO - main.py:234 - run_by_time - 🌅 [盘前] 执行非实时选股
+2025-07-17 00:03:43,730 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250628 =====
+2025-07-17 00:03:56,640 - stock_strategy - INFO - main.py:57 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-17 00:04:12,970 - stock_strategy - INFO - main.py:232 - run_by_time - 
+🕒 当前时间: 00:04，判断逻辑触发中…
+2025-07-17 00:04:12,971 - stock_strategy - INFO - main.py:235 - run_by_time - 🌅 [盘前] 执行非实时选股
+2025-07-17 00:04:12,971 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250628 =====
+2025-07-17 00:04:24,449 - stock_strategy - INFO - main.py:49 - run_all_strategies_with_confirmation - 【strategy_v_shape_ma_breakout】命中数量: 0
+2025-07-17 00:04:24,449 - stock_strategy - INFO - main.py:58 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-17 00:04:27,116 - stock_strategy - INFO - main.py:232 - run_by_time - 
+🕒 当前时间: 00:04，判断逻辑触发中…
+2025-07-17 00:04:27,116 - stock_strategy - INFO - main.py:235 - run_by_time - 🌅 [盘前] 执行非实时选股
+2025-07-17 00:04:27,116 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250627 =====
+2025-07-17 00:04:38,237 - stock_strategy - INFO - main.py:49 - run_all_strategies_with_confirmation - 【strategy_v_shape_ma_breakout】命中数量: 0
+2025-07-17 00:04:38,238 - stock_strategy - INFO - main.py:58 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-17 00:08:02,695 - stock_strategy - INFO - main.py:232 - run_by_time - 
+🕒 当前时间: 00:08，判断逻辑触发中…
+2025-07-17 00:08:02,696 - stock_strategy - INFO - main.py:235 - run_by_time - 🌅 [盘前] 执行非实时选股
+2025-07-17 00:08:02,696 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250627 =====
+2025-07-17 00:08:14,076 - stock_strategy - INFO - main.py:49 - run_all_strategies_with_confirmation - 【strategy_v_shape_ma_breakout】命中数量: 0
+2025-07-17 00:08:14,077 - stock_strategy - INFO - main.py:58 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-17 00:09:04,200 - stock_strategy - INFO - main.py:232 - run_by_time - 
+🕒 当前时间: 00:09，判断逻辑触发中…
+2025-07-17 00:09:04,200 - stock_strategy - INFO - main.py:235 - run_by_time - 🌅 [盘前] 执行非实时选股
+2025-07-17 00:09:04,200 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250627 =====
+2025-07-17 00:10:22,941 - stock_strategy - INFO - main.py:232 - run_by_time - 
+🕒 当前时间: 00:10，判断逻辑触发中…
+2025-07-17 00:10:22,941 - stock_strategy - INFO - main.py:235 - run_by_time - 🌅 [盘前] 执行非实时选股
+2025-07-17 00:10:22,941 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250627 =====
+2025-07-17 00:11:27,538 - stock_strategy - INFO - main.py:232 - run_by_time - 
+🕒 当前时间: 00:11，判断逻辑触发中…
+2025-07-17 00:11:27,538 - stock_strategy - INFO - main.py:235 - run_by_time - 🌅 [盘前] 执行非实时选股
+2025-07-17 00:11:27,538 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 2025-06-27 =====
+2025-07-17 00:11:27,539 - stock_strategy - ERROR - main.py:55 - run_all_strategies_with_confirmation - 策略 strategy_v_shape_ma_breakout 运行失败: time data '2025-06-27' does not match format '%Y%m%d'
+2025-07-17 00:11:27,539 - stock_strategy - INFO - main.py:58 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-17 00:13:12,184 - stock_strategy - INFO - main.py:232 - run_by_time - 
+🕒 当前时间: 00:13，判断逻辑触发中…
+2025-07-17 00:13:12,184 - stock_strategy - INFO - main.py:235 - run_by_time - 🌅 [盘前] 执行非实时选股
+2025-07-17 00:13:12,184 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250627 =====
+2025-07-17 00:14:32,300 - stock_strategy - INFO - main.py:49 - run_all_strategies_with_confirmation - 【strategy_v_shape_ma_breakout】命中数量: 308
+2025-07-17 00:14:32,301 - stock_strategy - INFO - main.py:53 - run_all_strategies_with_confirmation - 【strategy_v_shape_ma_breakout】命中数量: 308
+2025-07-17 00:14:32,574 - stock_strategy - INFO - main.py:107 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250627.csv
+2025-07-17 00:15:45,598 - stock_strategy - INFO - main.py:232 - run_by_time - 
+🕒 当前时间: 00:15，判断逻辑触发中…
+2025-07-17 00:15:45,599 - stock_strategy - INFO - main.py:235 - run_by_time - 🌅 [盘前] 执行非实时选股
+2025-07-17 00:15:45,599 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250717 =====
+2025-07-17 00:17:09,273 - stock_strategy - INFO - main.py:49 - run_all_strategies_with_confirmation - 【strategy_v_shape_ma_breakout】命中数量: 591
+2025-07-17 00:17:09,274 - stock_strategy - INFO - main.py:53 - run_all_strategies_with_confirmation - 【strategy_v_shape_ma_breakout】命中数量: 591
+2025-07-17 00:17:09,589 - stock_strategy - INFO - main.py:107 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250717.csv
+2025-07-18 20:23:47,078 - stock_strategy - INFO - main.py:232 - run_by_time - 
+🕒 当前时间: 20:23，判断逻辑触发中…
+2025-07-18 20:23:47,078 - stock_strategy - INFO - main.py:244 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-18 20:23:47,078 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250627 =====
+2025-07-18 20:24:01,021 - stock_strategy - INFO - main.py:49 - run_all_strategies_with_confirmation - 【strategy_v_shape_rebound_early_detection】命中数量: 3
+2025-07-18 20:24:01,022 - stock_strategy - INFO - main.py:53 - run_all_strategies_with_confirmation - 【strategy_v_shape_rebound_early_detection】命中数量: 3
+2025-07-18 20:24:01,057 - stock_strategy - INFO - main.py:107 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250627.csv
+2025-07-18 20:27:39,129 - stock_strategy - INFO - main.py:232 - run_by_time - 
+🕒 当前时间: 20:27，判断逻辑触发中…
+2025-07-18 20:27:39,129 - stock_strategy - INFO - main.py:244 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-18 20:27:39,129 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250627 =====
+2025-07-18 20:27:46,841 - stock_strategy - ERROR - main.py:55 - run_all_strategies_with_confirmation - 策略 strategy_v_shape_rebound_early_detection 运行失败: name 'to_date8' is not defined
+2025-07-18 20:27:46,901 - stock_strategy - INFO - main.py:58 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-18 20:28:15,523 - stock_strategy - INFO - main.py:232 - run_by_time - 
+🕒 当前时间: 20:28，判断逻辑触发中…
+2025-07-18 20:28:15,523 - stock_strategy - INFO - main.py:244 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-18 20:28:15,524 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250627 =====
+2025-07-18 20:28:29,369 - stock_strategy - INFO - main.py:49 - run_all_strategies_with_confirmation - 【strategy_v_shape_rebound_early_detection】命中数量: 0
+2025-07-18 20:28:29,370 - stock_strategy - INFO - main.py:58 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-18 20:28:48,785 - stock_strategy - INFO - main.py:232 - run_by_time - 
+🕒 当前时间: 20:28，判断逻辑触发中…
+2025-07-18 20:28:48,785 - stock_strategy - INFO - main.py:244 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-18 20:28:48,785 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250626 =====
+2025-07-18 20:29:02,331 - stock_strategy - INFO - main.py:49 - run_all_strategies_with_confirmation - 【strategy_v_shape_rebound_early_detection】命中数量: 0
+2025-07-18 20:29:02,332 - stock_strategy - INFO - main.py:58 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-18 20:31:01,437 - stock_strategy - INFO - main.py:232 - run_by_time - 
+🕒 当前时间: 20:31，判断逻辑触发中…
+2025-07-18 20:31:01,437 - stock_strategy - INFO - main.py:244 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-18 20:31:01,437 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250626 =====
+2025-07-18 20:31:13,669 - stock_strategy - INFO - main.py:49 - run_all_strategies_with_confirmation - 【strategy_v_shape_rebound_early_detection】命中数量: 40
+2025-07-18 20:31:13,669 - stock_strategy - INFO - main.py:53 - run_all_strategies_with_confirmation - 【strategy_v_shape_rebound_early_detection】命中数量: 40
+2025-07-18 20:31:13,725 - stock_strategy - INFO - main.py:107 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250626.csv
+2025-07-18 20:31:45,885 - stock_strategy - INFO - main.py:232 - run_by_time - 
+🕒 当前时间: 20:31，判断逻辑触发中…
+2025-07-18 20:31:45,886 - stock_strategy - INFO - main.py:244 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-18 20:31:45,886 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250625 =====
+2025-07-18 20:31:57,922 - stock_strategy - INFO - main.py:49 - run_all_strategies_with_confirmation - 【strategy_v_shape_rebound_early_detection】命中数量: 4
+2025-07-18 20:31:57,923 - stock_strategy - INFO - main.py:53 - run_all_strategies_with_confirmation - 【strategy_v_shape_rebound_early_detection】命中数量: 4
+2025-07-18 20:31:57,951 - stock_strategy - INFO - main.py:107 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250625.csv
+2025-07-18 20:37:21,354 - stock_strategy - INFO - main.py:232 - run_by_time - 
+🕒 当前时间: 20:37，判断逻辑触发中…
+2025-07-18 20:37:21,354 - stock_strategy - INFO - main.py:244 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-18 20:37:21,354 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250625 =====
+2025-07-18 20:37:35,442 - stock_strategy - INFO - main.py:49 - run_all_strategies_with_confirmation - 【strategy_v_shape_rebound_early_detection】命中数量: 3
+2025-07-18 20:37:35,443 - stock_strategy - INFO - main.py:53 - run_all_strategies_with_confirmation - 【strategy_v_shape_rebound_early_detection】命中数量: 3
+2025-07-18 20:37:35,471 - stock_strategy - INFO - main.py:107 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250625.csv
+2025-07-18 20:39:51,834 - stock_strategy - INFO - main.py:232 - run_by_time - 
+🕒 当前时间: 20:39，判断逻辑触发中…
+2025-07-18 20:39:51,834 - stock_strategy - INFO - main.py:244 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-18 20:39:51,834 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250625 =====
+2025-07-18 20:40:05,156 - stock_strategy - INFO - main.py:49 - run_all_strategies_with_confirmation - 【strategy_v_shape_rebound_early_detection】命中数量: 0
+2025-07-18 20:40:05,156 - stock_strategy - INFO - main.py:58 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-18 20:40:15,282 - stock_strategy - INFO - main.py:232 - run_by_time - 
+🕒 当前时间: 20:40，判断逻辑触发中…
+2025-07-18 20:40:15,282 - stock_strategy - INFO - main.py:244 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-18 20:40:15,282 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250623 =====
+2025-07-18 20:40:28,060 - stock_strategy - INFO - main.py:49 - run_all_strategies_with_confirmation - 【strategy_v_shape_rebound_early_detection】命中数量: 0
+2025-07-18 20:40:28,060 - stock_strategy - INFO - main.py:58 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-18 20:40:53,611 - stock_strategy - INFO - main.py:232 - run_by_time - 
+🕒 当前时间: 20:40，判断逻辑触发中…
+2025-07-18 20:40:53,611 - stock_strategy - INFO - main.py:244 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-18 20:40:53,611 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250707 =====
+2025-07-18 20:41:05,743 - stock_strategy - INFO - main.py:49 - run_all_strategies_with_confirmation - 【strategy_v_shape_rebound_early_detection】命中数量: 0
+2025-07-18 20:41:05,743 - stock_strategy - INFO - main.py:58 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-18 20:42:51,647 - stock_strategy - INFO - main.py:232 - run_by_time - 
+🕒 当前时间: 20:42，判断逻辑触发中…
+2025-07-18 20:42:51,648 - stock_strategy - INFO - main.py:244 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-18 20:42:51,648 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250707 =====
+2025-07-18 20:43:06,957 - stock_strategy - INFO - main.py:49 - run_all_strategies_with_confirmation - 【strategy_v_shape_rebound_early_detection】命中数量: 1
+2025-07-18 20:43:06,957 - stock_strategy - INFO - main.py:53 - run_all_strategies_with_confirmation - 【strategy_v_shape_rebound_early_detection】命中数量: 1
+2025-07-18 20:44:34,313 - stock_strategy - INFO - main.py:257 - run_by_time - 
+🕒 当前时间: 20:44，判断逻辑触发中…
+2025-07-18 20:44:34,314 - stock_strategy - INFO - main.py:269 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-18 20:44:34,314 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250707 =====
+2025-07-18 20:44:47,212 - stock_strategy - INFO - main.py:49 - run_all_strategies_with_confirmation - 【strategy_v_shape_rebound_early_detection】命中数量: 1
+2025-07-18 20:44:47,214 - stock_strategy - INFO - main.py:53 - run_all_strategies_with_confirmation - 【strategy_v_shape_rebound_early_detection】命中数量: 1
+2025-07-18 20:44:47,215 - stock_strategy - INFO - main.py:81 - run_all_strategies_with_confirmation - 无股票通过确认，结束
+2025-07-18 20:45:26,209 - stock_strategy - INFO - main.py:257 - run_by_time - 
+🕒 当前时间: 20:45，判断逻辑触发中…
+2025-07-18 20:45:26,210 - stock_strategy - INFO - main.py:269 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-18 20:45:26,210 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250707 =====
+2025-07-18 20:45:39,317 - stock_strategy - INFO - main.py:49 - run_all_strategies_with_confirmation - 【strategy_v_shape_rebound_early_detection】命中数量: 1
+2025-07-18 20:45:39,317 - stock_strategy - INFO - main.py:53 - run_all_strategies_with_confirmation - 【strategy_v_shape_rebound_early_detection】命中数量: 1
+2025-07-18 20:45:55,779 - stock_strategy - INFO - main.py:240 - run_by_time - 
+🕒 当前时间: 20:45，判断逻辑触发中…
+2025-07-18 20:45:55,780 - stock_strategy - INFO - main.py:252 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-18 20:45:55,780 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250707 =====
+2025-07-18 20:46:02,171 - stock_strategy - INFO - main.py:240 - run_by_time - 
+🕒 当前时间: 20:46，判断逻辑触发中…
+2025-07-18 20:46:02,171 - stock_strategy - INFO - main.py:252 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-18 20:46:02,171 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250707 =====
+2025-07-18 20:46:14,367 - stock_strategy - INFO - main.py:49 - run_all_strategies_with_confirmation - 【strategy_v_shape_rebound_early_detection】命中数量: 1
+2025-07-18 20:46:14,367 - stock_strategy - INFO - main.py:53 - run_all_strategies_with_confirmation - 【strategy_v_shape_rebound_early_detection】命中数量: 1
+2025-07-18 20:46:48,919 - stock_strategy - INFO - main.py:254 - run_by_time - 
+🕒 当前时间: 20:46，判断逻辑触发中…
+2025-07-18 20:46:48,919 - stock_strategy - INFO - main.py:266 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-18 20:46:48,919 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250707 =====
+2025-07-18 20:47:01,463 - stock_strategy - INFO - main.py:49 - run_all_strategies_with_confirmation - 【strategy_v_shape_rebound_early_detection】命中数量: 1
+2025-07-18 20:47:01,464 - stock_strategy - INFO - main.py:53 - run_all_strategies_with_confirmation - 【strategy_v_shape_rebound_early_detection】命中数量: 1
+2025-07-18 20:47:01,468 - stock_strategy - INFO - main.py:129 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250707.csv
+2025-07-18 20:53:47,700 - stock_strategy - INFO - main.py:254 - run_by_time - 
+🕒 当前时间: 20:53，判断逻辑触发中…
+2025-07-18 20:53:47,700 - stock_strategy - INFO - main.py:266 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-18 20:53:47,700 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250624 =====
+2025-07-18 20:54:01,446 - stock_strategy - INFO - main.py:49 - run_all_strategies_with_confirmation - 【strategy_v_shape_rebound_early_detection】命中数量: 2
+2025-07-18 20:54:01,447 - stock_strategy - INFO - main.py:53 - run_all_strategies_with_confirmation - 【strategy_v_shape_rebound_early_detection】命中数量: 2
+2025-07-18 20:54:01,473 - stock_strategy - INFO - main.py:129 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250624.csv
+2025-07-18 20:55:39,386 - stock_strategy - INFO - main.py:254 - run_by_time - 
+🕒 当前时间: 20:55，判断逻辑触发中…
+2025-07-18 20:55:39,387 - stock_strategy - INFO - main.py:266 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-18 20:55:39,387 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250626 =====
+2025-07-18 20:55:53,129 - stock_strategy - INFO - main.py:49 - run_all_strategies_with_confirmation - 【strategy_v_shape_rebound_early_detection】命中数量: 61
+2025-07-18 20:55:53,130 - stock_strategy - INFO - main.py:53 - run_all_strategies_with_confirmation - 【strategy_v_shape_rebound_early_detection】命中数量: 61
+2025-07-18 20:55:53,193 - stock_strategy - INFO - main.py:129 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250626.csv
+2025-07-18 20:57:15,132 - stock_strategy - INFO - main.py:254 - run_by_time - 
+🕒 当前时间: 20:57，判断逻辑触发中…
+2025-07-18 20:57:15,132 - stock_strategy - INFO - main.py:266 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-18 20:57:15,132 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250721 =====
+2025-07-18 20:57:34,399 - stock_strategy - INFO - main.py:49 - run_all_strategies_with_confirmation - 【strategy_v_shape_rebound_early_detection】命中数量: 16
+2025-07-18 20:57:34,399 - stock_strategy - INFO - main.py:53 - run_all_strategies_with_confirmation - 【strategy_v_shape_rebound_early_detection】命中数量: 16
+2025-07-18 20:57:34,442 - stock_strategy - INFO - main.py:129 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250721.csv
+2025-07-18 21:00:20,698 - stock_strategy - INFO - main.py:254 - run_by_time - 
+🕒 当前时间: 21:00，判断逻辑触发中…
+2025-07-18 21:00:20,699 - stock_strategy - INFO - main.py:266 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-18 21:00:20,699 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250721 =====
+2025-07-18 21:00:37,874 - stock_strategy - INFO - main.py:49 - run_all_strategies_with_confirmation - 【strategy_v_shape_rebound_early_detection】命中数量: 280
+2025-07-18 21:00:37,875 - stock_strategy - INFO - main.py:53 - run_all_strategies_with_confirmation - 【strategy_v_shape_rebound_early_detection】命中数量: 280
+2025-07-18 21:00:38,260 - stock_strategy - INFO - main.py:129 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250721.csv
+2025-07-18 21:03:28,467 - stock_strategy - INFO - main.py:254 - run_by_time - 
+🕒 当前时间: 21:03，判断逻辑触发中…
+2025-07-18 21:03:28,467 - stock_strategy - INFO - main.py:266 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-18 21:03:28,467 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250626 =====
+2025-07-18 21:03:41,815 - stock_strategy - INFO - main.py:49 - run_all_strategies_with_confirmation - 【strategy_v_shape_rebound_early_detection】命中数量: 445
+2025-07-18 21:03:41,816 - stock_strategy - INFO - main.py:53 - run_all_strategies_with_confirmation - 【strategy_v_shape_rebound_early_detection】命中数量: 445
+2025-07-18 21:03:42,090 - stock_strategy - INFO - main.py:129 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250626.csv
+2025-07-21 10:02:15,826 - stock_strategy - INFO - main.py:254 - run_by_time - 
+🕒 当前时间: 10:02，判断逻辑触发中…
+2025-07-21 10:02:15,826 - stock_strategy - INFO - main.py:257 - run_by_time - 🌅 [盘前] 执行非实时选股
+2025-07-21 10:02:15,826 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250721 =====
+2025-07-21 10:02:36,102 - stock_strategy - INFO - main.py:49 - run_all_strategies_with_confirmation - 【strategy_v_shape_rebound_early_detection】命中数量: 16
+2025-07-21 10:02:36,103 - stock_strategy - INFO - main.py:53 - run_all_strategies_with_confirmation - 【strategy_v_shape_rebound_early_detection】命中数量: 16
+2025-07-21 10:02:36,145 - stock_strategy - INFO - main.py:129 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250721.csv
+2025-07-22 10:28:23,453 - stock_strategy - INFO - main.py:254 - run_by_time - 
+🕒 当前时间: 10:28，判断逻辑触发中…
+2025-07-22 10:28:23,453 - stock_strategy - INFO - main.py:257 - run_by_time - 🌅 [盘前] 执行非实时选股
+2025-07-22 10:28:23,453 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250722 =====
+2025-07-22 10:28:42,430 - stock_strategy - INFO - main.py:49 - run_all_strategies_with_confirmation - 【strategy_v_shape_rebound_early_detection】命中数量: 6
+2025-07-22 10:28:42,431 - stock_strategy - INFO - main.py:53 - run_all_strategies_with_confirmation - 【strategy_v_shape_rebound_early_detection】命中数量: 6
+2025-07-22 10:28:42,472 - stock_strategy - INFO - main.py:129 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250722.csv
+2025-07-22 16:20:11,680 - stock_strategy - INFO - main.py:254 - run_by_time - 
+🕒 当前时间: 16:20，判断逻辑触发中…
+2025-07-22 16:20:11,680 - stock_strategy - INFO - main.py:266 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-22 16:20:11,680 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250626 =====
+2025-07-22 16:20:26,721 - stock_strategy - INFO - main.py:49 - run_all_strategies_with_confirmation - 【strategy_v_shape_rebound_early_detection】命中数量: 61
+2025-07-22 16:20:26,721 - stock_strategy - INFO - main.py:53 - run_all_strategies_with_confirmation - 【strategy_v_shape_rebound_early_detection】命中数量: 61
+2025-07-22 16:20:26,794 - stock_strategy - INFO - main.py:129 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250626.csv
+2025-07-22 16:20:39,443 - stock_strategy - INFO - main.py:254 - run_by_time - 
+🕒 当前时间: 16:20，判断逻辑触发中…
+2025-07-22 16:20:39,443 - stock_strategy - INFO - main.py:266 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-22 16:20:39,443 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250723 =====
+2025-07-22 16:20:58,996 - stock_strategy - INFO - main.py:49 - run_all_strategies_with_confirmation - 【strategy_v_shape_rebound_early_detection】命中数量: 20
+2025-07-22 16:20:58,997 - stock_strategy - INFO - main.py:53 - run_all_strategies_with_confirmation - 【strategy_v_shape_rebound_early_detection】命中数量: 20
+2025-07-22 16:20:59,070 - stock_strategy - INFO - main.py:129 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250723.csv
+2025-07-23 14:46:52,831 - stock_strategy - INFO - main.py:254 - run_by_time - 
+🕒 当前时间: 14:46，判断逻辑触发中…
+2025-07-23 14:46:52,831 - stock_strategy - INFO - main.py:262 - run_by_time - 📈 [盘中] 每分钟记录股票行情，启动定时实时复审
+2025-07-23 14:46:52,831 - stock_strategy - INFO - main.py:214 - run_schedule_reconfirm - ⏳ 每一分钟执行一次实时数据下载和实时复审任务，开始监控...（交易日: 20250723）
+2025-07-23 14:58:01,079 - stock_strategy - INFO - main.py:254 - run_by_time - 
+🕒 当前时间: 14:58，判断逻辑触发中…
+2025-07-23 14:58:01,079 - stock_strategy - INFO - main.py:257 - run_by_time - 🌅 [盘前] 执行非实时选股
+2025-07-23 14:58:01,079 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250723 =====
+2025-07-23 14:58:20,973 - stock_strategy - INFO - main.py:49 - run_all_strategies_with_confirmation - 【strategy_limit_up_continuation_prediction】命中数量: 92
+2025-07-23 14:58:20,973 - stock_strategy - INFO - main.py:53 - run_all_strategies_with_confirmation - 【strategy_limit_up_continuation_prediction】命中数量: 92
+2025-07-23 14:58:21,081 - stock_strategy - INFO - main.py:129 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250723.csv
+2025-07-23 15:04:08,234 - stock_strategy - INFO - main.py:254 - run_by_time - 
+🕒 当前时间: 15:04，判断逻辑触发中…
+2025-07-23 15:04:08,235 - stock_strategy - INFO - main.py:266 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-23 15:04:08,235 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250724 =====
+2025-07-23 15:04:08,236 - stock_strategy - ERROR - main.py:55 - run_all_strategies_with_confirmation - 策略 strategy_limit_up_continuation_prediction 运行失败: time data '20250723' does not match format '%Y-%m-%d'
+2025-07-23 15:04:08,236 - stock_strategy - INFO - main.py:58 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-23 15:04:25,556 - stock_strategy - INFO - main.py:254 - run_by_time - 
+🕒 当前时间: 15:04，判断逻辑触发中…
+2025-07-23 15:04:25,556 - stock_strategy - INFO - main.py:266 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-23 15:04:25,556 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250724 =====
+2025-07-23 15:04:25,605 - stock_strategy - ERROR - strategies.py:68 - strategy_limit_up_continuation_prediction - 查询涨停股票失败: (pymysql.err.OperationalError) (1054, "Unknown column 'pct_chg' in 'where clause'")
+[SQL: 
+    SELECT DISTINCT ts_code
+    FROM stock_daily
+    WHERE trade_date = %(yesterday)s AND pct_chg >= 9.5
+    ]
+[parameters: {'yesterday': '2025-07-22'}]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-23 15:04:25,606 - stock_strategy - INFO - main.py:49 - run_all_strategies_with_confirmation - 【strategy_limit_up_continuation_prediction】命中数量: 0
+2025-07-23 15:04:25,606 - stock_strategy - INFO - main.py:58 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-23 15:07:19,867 - stock_strategy - INFO - main.py:254 - run_by_time - 
+🕒 当前时间: 15:07，判断逻辑触发中…
+2025-07-23 15:07:19,867 - stock_strategy - INFO - main.py:266 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-23 15:07:19,867 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250724 =====
+2025-07-23 15:07:20,705 - stock_strategy - INFO - strategies.py:75 - strategy_limit_up_continuation_prediction - 在 2025-07-22 找到 130 只涨停股票
+2025-07-23 15:07:20,706 - stock_strategy - ERROR - strategies.py:98 - strategy_limit_up_continuation_prediction - 数据库查询失败: not enough arguments for format string
+2025-07-23 15:07:20,707 - stock_strategy - INFO - main.py:49 - run_all_strategies_with_confirmation - 【strategy_limit_up_continuation_prediction】命中数量: 0
+2025-07-23 15:07:20,707 - stock_strategy - INFO - main.py:58 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-23 15:07:47,071 - stock_strategy - INFO - main.py:254 - run_by_time - 
+🕒 当前时间: 15:07，判断逻辑触发中…
+2025-07-23 15:07:47,071 - stock_strategy - INFO - main.py:266 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-23 15:07:47,072 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250724 =====
+2025-07-23 15:07:47,456 - stock_strategy - INFO - strategies.py:75 - strategy_limit_up_continuation_prediction - 在 2025-07-22 找到 130 只涨停股票
+2025-07-23 15:07:47,982 - stock_strategy - INFO - main.py:49 - run_all_strategies_with_confirmation - 【strategy_limit_up_continuation_prediction】命中数量: 0
+2025-07-23 15:07:47,982 - stock_strategy - INFO - main.py:58 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-23 15:10:52,642 - stock_strategy - INFO - main.py:254 - run_by_time - 
+🕒 当前时间: 15:10，判断逻辑触发中…
+2025-07-23 15:10:52,642 - stock_strategy - INFO - main.py:266 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-23 15:10:52,642 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250724 =====
+2025-07-23 15:10:53,217 - stock_strategy - INFO - strategies.py:75 - strategy_limit_up_continuation_prediction - 在 2025-07-22 找到 130 只涨停股票
+2025-07-23 15:10:53,667 - stock_strategy - INFO - main.py:49 - run_all_strategies_with_confirmation - 【strategy_limit_up_continuation_prediction】命中数量: 0
+2025-07-23 15:10:53,668 - stock_strategy - INFO - main.py:58 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-23 15:12:06,659 - stock_strategy - INFO - main.py:254 - run_by_time - 
+🕒 当前时间: 15:12，判断逻辑触发中…
+2025-07-23 15:12:06,660 - stock_strategy - INFO - main.py:266 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-23 15:12:06,660 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250724 =====
+2025-07-23 15:12:07,052 - stock_strategy - INFO - strategies.py:75 - strategy_limit_up_continuation_prediction - 在 2025-07-22 找到 130 只涨停股票
+2025-07-23 15:12:07,510 - stock_strategy - INFO - strategies.py:326 - strategy_limit_up_continuation_prediction - 涨停连板策略调试信息: {'total_limit_up_stocks': 130, 'data_insufficient': 0, 'date_mismatch': 130, 'not_limit_up_confirm': 0, 'score_too_low': 0, 'passed_all': 0}
+2025-07-23 15:12:07,511 - stock_strategy - INFO - main.py:49 - run_all_strategies_with_confirmation - 【strategy_limit_up_continuation_prediction】命中数量: 0
+2025-07-23 15:12:07,511 - stock_strategy - INFO - main.py:58 - run_all_strategies_with_confirmation - 无策略命中，结束
+2025-07-23 15:14:56,214 - stock_strategy - INFO - main.py:254 - run_by_time - 
+🕒 当前时间: 15:14，判断逻辑触发中…
+2025-07-23 15:14:56,214 - stock_strategy - INFO - main.py:266 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-23 15:14:56,214 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250724 =====
+2025-07-23 15:14:56,586 - stock_strategy - INFO - strategies.py:60 - strategy_limit_up_continuation_prediction - 在 2025-07-22 找到 130 只涨停股票
+2025-07-23 15:14:56,586 - stock_strategy - INFO - strategies.py:69 - strategy_limit_up_continuation_prediction - 在 2025-07-22 找到 63 只股价低于13元的涨停股票
+2025-07-23 15:14:56,587 - stock_strategy - INFO - main.py:49 - run_all_strategies_with_confirmation - 【strategy_limit_up_continuation_prediction】命中数量: 63
+2025-07-23 15:14:56,588 - stock_strategy - INFO - main.py:53 - run_all_strategies_with_confirmation - 【strategy_limit_up_continuation_prediction】命中数量: 63
+2025-07-23 15:14:56,643 - stock_strategy - INFO - main.py:129 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250724.csv
+2025-07-23 15:15:20,369 - stock_strategy - INFO - main.py:254 - run_by_time - 
+🕒 当前时间: 15:15，判断逻辑触发中…
+2025-07-23 15:15:20,370 - stock_strategy - INFO - main.py:266 - run_by_time - 🌇 [盘后] 执行非实时选股
+2025-07-23 15:15:20,370 - stock_strategy - INFO - main.py:41 - run_all_strategies_with_confirmation - 
+===== 执行选股和非实时买入流程: 20250723 =====
+2025-07-23 15:15:20,825 - stock_strategy - INFO - strategies.py:60 - strategy_limit_up_continuation_prediction - 在 2025-07-21 找到 157 只涨停股票
+2025-07-23 15:15:20,825 - stock_strategy - INFO - strategies.py:69 - strategy_limit_up_continuation_prediction - 在 2025-07-21 找到 69 只股价低于13元的涨停股票
+2025-07-23 15:15:20,826 - stock_strategy - INFO - main.py:49 - run_all_strategies_with_confirmation - 【strategy_limit_up_continuation_prediction】命中数量: 69
+2025-07-23 15:15:20,827 - stock_strategy - INFO - main.py:53 - run_all_strategies_with_confirmation - 【strategy_limit_up_continuation_prediction】命中数量: 69
+2025-07-23 15:15:20,881 - stock_strategy - INFO - main.py:129 - run_all_strategies_with_confirmation - 
+📁 最终确认买入股票列表，已保存为文件: confirmed_stocks/confirmed_stocks_20250723.csv

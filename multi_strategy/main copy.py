@@ -44,8 +44,8 @@ def run_all_strategies_with_confirmation(trade_date: str, need_realtime_confirm:
     for strategy_func in ALL_STRATEGIES:
         try:
             # 给策略传前一天的数据
-            # pre_work_day = get_trade_date(trade_date)
-            df = strategy_func(trade_date)
+            pre_work_day = get_trade_date(trade_date)
+            df = strategy_func(pre_work_day)
             logger.info(f"【{strategy_func.__name__}】命中数量: {len(df)}")
             if not df.empty:
                 df["strategy"] = strategy_func.__name__
@@ -64,7 +64,20 @@ def run_all_strategies_with_confirmation(trade_date: str, need_realtime_confirm:
     df_all = df_all[~df_all["ts_code"].str.startswith(("300", "688"))]
 
     # 汇总每只股票命中策略
-    df_confirmed = df_all.groupby("ts_code")["strategy"].apply(list).reset_index()
+    df_grouped = df_all.groupby("ts_code")["strategy"].apply(list).reset_index()
+
+    confirmed_list = []
+    for _, row in df_grouped.iterrows():
+        ts_code = row["ts_code"]
+        strategies = row["strategy"]
+
+        if need_realtime_confirm:
+            if confirm_buy_with_realtime(ts_code, trade_date):
+                confirmed_list.append({"ts_code": ts_code, "strategies": strategies, "strategy_count": len(strategies)})
+        else:
+            confirmed_list.append({"ts_code": ts_code, "strategies": strategies, "strategy_count": len(strategies)})
+
+    df_confirmed = pd.DataFrame(confirmed_list)
 
     # 获取实时现价和昨收
     current_prices = []
@@ -78,60 +91,20 @@ def run_all_strategies_with_confirmation(trade_date: str, need_realtime_confirm:
 
     df_confirmed["现价"] = current_prices
     df_confirmed["昨收"] = yesterday_closes
-
-    # 修复：确保strategies列存在并处理
-    if "strategies" in df_confirmed.columns:
-        df_confirmed["策略名称"] = df_confirmed["strategies"].apply(
-            lambda x: ", ".join(x) if isinstance(x, list) else str(x)
-        )
-    else:
-        # 如果没有strategies列，创建一个空的策略名称列
-        df_confirmed["策略名称"] = ""
+    df_confirmed["策略名称"] = df_confirmed["strategies"].apply(lambda x: ", ".join(x))
 
     # 准备保存文件
     df_confirmed["排序价"] = df_confirmed["现价"].fillna(df_confirmed["昨收"]).infer_objects(copy=False)
-
-    # 修复：确保ascending参数的长度与by参数匹配
-    # 只使用存在的列进行排序
-    if (
-        "排序价" in df_confirmed.columns
-        and "策略名称" in df_confirmed.columns
-        and "strategy_count" in df_confirmed.columns
-    ):
-        df_confirmed.sort_values(
-            by=["排序价", "策略名称", "strategy_count"], ascending=[True, False, False], inplace=True
-        )
-    elif "排序价" in df_confirmed.columns and "策略名称" in df_confirmed.columns:
-        df_confirmed.sort_values(by=["排序价", "策略名称"], ascending=[True, False], inplace=True)
-    elif "排序价" in df_confirmed.columns:
-        df_confirmed.sort_values(by=["排序价"], ascending=[True], inplace=True)
+    df_confirmed.sort_values(by=["排序价", "策略名称", "strategy_count"], ascending=[True, False, False], inplace=True)
 
     # 格式整理输出
     df_confirmed.rename(columns={"ts_code": "股票代码", "strategy_count": "策略数量"}, inplace=True)
-
-    # 修复：只在列存在时才删除
-    columns_to_drop = ["排序价"]
-    if "strategies" in df_confirmed.columns:
-        columns_to_drop.append("strategies")
-
-    df_confirmed.drop(columns=columns_to_drop, inplace=True)
-
-    # 确保所有必需的列都存在
-    required_columns = ["股票代码", "现价", "昨收", "策略数量", "策略名称"]
-    for col in required_columns:
-        if col not in df_confirmed.columns:
-            df_confirmed[col] = ""
-
-    df_confirmed = df_confirmed[required_columns]
+    df_confirmed.drop(columns=["strategies", "排序价"], inplace=True)
+    df_confirmed = df_confirmed[["股票代码", "现价", "昨收", "策略数量", "策略名称"]]
 
     filename = f"confirmed_stocks/confirmed_stocks_{trade_date}.csv"
     df_confirmed.to_csv(filename, index=False, encoding="utf-8-sig")
-
-    # 打印股票代码列表
-    stock_codes = df_confirmed["股票代码"].tolist()
     logger.info(f"\n📁 最终确认买入股票列表，已保存为文件: {filename}")
-    logger.info(f"📋 股票代码列表: {stock_codes}")
-    logger.info(f"🔢 共 {len(stock_codes)} 只股票")
 
 
 def save_dataframe_to_dated_folder(df: pd.DataFrame, base_dir: str = "reconfirmed_stocks"):
@@ -258,14 +231,14 @@ def run_by_time():
     # trade_date = "20250607"
     logger.info(f"\n🕒 当前时间: {now.strftime('%H:%M')}，判断逻辑触发中…")
 
-    if 000 <= current_time < 1500:
+    if 000 <= current_time < 1330:
         logger.info("🌅 [盘前] 执行非实时选股")
-        # trade_date = "20250625"
+        trade_date = "20250625"
         run_all_strategies_with_confirmation(trade_date, need_realtime_confirm=False)
 
-    # elif 930 <= current_time < 1500:
-    #     logger.info("📈 [盘中] 每分钟记录股票行情，启动定时实时复审")
-    #     run_schedule_reconfirm(trade_date)
+    elif 930 <= current_time < 1500:
+        logger.info("📈 [盘中] 每分钟记录股票行情，启动定时实时复审")
+        run_schedule_reconfirm(trade_date)
 
     elif 1500 <= current_time < 2359:
         logger.info("🌇 [盘后] 执行非实时选股")
@@ -276,7 +249,7 @@ def run_by_time():
         else:
             next_trade_date = today + timedelta(days=1)
         trade_date = next_trade_date.strftime("%Y%m%d")
-        # trade_date = "20250721"
+        trade_date = "20250707"
         run_all_strategies_with_confirmation(trade_date, need_realtime_confirm=False)
 
     else:

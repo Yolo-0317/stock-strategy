@@ -1,0 +1,78 @@
+﻿股票代码,现价,昨收,策略数量,策略名称
+001210,,15.18,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+002020,,14.93,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+002201,,7.52,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+002562,,5.42,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+002623,,20.77,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+002908,,10.76,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+301389,,31.92,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+301526,,4.14,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+600191,,8.64,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+600231,,2.06,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+600267,,10.65,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+600423,,3.71,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+600475,,12.57,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+600571,,18.54,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+601208,,10.66,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+603676,,12.68,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+605162,,8.54,2,"strategy_top_gainers, strategy_plate_breakout_post_close"
+000037,,9.6,1,strategy_top_gainers
+000710,,14.65,1,strategy_top_gainers
+001359,,36.81,1,strategy_top_gainers
+002015,,13.8,1,strategy_top_gainers
+002558,,25.14,1,strategy_top_gainers
+002755,,18.04,1,strategy_top_gainers
+301002,,22.5,1,strategy_top_gainers
+301024,,58.1,1,strategy_top_gainers
+301197,,23.09,1,strategy_top_gainers
+301317,,33.36,1,strategy_top_gainers
+430090,,10.95,1,strategy_top_gainers
+600119,,8.62,1,strategy_top_gainers
+600645,,25.87,1,strategy_top_gainers
+000559,,8.14,1,strategy_plate_breakout_post_close
+000756,,16.18,1,strategy_plate_breakout_post_close
+002305,,2.28,1,strategy_plate_breakout_post_close
+002768,,29.38,1,strategy_plate_breakout_post_close
+002913,,34.79,1,strategy_plate_breakout_post_close
+003036,,16.72,1,strategy_plate_breakout_post_close
+301469,,28.35,1,strategy_plate_breakout_post_close
+600104,,17.06,1,strategy_plate_breakout_post_close
+600149,,5.53,1,strategy_plate_breakout_post_close
+600182,,16.75,1,strategy_plate_breakout_post_close
+600537,,3.64,1,strategy_plate_breakout_post_close
+601199,,5.63,1,strategy_plate_breakout_post_close
+601222,,5.96,1,strategy_plate_breakout_post_close
+601519,,11.1,1,strategy_plate_breakout_post_close
+601965,,18.75,1,strategy_plate_breakout_post_close
+603138,,15.19,1,strategy_plate_breakout_post_close
+603213,,12.0,1,strategy_plate_breakout_post_close
+603256,,18.41,1,strategy_plate_breakout_post_close
+603601,,5.06,1,strategy_plate_breakout_post_close
+603776,,22.53,1,strategy_plate_breakout_post_close
+605011,,24.19,1,strategy_plate_breakout_post_close
+835305,,16.33,1,strategy_plate_breakout_post_close
+870299,,22.87,1,strategy_plate_breakout_post_close
+002714,,43.73,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+600660,,58.13,2,"strategy_ma_convergence_start, strategy_macd_divergent_gold_cross"
+000333,,73.48,1,strategy_ma_convergence_start
+002001,,21.8,1,strategy_ma_convergence_start
+002270,,16.94,1,strategy_ma_convergence_start
+002739,,11.31,1,strategy_ma_convergence_start
+600609,,5.28,1,strategy_ma_convergence_start
+601126,,16.42,1,strategy_ma_convergence_start
+603103,,16.26,1,strategy_ma_convergence_start
+603202,,97.84,1,strategy_ma_convergence_start
+603619,,20.0,1,strategy_ma_convergence_start
+689009,,60.6,1,strategy_ma_convergence_start
+603529,,36.72,1,strategy_consolidation_breakout_preparation
+000670,,8.33,3,"strategy_check_breakout_batch, strategy_top_gainers, strategy_plate_breakout_post_close"
+002130,,24.31,2,"strategy_check_breakout_batch, strategy_top_gainers"
+603636,,12.73,1,strategy_check_breakout_batch
+000596,,134.19,1,strategy_box_bottom_rebound
+000975,,18.92,1,strategy_box_bottom_rebound
+002215,,10.34,1,strategy_box_bottom_rebound
+002595,,59.1,1,strategy_box_bottom_rebound
+600989,,16.01,1,strategy_box_bottom_rebound
+603337,,35.5,1,strategy_box_bottom_rebound
+603816,,24.27,1,strategy_box_bottom_rebound
+605499,,309.35,1,strategy_box_bottom_rebound
